@@ -860,7 +860,10 @@ def main():
     codes = build_catalog(); build_course_pages(codes)
     build_library(); build_about(); build_admissions(); build_404()
     build_content_pages(); write_redirects()
-    (OUT / "robots.txt").write_text("User-agent: *\nDisallow: /\n" if SITE.get("concept") else "User-agent: *\nAllow: /\n")
+    # Crawlers may fetch everything, so link-preview bots (Facebook, WhatsApp, LinkedIn, X, Slack) can read
+    # the preview cards. While this is a concept, search engines are kept out by the noindex meta tag and
+    # the X-Robots-Tag header instead; they must be able to fetch a page to see that instruction.
+    (OUT / "robots.txt").write_text("User-agent: *\nAllow: /\n")
     n = sum(1 for _ in OUT.rglob("*.html"))
     print(f"Built {n} pages for {len(PROGRAMS)} programs, {len(codes)} courses, {len(LIB)} library resources -> {OUT}")
 
