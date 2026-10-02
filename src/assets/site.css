@@ -297,6 +297,55 @@ p { margin: 0 0 1em; }
 .table-plain th { font: 700 .72rem var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 .note-box { background: var(--accent-soft); border: 1px solid #ead2cc; border-radius: 8px; padding: 16px 18px; font-size: .95rem; color: var(--ink-2); }
 
+/* Pathways */
+.paths { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+@media (max-width: 960px) { .paths { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 620px) { .paths { grid-template-columns: 1fr; } }
+.path { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 22px; display: flex; flex-direction: column; }
+.path h3 { font-size: 1.35rem; margin-bottom: .25em; }
+.path > p { color: var(--muted); font-size: .95rem; margin-bottom: 14px; }
+.path ul { list-style: none; margin: auto 0 0; padding: 0; display: grid; gap: 8px; }
+.path a { display: block; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; text-decoration: none; color: var(--ink); transition: border-color .15s, background .15s; }
+.path a:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--ink); }
+.path a strong { display: block; font-size: .95rem; color: var(--accent); }
+.path a span { display: block; font-size: .85rem; color: var(--muted); }
+
+/* Credit areas */
+.areas { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.areas li { display: grid; grid-template-columns: 200px 1fr 90px; gap: 14px; align-items: center; font-size: .95rem; }
+.a-bar { height: 10px; background: var(--sunk); border-radius: 999px; overflow: hidden; }
+.a-bar span { display: block; height: 100%; background: var(--accent); border-radius: 999px; }
+.a-cr { text-align: right; font-weight: 600; font-variant-numeric: tabular-nums; }
+.a-cr small { font-weight: 400; color: var(--muted); }
+@media (max-width: 560px) { .areas li { grid-template-columns: 1fr auto; } .a-bar { grid-column: 1 / -1; grid-row: 2; } }
+
+/* Checklist */
+.checklist { padding-top: 32px; padding-bottom: 64px; }
+.checklist table { width: 100%; border-collapse: collapse; background: var(--surface); font-size: .92rem; }
+.checklist th { text-align: left; font: 700 .72rem var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); border-bottom: 2px solid var(--ink); padding: 8px; }
+.checklist td { border-bottom: 1px solid var(--line-strong); padding: 10px 8px; vertical-align: top; }
+.checklist .c { text-align: center; width: 70px; }
+.checklist .blank { width: 110px; }
+.checklist tr.grp td { font: 700 .78rem var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--gold); background: var(--sunk); }
+.tasks { list-style: none; margin: 6px 0 0; padding: 0; display: grid; gap: 3px; font-size: .86rem; color: var(--ink-2); }
+.tasks li { display: flex; gap: 8px; align-items: baseline; }
+.box { flex: none; width: 11px; height: 11px; border: 1.5px solid var(--ink-2); border-radius: 2px; transform: translateY(1px); }
+.reqs { font-size: .95rem; margin-bottom: 18px; }
+.checklist h2 { font-size: 1.4rem; margin-top: 28px; }
+.print-head { display: none; }
+.fields { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-bottom: 22px; }
+.fields span { border-bottom: 1px solid var(--ink-2); padding-top: 18px; font-size: .78rem; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; }
+.src { font-size: .82rem; }
+@media (max-width: 640px) { .checklist .blank { width: 54px; } .fields { grid-template-columns: 1fr; } }
+@media print {
+  .no-print, .concept { display: none !important; }
+  body { background: #fff; font-size: 11pt; }
+  .checklist { padding: 0; max-width: none; }
+  .print-head { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #000; padding-bottom: 8px; margin-bottom: 12px; }
+  .print-head img { height: 30px; width: auto; }
+  .checklist tr { break-inside: avoid; }
+}
+
 /* CTA band + footer */
 .cta { background: var(--accent); color: #fff; }
 .cta .wrap { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding-top: 52px; padding-bottom: 52px; flex-wrap: wrap; }
