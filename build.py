@@ -587,7 +587,6 @@ def build_program(p):
       </div>
       <p class="muted" style="margin-top:10px;font-size:.88rem">Totals are added up from the program guide; a few items list no length, so the real load is slightly higher.</p>
     </section>
-    <section id="areas"><h2>Credit hours by subject</h2>{credit_areas(p)}</section>
     <section id="admission"><h2>Admission</h2>
       <p><strong>Requirement:</strong> {e(p.get('admission'))}</p>{restricted}
       <p>Every applicant must also be a communing member in good standing of a local church, present a letter of recommendation from a church officer, and propose a qualified mentor. <a href="/admissions/">Full admission requirements</a>.</p>
@@ -609,7 +608,7 @@ def build_program(p):
       <small><a href="{e(ask_link('Question about the ' + p['name']))}">Ask a question about this program</a></small>
     </div>
     <nav class="panel toc" aria-label="On this page"><h3>On this page</h3><ol>
-      <li><a href="#overview">Overview</a></li><li><a href="#areas">By subject</a></li><li><a href="#admission">Admission</a></li>
+      <li><a href="#overview">Overview</a></li><li><a href="#admission">Admission</a></li>
       <li><a href="#requirements">Requirements</a></li><li><a href="#curriculum">Curriculum</a></li><li><a href="#guide">Program guide</a></li></ol></nav>
   </aside>
 </div>"""
