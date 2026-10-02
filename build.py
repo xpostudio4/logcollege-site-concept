@@ -186,7 +186,7 @@ def group_of(href):
             return g
     return None
 
-def page(title, body, active=None, desc=None):
+def page(title, body, active=None, desc=None, og=None):
     cur_group = group_of(active) if active else None
     if active and active.startswith("/programs/") or (active or "").startswith("/courses/"):
         cur_group = "Programs"
@@ -207,6 +207,18 @@ def page(title, body, active=None, desc=None):
 <meta name="description" content="{e(desc or SITE['tagline'])}">
 <meta name="theme-color" content="#7a1f24">
 {'<meta name="robots" content="noindex, nofollow">' if SITE.get("concept") else ""}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{e(SITE['name'])}">
+<meta property="og:title" content="{e(title)}">
+<meta property="og:description" content="{e(desc or SITE['tagline'])}">
+<meta property="og:url" content="{e(SITE['base_url'])}__PATH__">
+<meta property="og:image" content="{e(SITE['base_url'])}/assets/og/{og or 'default'}.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{e(title)}: The Log College &amp; Seminary, with an engraving of the original Log College building">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{e(SITE['base_url'])}/assets/og/{og or 'default'}.png">
+<link rel="canonical" href="{e(SITE['base_url'])}__PATH__">
 <link rel="icon" href="/assets/favicon.png">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -268,6 +280,8 @@ def crumbs(*parts):
     return "".join(out)
 
 def write(rel, html):
+    url_path = "/" + rel.replace("index.html", "")
+    html = html.replace("__PATH__", url_path)
     path = OUT / rel
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(html)
@@ -612,7 +626,7 @@ def build_program(p):
       <li><a href="#requirements">Requirements</a></li><li><a href="#curriculum">Curriculum</a></li><li><a href="#guide">Program guide</a></li></ol></nav>
   </aside>
 </div>"""
-    write(f"programs/{p['slug']}/index.html", page(p["name"], body, active="/programs/", desc=p["summary"]))
+    write(f"programs/{p['slug']}/index.html", page(p["name"], body, active="/programs/", desc=p["summary"], og=p["slug"]))
 
 
 def build_catalog():

@@ -204,5 +204,6 @@
     }
   ],
   "concept": true,
-  "official_url": "https://logcollege.net"
+  "official_url": "https://logcollege.net",
+  "base_url": "https://logcollege-concept.netlify.app"
 }
