@@ -1,0 +1,2233 @@
+{
+  "slug": "ats",
+  "name": "Associate of Theological Studies",
+  "credit_hours": 60,
+  "admission": "High School Diploma or GED",
+  "requirements": [
+    "Complete the Comprehensive Final Exam",
+    "All written assignments should follow current MLA formatting.",
+    "All numbered assignments (lecture outlines/notes, summaries, chapter summaries, papers, etc.) must be submitted to your mentor for grading.",
+    "Please report any broken links to info@logcollege.net"
+  ],
+  "course_list": [
+    {
+      "code": "BS100",
+      "title": "Bible Study Skills",
+      "credits": 2,
+      "group": null
+    },
+    {
+      "code": "BS111",
+      "title": "Introduction to the Old Testament",
+      "credits": 2,
+      "group": null
+    },
+    {
+      "code": "BS121",
+      "title": "Introduction to the New Testament",
+      "credits": 2,
+      "group": null
+    },
+    {
+      "code": "TH111",
+      "title": "Introduction to Theology",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH112",
+      "title": "The Doctrine of Scripture",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "TH113",
+      "title": "The Doctrine of God",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH114",
+      "title": "The Doctrine of Sin",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH115",
+      "title": "The Doctrine of Salvation",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "TH116",
+      "title": "The Doctrine of the Eternal State",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH117",
+      "title": "The Doctrine of the Church",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "TH205",
+      "title": "The Apostles' Creed",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS205",
+      "title": "Life and Teachings of Jesus",
+      "credits": 2,
+      "group": null
+    },
+    {
+      "code": "PT201",
+      "title": "The Christian Life",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "PT202",
+      "title": "Spiritual Warfare",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PT203",
+      "title": "The Doctrine of Prayer",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS210",
+      "title": "Biblical Geography",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS211",
+      "title": "Manners and Customs of Bible Times",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "CH203",
+      "title": "Heroes of the Faith",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "CH205",
+      "title": "Introduction to the Puritans",
+      "credits": 2,
+      "group": null
+    },
+    {
+      "code": "PT205",
+      "title": "Pilgrim's Progress",
+      "credits": 3,
+      "group": null
+    }
+  ],
+  "courses": [
+    {
+      "code": "BS100",
+      "title": "Bible Study Skills",
+      "credits": 2,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Why Study the Bible?",
+              "by": "Dr. R.C. Sproul",
+              "extent": "27 min",
+              "minutes": 27,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/knowing-scripture/why-study-the-bible/?"
+            },
+            {
+              "title": "How to Study the Bible (video)",
+              "by": "Dr. R.C. Sproul",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/watch?v=cRmWSB1c6L8"
+            },
+            {
+              "title": "Personal Worship and Bible Study",
+              "by": "Dr. Harry Reeder",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=111152030432"
+            },
+            {
+              "title": "Basics of Christian Life: Bible Study",
+              "by": "Jerry Bridges",
+              "extent": "38 min",
+              "minutes": 38,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1DkS_2vy0UF5jKzHIk1eq4wz28nTUfjLJ/view?usp=sharing"
+            },
+            {
+              "title": "How to Read the Bible",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=926121712269"
+            },
+            {
+              "title": "How to Get the Most from Reading Your Bible 1 and 2",
+              "by": "Scott W. Kay",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=enjoygrace&keyword=Effectively+Reading+Your+Bible&keyworddesc=Effectively+Reading+Your+Bible"
+            },
+            {
+              "title": "Reading and Studying the Bible for Life 1-3",
+              "by": "Gordon Fee",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1wHfDd5H0pzOgDXFHOcr4Lrd9Pm61sNYc?usp=sharing"
+            },
+            {
+              "title": "How to Study the Bible Biblically",
+              "by": "Joe Morecraft III",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/sermoninfo.asp?SID=124111431588"
+            },
+            {
+              "title": "How to Study Your Bible 1-9",
+              "by": "Dr. George Guthrie",
+              "extent": "6 h",
+              "minutes": 360,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1Rs71dxVbcvFydQUAyAJOi7LEflXL597d?usp=sharing"
+            },
+            {
+              "title": "How to Study the Bible",
+              "by": "Scott W. Kay",
+              "extent": "12 h",
+              "minutes": 720,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=How+to+Study+the+Bible&keywordDesc=How+to+Study+the+Bible&SeriesOnly=true&SourceID=enjoygrace&AudioOnly=false"
+            },
+            {
+              "title": "How NOT to Study the Bible",
+              "by": "Dr. Curt Daniel",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=91409155471"
+            }
+          ],
+          "total": "27 hours"
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Read Psalm 119 and list all the various benefits of reading/studying God's Word as presented in the Psalm.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "The Bible and the Closet",
+              "by": "Thomas Watson",
+              "extent": "33 pp.",
+              "minutes": null,
+              "pages": 33,
+              "note": null,
+              "url": "https://archive.org/details/bibleclosetorhow00wats"
+            },
+            {
+              "title": "Bible Reading",
+              "by": "J.C. Ryle",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1suEkitJGBEdy5KdGjZJTRz1kSipvispm/view?usp=sharing"
+            },
+            {
+              "title": "Rules for Understanding the Scriptures of the Old and New Testament (pp. 20-26 of The Self-Interpreting Bible)",
+              "by": "John Brown of Haddington",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://books.google.com/books?id=rGZAAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+            },
+            {
+              "title": "A Guide to Bible Study",
+              "by": "Harvey Newcomb",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.gracegems.org/27/Newcimbe%20guide_to_bible_study.htm"
+            },
+            {
+              "title": "20 Tips on How to use Bible Commentaries",
+              "by": "Dr. David Murray",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://headhearthand.org/blog/2012/03/07/how-to-use-bible-commentaries/"
+            },
+            {
+              "title": "Using Extra-Biblical Resources",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1MerPXvWWhuXDOrvx_4e5sSORTJkahszL/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Bible Handbook: Part I, Chapters 8-10",
+              "by": "Joseph Angus",
+              "extent": "204 pp.",
+              "minutes": null,
+              "pages": 204,
+              "note": null,
+              "url": "https://archive.org/details/thebiblehandbook00anguuoft"
+            },
+            {
+              "title": "A Practical Method of Bible Study for Ordinary Christians",
+              "by": "Denis Haack",
+              "extent": "82 pp.",
+              "minutes": null,
+              "pages": 82,
+              "note": null,
+              "url": "http://ransomfellowship.org/wp-content/uploads/2016/10/RF_eBook_0001_rev.pdf"
+            }
+          ],
+          "total": "319 pages"
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Review:",
+          "items": [
+            {
+              "title": "M'Cheyne's Bible Reading Plan",
+              "by": "Robert Murray M'Cheyne",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1UhahA7K6bSMoBk_wkujp5JcGjRi6xmNL/view?usp=drive_link"
+            },
+            {
+              "title": "Scripture Union Bible Reading Start Up Guide",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1A7_2HzGxAP4uczZp8hdWiWynbI4ug5vl/view?usp=drive_link"
+            },
+            {
+              "title": "Best Free Study Tools",
+              "by": "Jacob Gerber",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://freedailybiblestudy.com/5-of-the-best-free-bible-study-tools/"
+            },
+            {
+              "title": "Maps and Geography in Biblical Studies",
+              "by": "Tyndale Tech",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://tyndaletech.blogspot.com/2008/04/maps-geography-in-biblical-studies.html"
+            },
+            {
+              "title": "Bible Study Resources",
+              "by": "Bryan College",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://library.bryan.edu/christian-studies-subject-guide/bible-study-resources"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Complete a 5 page inductive Bible study on a selected passage of Scripture.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 6,
+          "type": "assignment",
+          "instruction": "Write a 5 page paper outlining an effective method for personal Bible study.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS111",
+      "title": "Introduction to the Old Testament",
+      "credits": 2,
+      "scripture_reading": "Genesis - Malachi (reading should parallel Dust to Glory lectures)",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Unlocking the Bible Old Testament Lectures (5 in all)",
+              "by": "David Jackman",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1O-dT7Yuw5ilB3e-bY_meXFWqU29DgMG3?usp=sharing"
+            },
+            {
+              "title": "Dust to Glory 1-30",
+              "by": "Dr. R.C. Sproul",
+              "extent": "13.5 h",
+              "minutes": 810,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1hNecbsoM72C_RKed7E6f09ilnvyRREfJ/view?usp=sharing"
+            }
+          ],
+          "total": "17.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide section summaries:",
+          "items": [
+            {
+              "title": "The Bible Handbook: Part II, pp. 379-596",
+              "by": "Joseph Angus",
+              "extent": "217 pp.",
+              "minutes": null,
+              "pages": 217,
+              "note": null,
+              "url": "https://archive.org/details/thebiblehandbook00anguuoft"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and complete the questions at the end of each lesson:",
+          "items": [
+            {
+              "title": "A Brief Bible History: A Survey of the Old and New Testaments pp 1-54",
+              "by": "Boyd and Machen",
+              "extent": "54 pp.",
+              "minutes": null,
+              "pages": 54,
+              "note": null,
+              "url": "https://archive.org/details/briefbiblehistor00boyd"
+            }
+          ],
+          "total": "271 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write an introduction for each Old Testament book.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS121",
+      "title": "Introduction to the New Testament",
+      "credits": 2,
+      "scripture_reading": "Matthew - Revelation (reading should parallel Dust to Glory lectures)",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Unlocking the Bible New Testament Lectures (3 in all)",
+              "by": "David Jackman",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1WofQ7P-B5JrcuPC3tpEVFDY7qiZl1xTz?usp=sharing"
+            },
+            {
+              "title": "Dust to Glory 31-57",
+              "by": "Dr. R.C. Sproul",
+              "extent": "12 h",
+              "minutes": 720,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1s-OmiQrxwIN6mpR9fKNFiuvuOVGXTuUc/view?usp=sharing"
+            }
+          ],
+          "total": "14.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide section summaries:",
+          "items": [
+            {
+              "title": "The Bible Handbook: Part II, pp. 597-770",
+              "by": "Joseph Angus",
+              "extent": "173 pp.",
+              "minutes": null,
+              "pages": 173,
+              "note": null,
+              "url": "https://archive.org/details/thebiblehandbook00anguuoft"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and complete the questions at the end of each lesson:",
+          "items": [
+            {
+              "title": "A Brief Bible History: A Survey of the Old and New Testaments pp. 55-128",
+              "by": "Boyd and Machen",
+              "extent": "73 pp.",
+              "minutes": null,
+              "pages": 73,
+              "note": null,
+              "url": "https://archive.org/details/briefbiblehistor00boyd"
+            }
+          ],
+          "total": "246 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write an introduction for each New Testament book.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH111",
+      "title": "Introduction to Theology",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Foundations 1-60",
+              "by": "Dr. R.C. Sproul",
+              "extent": "26 h",
+              "minutes": 1560,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/playlist?list=PL3DiYQjbW-NO2COmPYtVZ0DQRcM3LsHrr"
+            }
+          ],
+          "total": "26 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and answer the review questions for each chapter:",
+          "items": [
+            {
+              "title": "Summary of Christian Doctrine",
+              "by": "Louis Berkhof",
+              "extent": "180 pp.",
+              "minutes": null,
+              "pages": 180,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1wia-e5jJn4HnuvYpVsC8XEwwXujCePk_/view?usp=sharing"
+            },
+            {
+              "title": "The System of Theology Contained in the Westminster Shorter Catechism Opened and Explained",
+              "by": "A.A. Hodge",
+              "extent": "210 pp.",
+              "minutes": null,
+              "pages": 210,
+              "note": "questions at end of book",
+              "url": "https://drive.google.com/file/d/1qWP1a6V4hbj08Qt22bZABKHYzhfx9wRT/view?usp=sharing"
+            }
+          ],
+          "total": "390 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a doctrine of interest covered in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH112",
+      "title": "The Doctrine of Scripture",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Reformed Doctrine of Scripture",
+              "by": "Dr. Curt Daniel",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=83004152849"
+            },
+            {
+              "title": "Thus Says the Lord 1-16",
+              "by": "Dr. R.C. Sproul",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://learn.ligonier.org/series/thus-says-the-lord"
+            },
+            {
+              "title": "God and His Word 1-15",
+              "by": "Dr. Michael Williams",
+              "extent": "18.5 h",
+              "minutes": 1110,
+              "pages": null,
+              "note": "create free account to access lectures",
+              "url": "https://resources.covenantseminary.edu/programs/god-his-word?categoryId=106866&permalink=god-his-word-lecture-1"
+            },
+            {
+              "title": "Trustworthy Word of God 1-4",
+              "by": "Dr. Daniel Doriani",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": "create free account to access lectures",
+              "url": "https://drive.google.com/drive/folders/1-ykF6LJB71TwDdZkKyfjImSJq_oQOzIP?usp=sharing"
+            }
+          ],
+          "total": "28 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Bible Handbook - Part I, Chapters 1-7",
+              "by": "Joseph Angus",
+              "extent": "175 pp.",
+              "minutes": null,
+              "pages": 175,
+              "note": null,
+              "url": "https://archive.org/details/thebiblehandbook00anguuoft"
+            },
+            {
+              "title": "Theopneustia",
+              "by": "L. Gaussen",
+              "extent": "422 pp.",
+              "minutes": null,
+              "pages": 422,
+              "note": null,
+              "url": "https://archive.org/details/theopneustiabibl00gaus"
+            }
+          ],
+          "total": "597 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH113",
+      "title": "The Doctrine of God",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Doctrine of God 1-20",
+              "by": "Dr. J.I. Packer",
+              "extent": "18 h",
+              "minutes": 1080,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1MA_4SFCc0mZPOONt_9D9M0PiepACGD_A/view?usp=sharing"
+            },
+            {
+              "title": "Character and Attributes of God 1-18",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "16 h",
+              "minutes": 960,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/legacy/mt/mp3/character-and-attributes-god-sinclair-ferguson-mp3-series"
+            },
+            {
+              "title": "The Trinity: Father, Son, and Holy Spirit",
+              "by": "Prof. John Mackay",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": "printed as [1.5] without unit; read as hours",
+              "url": "http://www.christian.org.uk/resource/trinity-father-son-and-holy-spirit/"
+            },
+            {
+              "title": "The Mystery of the Trinity 1-6",
+              "by": "Dr. R.C. Sproul",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/mystery-of-the-trinity/"
+            }
+          ],
+          "total": "37.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Attributes of God",
+              "by": "W. Wilson",
+              "extent": "405 pp.",
+              "minutes": null,
+              "pages": 405,
+              "note": null,
+              "url": "https://archive.org/details/attributesgodas00wishgoog"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "The Trinity",
+              "by": "Loraine Boettner",
+              "extent": "42 pp.",
+              "minutes": null,
+              "pages": 42,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1W48o8BltWYP7OMLVYk90_VtFRlGtE3dp/view?usp=sharing"
+            }
+          ],
+          "total": "447 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH114",
+      "title": "The Doctrine of Sin",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Doctrine of Man and Sin 1-20",
+              "by": "Dr. Roger Nicole",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1k51ctxoNtCdX9M8vc9vMXYy9glnrIznp?usp=sharing"
+            },
+            {
+              "title": "Humanity, Christ, and Redemption 1-13",
+              "by": "Dr. Robert Peterson",
+              "extent": "8.5 h",
+              "minutes": 510,
+              "pages": null,
+              "note": "create free account to access lectures",
+              "url": "https://www.covenantseminary.edu/resources/humanity-christ-and-redemption/"
+            },
+            {
+              "title": "The Origin of Sin",
+              "by": "Dr. Curt Daniel",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=83004133442"
+            },
+            {
+              "title": "Original Sin",
+              "by": "Dr. Curt Daniel",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=83004134037"
+            }
+          ],
+          "total": "25.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Way of Life pp. 9-134",
+              "by": "Charles Hodge",
+              "extent": "125 pp.",
+              "minutes": null,
+              "pages": 125,
+              "note": null,
+              "url": "https://archive.org/details/wayoflife00hodg"
+            },
+            {
+              "title": "The Sinfulness of Sin",
+              "by": "Ralph Venning",
+              "extent": "162 pp.",
+              "minutes": null,
+              "pages": 162,
+              "note": null,
+              "url": "http://www.preachtheword.com/bookstore/sinfulness.pdf"
+            },
+            {
+              "title": "Of the Mortification of Sin in Believers",
+              "by": "John Owen",
+              "extent": "175 pp.",
+              "minutes": null,
+              "pages": 175,
+              "note": null,
+              "url": "https://archive.org/details/ontemptationmort00owenuoft"
+            }
+          ],
+          "total": "462 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course materials",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH115",
+      "title": "The Doctrine of Salvation",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Doctrine of Salvation 1-24",
+              "by": "Dr. Roger Nicole",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1WxlT9Mn8dwRaQreCpQ5AasXAAEklc3Yx?usp=sharing"
+            },
+            {
+              "title": "Humanity, Christ, and Redemption 14-38",
+              "by": "Dr. Robert Peterson",
+              "extent": "16 h",
+              "minutes": 960,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/humanity-christ-and-redemption/"
+            },
+            {
+              "title": "Understanding the Gospel 1-12",
+              "by": "Dr. RC Sproul",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://learn.ligonier.org/series/understanding-the-gospel"
+            },
+            {
+              "title": "The Atonement of Jesus 1-10",
+              "by": "Dr. RC Sproul",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "https://learn.ligonier.org/series/atonement-of-jesus"
+            },
+            {
+              "title": "The Cross of Christ 1-6",
+              "by": "Dr. RC Sproul",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "https://learn.ligonier.org/series/cross-of-christ"
+            }
+          ],
+          "total": "43.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Treatise on Justification by Faith",
+              "by": "Archibald Alexander",
+              "extent": "50 pp.",
+              "minutes": null,
+              "pages": 50,
+              "note": null,
+              "url": "http://babel.hathitrust.org/cgi/pt?id=njp.32101023276726;view=1up;seq=7"
+            },
+            {
+              "title": "The Way of Life pp. 135-244",
+              "by": "Charles Hodge",
+              "extent": "109 pp.",
+              "minutes": null,
+              "pages": 109,
+              "note": null,
+              "url": "https://archive.org/details/wayoflife00hodg"
+            },
+            {
+              "title": "God's Way of Peace",
+              "by": "Horatius Bonar",
+              "extent": "226 pp.",
+              "minutes": null,
+              "pages": 226,
+              "note": null,
+              "url": "https://archive.org/details/godswayofpeacebobona"
+            },
+            {
+              "title": "The Everlasting Righteousness",
+              "by": "Horatius Bonar",
+              "extent": "249 pp.",
+              "minutes": null,
+              "pages": 249,
+              "note": null,
+              "url": "https://archive.org/details/everlastingrigh00bonagoog"
+            }
+          ],
+          "total": "634"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course materials.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH116",
+      "title": "The Doctrine of the Eternal State",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Heaven 1-5",
+              "by": "Dr. Curt Daniel",
+              "extent": "14 h",
+              "minutes": 840,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/heaven/"
+            },
+            {
+              "title": "Heaven",
+              "by": "Dr. R.C. Sproul",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=Heaven+and+Hell&keywordDesc=Heaven+and+Hell&SeriesOnly=true&SourceID=faithbible&AudioOnly=false"
+            },
+            {
+              "title": "Hell 1-5",
+              "by": "Dr. R.C. Sproul",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/hell/"
+            },
+            {
+              "title": "Reality of Eternal Punishment 1-4",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=reality+of+eternal+punishment"
+            }
+          ],
+          "total": "21 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Four Last Things: Death, Judgment, Heaven, and Hell",
+              "by": "William Bates",
+              "extent": "451 pp.",
+              "minutes": null,
+              "pages": 451,
+              "note": null,
+              "url": "https://archive.org/details/fourlastthingsd00bategoog"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper defending the doctrine of eternal punishment.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH117",
+      "title": "The Doctrine of the Church",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Ecclesiology",
+              "by": "Dr. Ryan McGraw",
+              "extent": "38 h",
+              "minutes": 2280,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=Ecclesiology&keywordDesc=Ecclesiology&SeriesOnly=true&SourceID=grace5550&AudioOnly=false"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Scripture Doctrine of the Church",
+              "by": "D. Douglas Bannerman",
+              "extent": "628 pp.",
+              "minutes": null,
+              "pages": 628,
+              "note": null,
+              "url": "https://archive.org/details/scripturedoctrin00bann"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH205",
+      "title": "The Apostles' Creed",
+      "credits": 3,
+      "scripture_reading": "The Apostles' Creed",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Apostles' Creed 1-10",
+              "by": "Dr. R.C. Sproul",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/index.html?mainframe=http://www.reformed.org/documents/apostles_creed.html"
+            },
+            {
+              "title": "The Apostles' Creed for Today 1-11",
+              "by": "Dr. Derek Thomas",
+              "extent": "6 h",
+              "minutes": 360,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=The+Apostle%27s+Creed+for+Today&keywordDesc=The+Apostle%27s+Creed+for+Today&SeriesOnly=true&SourceID=fpccolumbia&AudioOnly=false"
+            },
+            {
+              "title": "The Apostles' Creed 1-18",
+              "by": "Dr. John DeWitt",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=The+Apostles%27+Creed&keywordDesc=The+Apostles%27+Creed&SeriesOnly=true&SourceID=gpts&AudioOnly=false"
+            },
+            {
+              "title": "The Apostles' Creed 1-12",
+              "by": "IIIM",
+              "extent": "18 h",
+              "minutes": 1080,
+              "pages": null,
+              "note": null,
+              "url": "http://reformedseminary.org/course.asp/vs/apc"
+            },
+            {
+              "title": "Ancient Creeds in the Modern World",
+              "by": "Prof. John Mackay",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/ancient-creeds-in-the-modern-world/"
+            }
+          ],
+          "total": "38.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Exposition of the Apostles' Creed",
+              "by": "James Dodds",
+              "extent": "106 pp.",
+              "minutes": null,
+              "pages": 106,
+              "note": null,
+              "url": "https://books.google.com/books/about/Exposition_of_the_Apostles_Creed.html?id=RXtHAAAAYAAJ"
+            },
+            {
+              "title": "The Apostles' Creed",
+              "by": "David James Burrell",
+              "extent": "266 pp.",
+              "minutes": null,
+              "pages": 266,
+              "note": null,
+              "url": "https://archive.org/details/apostlescre00burr"
+            }
+          ],
+          "total": "372 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page commentary on the Apostles' Creed.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS205",
+      "title": "Life and Teachings of Jesus",
+      "credits": 2,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Life and Teachings of Jesus 1-38",
+              "by": "Dr. Dan Doriani",
+              "extent": "28.5 h",
+              "minutes": 1710,
+              "pages": null,
+              "note": "create a free account to access the lectures",
+              "url": "https://drive.google.com/file/d/1665GqsT9jU2Hg4EB8rJjXItEqy1mS3o_/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Life of Jesus Christ",
+              "by": "James Stalker",
+              "extent": "265 pp.",
+              "minutes": null,
+              "pages": 265,
+              "note": null,
+              "url": "https://archive.org/details/lifejesuschrist03stalgoog"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT201",
+      "title": "The Christian Life",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Keeping in Step with the Spirit 1-20",
+              "by": "Dr. R.C. Sproul",
+              "extent": "6.5 h",
+              "minutes": 390,
+              "pages": null,
+              "note": null,
+              "url": "https://learn.ligonier.org/series/keeping-in-step-with-the-spirit"
+            },
+            {
+              "title": "Doctrine of the Christian Life 1-36",
+              "by": "Dr. Peter Lillback",
+              "extent": "28 h",
+              "minutes": 1680,
+              "pages": null,
+              "note": "lectures 31 and 32 are not available",
+              "url": "https://drive.google.com/file/d/1pBV5LsTQwI7zmI21YZSrFY1GkO9fus3b/view?usp=sharing"
+            },
+            {
+              "title": "Seven Pillars of the Christian Life",
+              "by": "Dr. Robert Knudsen",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/rk106-2-copyright.mp3"
+            }
+          ],
+          "total": "35 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Follow the Lamb",
+              "by": "Horatius Bonar",
+              "extent": "128 pp.",
+              "minutes": null,
+              "pages": 128,
+              "note": null,
+              "url": "https://archive.org/details/followlamborcou00bonagoog"
+            },
+            {
+              "title": "Practical Religion",
+              "by": "J.C. Ryle",
+              "extent": "522 pp.",
+              "minutes": null,
+              "pages": 522,
+              "note": null,
+              "url": "https://archive.org/details/practicalreligio00ryle"
+            }
+          ],
+          "total": "650 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper summarizing the key elements of the Christian Life.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT202",
+      "title": "Spiritual Warfare",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Pleasing God 1-6",
+              "by": "Dr. R.C. Sproul",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/pleasing-god/"
+            },
+            {
+              "title": "Spiritual Warfare 1-5",
+              "by": "Eric Alexander",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.monergism.com/legacy/mt/mp3/spiritual-warfare-mp3-series-eric-alexander"
+            },
+            {
+              "title": "Spiritual Warfare: Battle for Holiness",
+              "by": "Jerry Bridges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/-2f1b6faf-0445-4325-8872-a658ef512f11"
+            },
+            {
+              "title": "Help in Daily Battle",
+              "by": "Jerry Bridges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/help-in-daily-battle"
+            },
+            {
+              "title": "Prayer: Warfare of the Christian",
+              "by": "Jerry Bridges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/prayer-warfare-of-a-christian"
+            },
+            {
+              "title": "Spiritual Warfare 1-4",
+              "by": "John Miller",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "http://www.wts.edu/resources/media.html?paramType=search&keywords=spiritual+warfare&speaker=71&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Winning the War Within",
+              "by": "Jay Adams",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/winning-the-war-within"
+            },
+            {
+              "title": "Power Encounters: Reclaiming Spiritual Warfare 1",
+              "by": "Dr. David Powlison",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1trgHcemxb7tPt2jv9f0Np6Bu9UGYGLkt/view?usp=sharing"
+            },
+            {
+              "title": "Power Encounters: Reclaiming Spiritual Warfare 2",
+              "by": "Dr. David Powlison",
+              "extent": "1 h 6 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1AsRII3GCd3DaA4kvPqeghtLaYilJyyBC/view?usp=sharing"
+            }
+          ],
+          "total": "14 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Christian Warrior: Wrestling with Sin, Satan, the World, and the Flesh",
+              "by": "Isaac Ambrose",
+              "extent": "177 pp.",
+              "minutes": null,
+              "pages": 177,
+              "note": null,
+              "url": "https://archive.org/details/christianwarrio00ambrgoog"
+            },
+            {
+              "title": "Precious Remedies Against Satan's Devices",
+              "by": "Thomas Brooks",
+              "extent": "278 pp.",
+              "minutes": null,
+              "pages": 278,
+              "note": null,
+              "url": "https://archive.org/details/preciousremedies00broo"
+            },
+            {
+              "title": "On Temptation",
+              "by": "John Owen",
+              "extent": "116 pp.",
+              "minutes": null,
+              "pages": 116,
+              "note": null,
+              "url": "https://archive.org/details/ontemptationmort00owenuoft"
+            }
+          ],
+          "total": "571 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper outlining the principles of spiritual warfare.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT203",
+      "title": "The Doctrine of Prayer",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Prayer",
+              "by": "Trevor Archer",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/prayer/"
+            },
+            {
+              "title": "Prayer 1-8",
+              "by": "G.I. Williamson",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1Ks12BTFsAA7CSN5YV9D_ykxsRnuJFPzS?usp=sharing"
+            },
+            {
+              "title": "The Doctrine of Prayer 1-7; 9-17",
+              "by": "Dr. Edmund Clowney et al.",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/open?id=1IhJvbGWJiQqJVGaQEmBuZBA34GU0eFC1"
+            },
+            {
+              "title": "The Lord's Prayer 1-9",
+              "by": "John Blanchard",
+              "extent": "6.5 h",
+              "minutes": 390,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1NQ4_RN_lW1tqqdtXdoGtOncU3pi3StYx?usp=sharing"
+            },
+            {
+              "title": "Prayer and the Sovereignty of God",
+              "by": "Dr. Curt Daniel",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=83004132039"
+            }
+          ],
+          "total": "28 hours"
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "View and summarize:",
+          "items": [
+            {
+              "title": "The Role of Prayer in Spiritual Awakening",
+              "by": "J. Edwin Orr",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/watch?v=FW9Bb5tkOO4"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Discourses on Prayer",
+              "by": "Thomas Boston",
+              "extent": "177 pp.",
+              "minutes": null,
+              "pages": 177,
+              "note": null,
+              "url": "https://thepuritans2.files.wordpress.com/2011/03/thomasbostonvolume11.pdf"
+            },
+            {
+              "title": "The Lord's Prayer",
+              "by": "Thomas Watson",
+              "extent": "289 pp.",
+              "minutes": null,
+              "pages": 289,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Watson,%20Thomas/The%20Lord's%20Prayer.pdf"
+            },
+            {
+              "title": "Vital Prayer",
+              "by": null,
+              "extent": "48 pp.",
+              "minutes": null,
+              "pages": 48,
+              "note": null,
+              "url": "http://www.chapellibrary.org/files/5313/7643/3399/vprafg.pdf"
+            }
+          ],
+          "total": "514 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on the doctrine of prayer.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS210",
+      "title": "Biblical Geography",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Biblical Geography Basics 1-10",
+              "by": "Dr. John Beck",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "https://christianuniversity.org/lessons/what-is-geography/?course=courses%2Fbiblical-geography-basics"
+            },
+            {
+              "title": "The Geography of the Old Testament",
+              "by": "Ian Brown",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=32062357"
+            },
+            {
+              "title": "The Geography of the New Testament",
+              "by": "Ian Brown",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=9290622106"
+            },
+            {
+              "title": "Historical Geography of Israel 1-6 (Video)",
+              "by": "Drs. Perry and Elaine Phillips",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://biblicalelearning.org/introductory-languages/intro-to-historical-geography/"
+            },
+            {
+              "title": "The Holy Land: Northern Sites 1-14 (Video)",
+              "by": "Dr. John Currid and Andrew Hoffecker",
+              "extent": "4.5 h",
+              "minutes": 270,
+              "pages": null,
+              "note": "create free iTunes account and download free iTunes software to access lectures",
+              "url": "https://itunes.apple.com/us/itunes-u/the-holy-land-northern-sites/id381771741?mt=10"
+            },
+            {
+              "title": "The Holy Land: Jerusalem 1-4 (Video)",
+              "by": "Dr. John Currid and Andrew Hoffecker",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/the-holy-land-jerusalem/id381772474?mt=10"
+            },
+            {
+              "title": "The Holy Land: Southern Sites 1-4 (Video)",
+              "by": "Dr. John Currid and Andrew Hoffecker",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/the-holy-land-southern-sites/id381773540?mt=10"
+            }
+          ],
+          "total": "15.5 hours"
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Review:",
+          "items": [
+            {
+              "title": "Maps and Geography in Biblical Studies",
+              "by": "Tyndale Tech",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://tyndaletech.blogspot.com/2008/04/maps-geography-in-biblical-studies.html"
+            },
+            {
+              "title": "Bible Atlas",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.openbible.info/geo/atlas/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Where was the Garden of Eden Located?",
+              "by": "Ken Ham",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://answersingenesis.org/genesis/garden-of-eden/where-was-the-garden-of-eden-located/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Geography of the Bible",
+              "by": "J.W. Alexander and J.A. Alexander",
+              "extent": "198 pp.",
+              "minutes": null,
+              "pages": 198,
+              "note": null,
+              "url": "https://archive.org/details/geographyofbible00alex"
+            },
+            {
+              "title": "Palestine: It's Historical Geography",
+              "by": "Archibald Henderson",
+              "extent": "246 pp.",
+              "minutes": null,
+              "pages": 246,
+              "note": null,
+              "url": "https://archive.org/details/palestineitshist19hend"
+            }
+          ],
+          "total": "444"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a Biblical place or city of interest.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS211",
+      "title": "Manners and Customs of Bible Times",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Jewish Culture and Customs",
+              "by": "Dr. Joseph Harris",
+              "extent": "11.5 h",
+              "minutes": 690,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/open?id=1EMet81yEK7XtZcYz7QKr_TevqkXtmAtc"
+            },
+            {
+              "title": "Biblical Archaeology 1-39",
+              "by": "Dr. Johannes G. Vos",
+              "extent": "29 h",
+              "minutes": 1740,
+              "pages": null,
+              "note": "earphones suggested",
+              "url": "https://drive.google.com/drive/folders/117stUNLcA65t5fhwiD6L3FbN2p2NNqvS?usp=sharing"
+            },
+            {
+              "title": "Lecture Transcripts",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "aid to above Vos lectures - revision in progress",
+              "url": "https://drive.google.com/drive/folders/1RXDNrWsgnj2sLXRKmQN-pBoM3qFGPAHg?usp=drive_link"
+            },
+            {
+              "title": "W. Harold Mare Archaeology Lectures 1-6",
+              "by": "Dr. John Currid et al.",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/mare-archaeology-lectures/"
+            }
+          ],
+          "total": "45.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Bible Manners and Customs",
+              "by": "G.M. Mackie",
+              "extent": "202 pp.",
+              "minutes": null,
+              "pages": 202,
+              "note": null,
+              "url": "https://archive.org/details/biblemannerscust00mack"
+            },
+            {
+              "title": "Biblical Archaeology",
+              "by": "Louis Berkhof",
+              "extent": "182 pp.",
+              "minutes": null,
+              "pages": 182,
+              "note": null,
+              "url": "https://archive.org/details/MN41642ucmf_1"
+            }
+          ],
+          "total": "384 pages"
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Jewish Laws and Types (pp. 26-37 of The Self-Interpreting Bible)",
+              "by": "John Brown",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://books.google.com/books?id=rGZAAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+            },
+            {
+              "title": "Does Archaeology Support the Bible?",
+              "by": "Clifford Wilson",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "The New Answers Book, Ch. 25",
+              "url": "https://answersingenesis.org/archaeology/does-archaeology-support-the-bible/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH203",
+      "title": "Heroes of the Faith",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Heroes of the Christian Faith 1-10",
+              "by": "Dr. R.C. Sproul",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "https://learn.ligonier.org/series/heroes-of-the-christian-faith"
+            },
+            {
+              "title": "Heroes of the Faith 1-9",
+              "by": "Dr. W. Robert Godfrey",
+              "extent": "6.5 h",
+              "minutes": 390,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=Heroes+of+the+Faith&keyworddesc=Heroes+of+the+Faith"
+            },
+            {
+              "title": "John Chrysostom",
+              "by": "Andrew Davis",
+              "extent": "61 min",
+              "minutes": 61,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12513111602295"
+            },
+            {
+              "title": "Bernard of Clairvaux",
+              "by": "Andrew Davis",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12513111725115"
+            },
+            {
+              "title": "John Wycliffe",
+              "by": "Dr. Alan Cairns",
+              "extent": "59 min",
+              "minutes": 59,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=4745"
+            },
+            {
+              "title": "John Huss",
+              "by": "Ian Brown",
+              "extent": "48 min",
+              "minutes": 48,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=7515715532"
+            },
+            {
+              "title": "William Tyndale",
+              "by": "Brian Edwards",
+              "extent": "1 h 27 min",
+              "minutes": 87,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/william-tyndale/"
+            },
+            {
+              "title": "The Life of Tyndale",
+              "by": "Iain Murray",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sg-audiotreasures.org/singular/01im_tyndale32kbs.mp3"
+            },
+            {
+              "title": "Ulrich Zwingli",
+              "by": "Dr. Alan Cairns",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=4428"
+            },
+            {
+              "title": "John Knox",
+              "by": "Iain Murray",
+              "extent": "63 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=111102215059"
+            },
+            {
+              "title": "John Bunyan",
+              "by": "Geoff Thomas",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=2120813302"
+            },
+            {
+              "title": "George Whitefield",
+              "by": "Dr. Carl Trueman",
+              "extent": "40 min",
+              "minutes": 40,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/2014-11-12-ctrueman-whitefield-copyright.mp3"
+            },
+            {
+              "title": "John Newton 1 and 2",
+              "by": "Iain Murray",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=Life+of+John+Newton&keyworddesc=Life+of+John+Newton"
+            },
+            {
+              "title": "Charles Simeon",
+              "by": "John Piper",
+              "extent": "1 h 24 min",
+              "minutes": 84,
+              "pages": null,
+              "note": null,
+              "url": "http://ia802308.us.archive.org/20/items/MenOfWhomTheWorldWasNotWorthy/02_simeon.mp3"
+            },
+            {
+              "title": "Thomas Chalmers",
+              "by": "William Macleod",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/thomas-chalmers/"
+            },
+            {
+              "title": "The Life of C.H. Spurgeon",
+              "by": "Iain Murray",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sg-audiotreasures.org/singular/im_spurgeon.mp3"
+            }
+          ],
+          "total": "24 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Heroes of the Church",
+              "by": "Park Hays Miller",
+              "extent": "84 pp.",
+              "minutes": null,
+              "pages": 84,
+              "note": null,
+              "url": "https://archive.org/details/heroesofchurch00mill"
+            },
+            {
+              "title": "Champions of the Truth",
+              "by": "William Blaikie",
+              "extent": "526 pp.",
+              "minutes": null,
+              "pages": 526,
+              "note": null,
+              "url": "https://archive.org/details/championsofthetr00blaiuoft"
+            }
+          ],
+          "total": "610 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on the life of one of the Christian leaders presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH205",
+      "title": "Introduction to the Puritans",
+      "credits": 2,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Puritans",
+              "by": "Dr. Curt Daniel",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=8300412329"
+            },
+            {
+              "title": "Who Are the Puritans? 1-18",
+              "by": "Dr. Matthew McMahon",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1-Zu4WPWb7rdnNDKnBoP4bu3g6zthNUy_?usp=sharing"
+            },
+            {
+              "title": "The Puritan Worldview",
+              "by": "Dr. Joel Beeke",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/16Z_fDwXM-yB-E-yw5LyDHQVhdlrdH_Gx/view?usp=sharing"
+            }
+          ],
+          "total": "17 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and Provide Chapter Summaries:",
+          "items": [
+            {
+              "title": "The English Puritans",
+              "by": "John Brown",
+              "extent": "180 pp.",
+              "minutes": null,
+              "pages": 180,
+              "note": null,
+              "url": "https://archive.org/details/englishpuritans00browiala"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 5 page paper summarizing the Puritan movement.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 5 page paper on the life of one of the Puritans presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT205",
+      "title": "Pilgrim's Progress",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "John Bunyan and the Pilgrim's Progress",
+              "by": "Jeremy Walker",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1215082950"
+            },
+            {
+              "title": "Pilgrim's Progress Part 1 Lectures 1-15",
+              "by": "Dr. Derek Thomas",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/series/12436?sort=oldest"
+            },
+            {
+              "title": "Pilgrim's Progress Part 2 Lectures 1-9",
+              "by": "Dr. Derek Thomas",
+              "extent": "6 h 21 min",
+              "minutes": 381,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/series/12441?sort=oldest"
+            },
+            {
+              "title": "Pilgrim's Progress 1-3",
+              "by": "Dr. Derek Thomas",
+              "extent": "2 h 31 min",
+              "minutes": 151,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1mFLf__iCIlaeC6WbKS4QbQp5mapOQa4f?usp=sharing"
+            }
+          ],
+          "total": "19.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Pilgrim's Progress Parts 1 and 2",
+              "by": null,
+              "extent": "402 pp.",
+              "minutes": null,
+              "pages": 402,
+              "note": null,
+              "url": "https://archive.org/details/bunyanspilgrims00moffgoog"
+            },
+            {
+              "title": "Pictures from Pilgrim's Progress",
+              "by": "Charles Spurgeon",
+              "extent": "131 pp.",
+              "minutes": null,
+              "pages": 131,
+              "note": null,
+              "url": "http://grace-ebooks.com/library/Charles%20Spurgeon/CHS_Pictures%20From%20Pilgrims%20Progress.PDF"
+            }
+          ],
+          "total": "533 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Create a map of Christian's journey that includes both places and persons encountered.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a chosen section of Pilgrim's Progress and show specifically how that section relates to the Christian life/experience.",
+          "items": [],
+          "total": null
+        }
+      ]
+    }
+  ]
+}

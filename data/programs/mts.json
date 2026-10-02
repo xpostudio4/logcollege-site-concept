@@ -1,0 +1,1802 @@
+{
+  "slug": "mts",
+  "name": "Master of Theological Studies",
+  "credit_hours": 61,
+  "admission": "Bachelor degree (in any field) or equivalent; 40 hours maximum transfer credit allowed.",
+  "requirements": [
+    "Complete the Comprehensive Final Exam",
+    "All written assignments (with the exception of the thesis) should follow current MLA formatting.",
+    "All numbered assignments (lecture outlines/notes, summaries, chapter summaries, papers, etc.) must be submitted to your mentor for grading.",
+    "Please report any broken links to info@logcollege.net"
+  ],
+  "course_list": [
+    {
+      "code": "TH531",
+      "title": "Systematic Theology I",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "TH532",
+      "title": "Systematic Theology II",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "TH533",
+      "title": "Systematic Theology III",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "TH534",
+      "title": "Covenant Theology",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH620",
+      "title": "The Westminster Standards",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS502",
+      "title": "Hermeneutics",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS531",
+      "title": "Old Testament History and Theology",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "BS541",
+      "title": "New Testament History and Theology",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "CH520",
+      "title": "History of the Church",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH625",
+      "title": "Biblical Ethics",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "AP600",
+      "title": "Apologetics",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "PH600",
+      "title": "Survey of Philosophy and Worldview Studies",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PT505",
+      "title": "Evangelism and Missions",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS690",
+      "title": "Master's Thesis",
+      "credits": 6,
+      "group": null
+    }
+  ],
+  "courses": [
+    {
+      "code": "TH531",
+      "title": "Systematic Theology I",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Systematic Theology I",
+              "by": "Dr. Douglas Kelly",
+              "extent": "27 h",
+              "minutes": 1620,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/open?id=1W0ubQMjJlWZx5mwNkaE_hSYF2QHJ6Y0I"
+            },
+            {
+              "title": "School of Theology 1-25",
+              "by": "Dr. Derek Thomas",
+              "extent": "23 h",
+              "minutes": 1380,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=School+of+Theology&keywordDesc=School+of+Theology&SeriesOnly=true&SourceID=fpccolumbia&AudioOnly=false"
+            }
+          ],
+          "total": "50 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Compendious View of Natural and Revealed Religion pp 1-191",
+              "by": "John Brown of Haddington",
+              "extent": "191 pp.",
+              "minutes": null,
+              "pages": 191,
+              "note": null,
+              "url": "https://archive.org/details/compendiousviewo00bro"
+            },
+            {
+              "title": "Systematic Theology Vol. 1",
+              "by": "Charles Hodge",
+              "extent": "648 pp.",
+              "minutes": null,
+              "pages": 648,
+              "note": null,
+              "url": "https://archive.org/details/systematictheolo01hodg"
+            },
+            {
+              "title": "Systematic Theology Vol 2, pp 1-122",
+              "by": "Charles Hodge",
+              "extent": "122 pp.",
+              "minutes": null,
+              "pages": 122,
+              "note": null,
+              "url": "https://archive.org/details/systematicth02hodg"
+            },
+            {
+              "title": "Dogmatic Theology Vol 1",
+              "by": "W.G.T. Shedd",
+              "extent": "546 pp.",
+              "minutes": null,
+              "pages": 546,
+              "note": null,
+              "url": "https://archive.org/details/dogmatictheology01sheduoft"
+            },
+            {
+              "title": "Dogmatic Theology Vol. 2, pp. 3-147",
+              "by": "W.G.T. Shedd",
+              "extent": "144 pp.",
+              "minutes": null,
+              "pages": 144,
+              "note": null,
+              "url": "https://archive.org/details/dogmatictheology02sheduoft"
+            },
+            {
+              "title": "Systematic Theology Lec. 1-26",
+              "by": "R.L. Dabney",
+              "extent": "305 pp.",
+              "minutes": null,
+              "pages": 305,
+              "note": null,
+              "url": "https://archive.org/details/syllabusnotesofc00dabn"
+            }
+          ],
+          "total": "1965 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper comparing and contrasting the views of Brown, Hodge, Shedd, and Dabney on the subjects addressed in the course lectures.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH532",
+      "title": "Systematic Theology II",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Systematic Theology II",
+              "by": "Dr. Douglas Kelly",
+              "extent": "25 h",
+              "minutes": 1500,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/open?id=1W0ubQMjJlWZx5mwNkaE_hSYF2QHJ6Y0I"
+            },
+            {
+              "title": "School of Theology 26-67; 79-96",
+              "by": "Dr. Derek Thomas",
+              "extent": "47.5 h",
+              "minutes": 2850,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=School+of+Theology&keywordDesc=School+of+Theology&SeriesOnly=true&SourceID=fpccolumbia&AudioOnly=false"
+            },
+            {
+              "title": "Predestination 1-10",
+              "by": "Dr. R.C. Sproul",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/predestination/"
+            },
+            {
+              "title": "Justification by Faith Alone 1-15",
+              "by": "Dr. R.C. Sproul",
+              "extent": "5.5 h",
+              "minutes": 330,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/justification_by_faith_alone/"
+            },
+            {
+              "title": "The New Perspective on Paul 1-3",
+              "by": "Dr. D.A. Carson",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1HxSmQZfvUk-pDK9cXq8YKa5o61YepCjC?usp=sharing"
+            },
+            {
+              "title": "Postmillennialism and Revelation 20",
+              "by": "David Silversides",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=9130414633"
+            }
+          ],
+          "total": "85.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Compendious View of Natural and Revealed Religion pp. 192-517",
+              "by": "John Brown of Haddington",
+              "extent": "325 pp.",
+              "minutes": null,
+              "pages": 325,
+              "note": null,
+              "url": "https://archive.org/details/compendiousviewo00bro"
+            },
+            {
+              "title": "Systematic Theology Vol. 2, pp. 123-732",
+              "by": "Charles Hodge",
+              "extent": "609 pp.",
+              "minutes": null,
+              "pages": 609,
+              "note": null,
+              "url": "https://archive.org/details/systematicth02hodg"
+            },
+            {
+              "title": "Systematic Theology Vol. 3, pp. 1-465, 713-880",
+              "by": "Charles Hodge",
+              "extent": "632 pp.",
+              "minutes": null,
+              "pages": 632,
+              "note": null,
+              "url": "https://archive.org/details/systematictheolo03hodg"
+            },
+            {
+              "title": "Dogmatic Theology Vol. 2, pp. 148-754",
+              "by": "W.G.T. Shedd",
+              "extent": "606 pp.",
+              "minutes": null,
+              "pages": 606,
+              "note": null,
+              "url": "https://archive.org/details/dogmatictheology02sheduoft"
+            },
+            {
+              "title": "Systematic Theology Lec. 27-59; 69-72",
+              "by": "R.L. Dabney",
+              "extent": "452 pp.",
+              "minutes": null,
+              "pages": 452,
+              "note": null,
+              "url": "https://archive.org/details/syllabusnotesofc00dabn"
+            }
+          ],
+          "total": "2624 pages"
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "What's Wrong with Wright: Examining the New Perspective on Paul",
+              "by": "Phil Johnson",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/articles/whats-wrong-wright-examining-new-perspective-paul/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper comparing and contrasting the views of Brown, Hodge, Shedd, and Dabney on the subjects addressed in the course lectures.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH533",
+      "title": "Systematic Theology III",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Systematic Theology III",
+              "by": "Dr. Douglas Kelly",
+              "extent": "16 h",
+              "minutes": 960,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/open?id=1W0ubQMjJlWZx5mwNkaE_hSYF2QHJ6Y0I"
+            },
+            {
+              "title": "School of Theology 68-78",
+              "by": "Dr. Derek Thomas",
+              "extent": "8 h",
+              "minutes": 480,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=School+of+Theology&keywordDesc=School+of+Theology&SeriesOnly=true&SourceID=fpccolumbia&AudioOnly=false"
+            },
+            {
+              "title": "Lectures on the Church 1-15",
+              "by": "Dr. Edmund Clowney",
+              "extent": "15.5 h",
+              "minutes": 930,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/open?id=1epoiKUYepfBR83rGFkXJA8gV2Upsb5xT"
+            },
+            {
+              "title": "Church and State 1-7",
+              "by": "R.C. Sproul",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "https://www.ligonier.org/learn/series/church-and-state"
+            }
+          ],
+          "total": "42 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Compendious View of Natural and Revealed Religion pp. 517-576",
+              "by": "John Brown of Haddington",
+              "extent": "59 pp.",
+              "minutes": null,
+              "pages": 59,
+              "note": null,
+              "url": "https://archive.org/details/compendiousviewo00bro"
+            },
+            {
+              "title": "Systematic Theology Vol. 3, pp. 466-712",
+              "by": "Charles Hodge",
+              "extent": "246 pp.",
+              "minutes": null,
+              "pages": 246,
+              "note": null,
+              "url": "https://archive.org/details/systematictheolo03hodg"
+            },
+            {
+              "title": "Systematic Theology Lec. 60-68",
+              "by": "R.L. Dabney",
+              "extent": "104 pp.",
+              "minutes": null,
+              "pages": 104,
+              "note": null,
+              "url": "https://archive.org/details/syllabusnotesofc00dabn"
+            },
+            {
+              "title": "Which is the Apostolic Church?",
+              "by": "Thomas Witherow",
+              "extent": "140 pp.",
+              "minutes": null,
+              "pages": 140,
+              "note": null,
+              "url": "https://archive.org/details/whichisapostolic00with",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://archive.org/details/churchofchristtr01bann"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://archive.org/details/churchofchristtr02bann"
+                }
+              ]
+            },
+            {
+              "title": "The Church of Christ Vol. 1 and 2",
+              "by": "James Bannerman",
+              "extent": "1000 pp.",
+              "minutes": null,
+              "pages": 1000,
+              "note": null
+            },
+            {
+              "title": "Infant Baptism",
+              "by": "Samuel Miller",
+              "extent": "158 pp.",
+              "minutes": null,
+              "pages": 158,
+              "note": null,
+              "url": "https://archive.org/details/infantbaptismscr00mi"
+            }
+          ],
+          "total": "1707 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper comparing and contrasting the views of Brown, Hodge, and Dabney on the subjects addressed in this course.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH534",
+      "title": "Covenant Theology",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Covenant Theology 1-22",
+              "by": "Dr. Stephen Myers",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/covenant-theology-23-part-lecture-series"
+            },
+            {
+              "title": "Covenant Theology 1-4",
+              "by": "Dr. O Palmer Robertson",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/covenant-theology-mp3-series"
+            },
+            {
+              "title": "On the Covenants 1-6",
+              "by": "Dr. O Palmer Robertson",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/covenant-theology-mp3-series"
+            },
+            {
+              "title": "The Old Testament in the New 1-6",
+              "by": "Dr. O. Palmer Robertson",
+              "extent": "5.5 h",
+              "minutes": 330,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=The+Old+Testament+in+the+New&keyworddesc=The+Old+Testament+in+the+New"
+            },
+            {
+              "title": "The Promissory Land Covenant in the New Testament",
+              "by": "Dr. Bruce Waltke",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/bw061_copyright.mp3"
+            },
+            {
+              "title": "The Temple, the Land, and Paradise Restored",
+              "by": "Dr. John Mackay",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/the-temple-the-land-and-paradise-restored/"
+            },
+            {
+              "title": "Dispensationalism Refuted 1-10",
+              "by": "Dr. Michael Barrett",
+              "extent": "7 h",
+              "minutes": 420,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=faith&keyword=Refuting+Dispensationalism&keyworddesc=Refuting+Dispensationalism"
+            },
+            {
+              "title": "Covenant Theology and the Preacher: How Covenant Theology Helps You Preach the Gospel",
+              "by": "Dr. Ligon Duncan",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=8230794547"
+            },
+            {
+              "title": "Church and Covenant Theology",
+              "by": "Dr. Morton Smith",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=2180471237"
+            }
+          ],
+          "total": "45 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Treatise on the Covenant of Grace",
+              "by": "John Colquhoun",
+              "extent": "556 pp.",
+              "minutes": null,
+              "pages": 556,
+              "note": null,
+              "url": "https://archive.org/download/treatiseoncovena00colq_0/treatiseoncovena00colq_0.pdf"
+            },
+            {
+              "title": "A History of the Work of Redemption, pp. 1-302",
+              "by": "Jonathan Edwards",
+              "extent": "302 pp.",
+              "minutes": null,
+              "pages": 302,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1w-k3vT-NwFW9EWK00ZfRSMJpkQZGhELi/view?usp=sharing"
+            },
+            {
+              "title": "Christ in all the Scriptures",
+              "by": "A.M. Hodgkin",
+              "extent": "272 pp.",
+              "minutes": null,
+              "pages": 272,
+              "note": null,
+              "url": "https://archive.org/details/christinallscrip00hodguoft"
+            }
+          ],
+          "total": "1,130 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper outlining the key concepts integral to covenant theology.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH620",
+      "title": "The Westminster Standards",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Westminster Standards 1-24 (video)",
+              "by": "Dr. John Gerstner",
+              "extent": "12 h",
+              "minutes": 720,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/westminster-confession-of-faith/"
+            },
+            {
+              "title": "Theology of the WCF 1-19",
+              "by": "Dr. Morton Smith",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=Theology+of+the+WCF&keyworddesc=Theology+of+the+WCF"
+            },
+            {
+              "title": "Westminster Standards 1-14",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "16 h",
+              "minutes": 960,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/westminster-standards-14-part-mp3-lecture-series"
+            },
+            {
+              "title": "The American Amendments to the Westminster Confession",
+              "by": "Dr. Peter Lillback",
+              "extent": "1 h 6 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/wa045-copyright.mp3"
+            }
+          ],
+          "total": "46 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize",
+          "items": [
+            {
+              "title": "The 1788 American Revision of the Westminster Standards",
+              "by": "Lee Irons",
+              "extent": "15 pp.",
+              "minutes": null,
+              "pages": 15,
+              "note": null,
+              "url": "http://www.upper-register.com/papers/1788_revision.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful reference:",
+          "items": [
+            {
+              "title": "Comparison of the 1646 Edition to the American Revision",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/wcforiginal.html"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Utility and Importance of Creeds and Confessions",
+              "by": "Samuel Miller",
+              "extent": "134 pp.",
+              "minutes": null,
+              "pages": 134,
+              "note": null,
+              "url": "https://archive.org/details/utilityimportanc00milluoft"
+            },
+            {
+              "title": "The Presbyterian Standards",
+              "by": "Francis Beattie",
+              "extent": "442 pp.",
+              "minutes": null,
+              "pages": 442,
+              "note": null,
+              "url": "https://archive.org/details/presbyterianstan00beat"
+            },
+            {
+              "title": "A Commentary on the Confession of Faith",
+              "by": "A.A. Hodge",
+              "extent": "576 pp.",
+              "minutes": null,
+              "pages": 576,
+              "note": null,
+              "url": "https://archive.org/details/commentaryonconf1901hodg"
+            }
+          ],
+          "total": "1167 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper serving as a personal commentary on the Westminster Confession of Faith.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Memorize the Westminster Shorter Catechism",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Exam: Complete the Westminster Shorter Catechism Exam. The exam will consist of 100 blanks which have been placed within the text of the Catechism. The blanks must be filled with the correct word. Your mentor must contact the seminary to obtain the exam. The exam must be proctored by your mentor or church officer.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS502",
+      "title": "Hermeneutics",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "General Hermeneutics 1-5",
+              "by": "Dr. Moises Silva",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1lSYXGplB9A_xJS7kw0MySbib_XJ3PPLj/view?usp=sharing"
+            },
+            {
+              "title": "Hermeneutics 1-49",
+              "by": "Dr. Vern Poythress",
+              "extent": "45 h",
+              "minutes": 2700,
+              "pages": null,
+              "note": null,
+              "url": "https://students.wts.edu/resources/media.html?paramType=search&keywords=hermeneutics&speaker=7&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Lecture Diagrams",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "refer to these diagrams as you listen to the Poythress lectures",
+              "url": "https://drive.google.com/file/d/1Msw__XoQWMA6tXmEyF_TdjfnRuPLwBcN/view?usp=drive_link"
+            }
+          ],
+          "total": "50 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Principles of Biblical Interpretation",
+              "by": "Louis Berkhof",
+              "extent": "166 pp.",
+              "minutes": null,
+              "pages": 166,
+              "note": null,
+              "url": "http://media.sabda.org/alkitab-2/PDF%20Books/00050%20Berkhof%20Principles%20of%20Biblical%20Interpretation..pdf"
+            },
+            {
+              "title": "Biblical Hermeneutics",
+              "by": "Milton Terry",
+              "extent": "802 pp.",
+              "minutes": null,
+              "pages": 802,
+              "note": null,
+              "url": "https://archive.org/details/biblicalhermeneu00terr"
+            }
+          ],
+          "total": "968"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 5 page paper outlining a proper method of biblical interpretation.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write five 5 page exegetical papers, each demonstrating a proper hermeneutical approach to a passage chosen from each of the following biblical genres: narrative, poetic, prophetic, epistles, apocalyptic.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS531",
+      "title": "Old Testament History and Theology",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Old Testament Survey 1-56",
+              "by": "Dr. Jack B. Scott",
+              "extent": "45 h",
+              "minutes": 2700,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=OT+Survey&keyworddesc=OT+Survey"
+            },
+            {
+              "title": "Old Testament History and Theology 1-13",
+              "by": "Dr. Dan Kim",
+              "extent": "18 h",
+              "minutes": 1080,
+              "pages": null,
+              "note": "create a free account to access all of the lectures",
+              "url": "https://resources.covenantseminary.edu/programs/old-testament-history-theology"
+            }
+          ],
+          "total": "63 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Is the Old Testament Reliable?",
+              "by": "Brian Edwards",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://answersingenesis.org/is-the-bible-true/is-the-old-testament-reliable/"
+            },
+            {
+              "title": "A Scientific Investigation of the Old Testament",
+              "by": "Robert Dick Wilson",
+              "extent": "200 pp.",
+              "minutes": null,
+              "pages": 200,
+              "note": null,
+              "url": "http://www.bbfchurch.net/SiteData/bbf/A-Scientific-Investigation-of-the-OT-Robert-Dick-Wilson.pdf"
+            },
+            {
+              "title": "Is the Higher Criticism Scholarly?",
+              "by": "Robert Dick Wilson",
+              "extent": "74 pp.",
+              "minutes": null,
+              "pages": 74,
+              "note": null,
+              "url": "https://archive.org/details/ishighercriticis00wils"
+            },
+            {
+              "title": "Does Archaeology Support the Bible?",
+              "by": "Clifford Wilson",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "The New Answers Book, Ch. 25",
+              "url": "https://answersingenesis.org/archaeology/does-archaeology-support-the-bible/"
+            },
+            {
+              "title": "Dead Sea Scrolls: Timeless Treasures from Qumran",
+              "by": "Jeremy Lyon",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1RDYjuk4GNuDhTQlW-4xmTh2YwMeOcPIv/view?usp=drive_link"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Church During the Old Testament Dispensation",
+              "by": "C.C. Jones",
+              "extent": "558 pp.",
+              "minutes": null,
+              "pages": 558,
+              "note": null,
+              "url": "https://archive.org/details/historyofchurcho00jone/page/n8",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://archive.org/details/typologyofscript01fairiala"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://archive.org/details/typologyofscript02fairiala"
+                }
+              ]
+            },
+            {
+              "title": "The Typology of Scripture, Vols. 1 and 2",
+              "by": "Patrick Fairbairn",
+              "extent": "952 pp.",
+              "minutes": null,
+              "pages": 952,
+              "note": null
+            }
+          ],
+          "total": "1784"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write an introduction for each Old Testament book.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS541",
+      "title": "New Testament History and Theology",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "New Testament Survey 1-25",
+              "by": "Jack B. Scott",
+              "extent": "26 h",
+              "minutes": 1560,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=NT+Survey&keyworddesc=NT+Survey"
+            },
+            {
+              "title": "New Testament Theology 1-14",
+              "by": "Dr. Frank Thielman",
+              "extent": "14 h",
+              "minutes": 840,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/new-testament-theology/frank-thielman"
+            },
+            {
+              "title": "New Testament Textual Criticism (9 lectures)",
+              "by": "Dr. Moises Silva",
+              "extent": "8 h",
+              "minutes": 480,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1aZ-GqcpJip92yvwKQpP4iv8r3bxQ7Oru/view?usp=sharing"
+            },
+            {
+              "title": "The NT Text: The Superiority of the Majority Text",
+              "by": "Brian Schwertley",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=431115281",
+              "urls": [
+                {
+                  "label": "Vol. 2,",
+                  "url": "https://www.youtube.com/watch?v=_pNbw6N3MjU"
+                },
+                {
+                  "label": "Vol. 4,",
+                  "url": "https://www.youtube.com/watch?v=Lg-sDGCl6m0"
+                },
+                {
+                  "label": "Vol. 5,",
+                  "url": "https://www.youtube.com/watch?v=JbpPfMCLnxE&t=182s"
+                },
+                {
+                  "label": "Vol. 6",
+                  "url": "https://www.youtube.com/watch?v=BcA2ipWx_tw&t=3s"
+                }
+              ]
+            },
+            {
+              "title": "Kept Pure in All Ages Conference Lectures 2, 4, 5, 6",
+              "by": "Dr. Jeff Riddle",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null
+            }
+          ],
+          "total": "52 hours"
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "View the following videos and provide a short summary for each:",
+          "items": [
+            {
+              "title": "The Basics of New Testament Textual Criticism 1-15",
+              "by": "Dr. Daniel Wallace",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": "(Note that this series is very informative although Wallace favors the Critical Text and has spoken against the providential preservation view.)",
+              "url": "https://itunes.apple.com/us/itunes-u/basics-new-testament-textual/id446655163?mt=10"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Literature and History of New Testament Times",
+              "by": "J. Gresham Machen",
+              "extent": "288 pp.",
+              "minutes": null,
+              "pages": 288,
+              "note": null,
+              "url": "https://archive.org/details/literaturehistor00mach/page/n7"
+            },
+            {
+              "title": "The Progress of Doctrine in the New Testament",
+              "by": "Thomas Bernard",
+              "extent": "235 pp.",
+              "minutes": null,
+              "pages": 235,
+              "note": null,
+              "url": "https://archive.org/details/progressofdoctri00bern/page/n8"
+            },
+            {
+              "title": "Exegetical Study of the New Testament",
+              "by": "Patrick Fairbairn",
+              "extent": "542 pp.",
+              "minutes": null,
+              "pages": 542,
+              "note": null,
+              "url": "https://archive.org/details/hermeneutical00fairrich"
+            },
+            {
+              "title": "Has God Indeed Said? The Preservation of the Text of the New Testament",
+              "by": "Phillip Kayser and Wilbur Pickering",
+              "extent": "30 pp.",
+              "minutes": null,
+              "pages": 30,
+              "note": null,
+              "url": "https://leanpub.com/has-god-indeed-said/read"
+            },
+            {
+              "title": "The Identity of the New Testament Text",
+              "by": "Wilbur Pickering",
+              "extent": "200 pp.",
+              "minutes": null,
+              "pages": 200,
+              "note": null,
+              "url": "https://drive.google.com/file/d/12O3G4AGtwyup5dMWwfjwdWIQbyC_Hpcn/view?usp=sharing"
+            },
+            {
+              "title": "The Higher Criticism",
+              "by": "Francis Beattie",
+              "extent": "68 pp.",
+              "minutes": null,
+              "pages": 68,
+              "note": null,
+              "url": "https://ia600409.us.archive.org/17/items/highercriticismo00beat/highercriticismo00beat.pdf"
+            }
+          ],
+          "total": "1,363 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write an introduction for each New Testament book.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful resource:",
+          "items": [
+            {
+              "title": "A Textual Key to the New Testament",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1M_w6z7phkxUM5TJKrKBFVLqGIm_dCZ1X/view?usp=sharing"
+            }
+          ],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH520",
+      "title": "History of the Church",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Church History Lectures 1-39",
+              "by": "Dr. John Gerstner",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/handout-church-history/"
+            },
+            {
+              "title": "History of Christianity I",
+              "by": "Dr. Don Fortson",
+              "extent": "21.5 h",
+              "minutes": 1290,
+              "pages": null,
+              "note": null,
+              "url": "https://reformedaudio.org/history-christianity-donald-fortson-iii/"
+            },
+            {
+              "title": "History of Christianity II",
+              "by": "Dr. Don Fortson",
+              "extent": "27 h",
+              "minutes": 1620,
+              "pages": null,
+              "note": null,
+              "url": "https://reformedaudio.org/history-christianity-ii-donald-fortson-iii/"
+            }
+          ],
+          "total": "65.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Uses and Results of Church History",
+              "by": "R.L. Dabney",
+              "extent": "20 pp.",
+              "minutes": null,
+              "pages": 20,
+              "note": null,
+              "url": "https://archive.org/stream/DiscussionsOfRobertLewisDabneyVol.2EvangelicalAndTheological/DiscussionsOfR.l.DabneyV.2#page/n397/mode/2up/search/call+to+the+ministry"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "History of the Christian Church",
+              "by": "W.M. Blackburn",
+              "extent": "748 pp.",
+              "minutes": null,
+              "pages": 748,
+              "note": null,
+              "url": "https://archive.org/details/historyofchrist00blac"
+            }
+          ],
+          "total": "778"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper on a historical topic presented in the course materials.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH625",
+      "title": "Biblical Ethics",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Christian Ethics 1-24",
+              "by": "Dr. Ronald Nash",
+              "extent": "18.5 h",
+              "minutes": 1110,
+              "pages": null,
+              "note": "printed as [18.5] without unit; read as hours",
+              "url": "https://drive.google.com/drive/folders/1vGMi2aIGmdnzAQLETprQbOd6khAHUzC7?usp=sharing"
+            },
+            {
+              "title": "Christian Ethics 1-21",
+              "by": "Dr. Daniel Doriani",
+              "extent": "25 h",
+              "minutes": 1500,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/christian-ethics-doriani/"
+            }
+          ],
+          "total": "43.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Theory of Conduct",
+              "by": "Archibald Alexander",
+              "extent": "134 pp.",
+              "minutes": null,
+              "pages": 134,
+              "note": null,
+              "url": "https://archive.org/details/theoryofconduct00alexiala"
+            },
+            {
+              "title": "The Revelation of Law in Scripture",
+              "by": "Patrick Fairbairn",
+              "extent": "524 pp.",
+              "minutes": null,
+              "pages": 524,
+              "note": null,
+              "url": "https://archive.org/details/therevelationofl00fairuoft"
+            },
+            {
+              "title": "An Exposition of the Ten Commandments",
+              "by": "Ezekiel Hopkins",
+              "extent": "456 pp.",
+              "minutes": null,
+              "pages": 456,
+              "note": null,
+              "url": "https://archive.org/details/expositionoftenc00hopk"
+            }
+          ],
+          "total": "1114"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 15 page paper defending the continuing validity, obligation, and use of the moral law in the life of the New Testament Christian.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 15 page commentary on the Ten Commandments.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "AP600",
+      "title": "Apologetics",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "No Apology for Apologetics",
+              "by": "Dr. John Blanchard",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/sermoninfo.asp?sermonID=92509234392"
+            },
+            {
+              "title": "Defending Your Faith 1-32",
+              "by": "Dr. R.C. Sproul",
+              "extent": "14 h",
+              "minutes": 840,
+              "pages": null,
+              "note": "printed as [14] without unit; read as hours",
+              "url": "https://drive.google.com/file/d/15uN1c4nCKnBuhKtxlwrYdxP4i1vab_uc/view?usp=sharing"
+            },
+            {
+              "title": "Apologetics 1-44",
+              "by": "Dr. Douglas Groothuis",
+              "extent": "31 h",
+              "minutes": 1860,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/legacy/mt/mp3/dr-douglas-groothuis-apologetics-mp3s"
+            },
+            {
+              "title": "Christian Apologetics 1-17",
+              "by": "Dr. Ronald Nash",
+              "extent": "14.5 h",
+              "minutes": 870,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1-OYYC31p5alCxO3UexxolYhFk2XQgJx7?usp=sharing"
+            },
+            {
+              "title": "Objections Answered 1-8",
+              "by": "Dr. R.C. Sproul",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/objections-answered/"
+            }
+          ],
+          "total": "62.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Apologetics, or the Rational Vindication of Christianity",
+              "by": "Francis Beattie",
+              "extent": "624 pp.",
+              "minutes": null,
+              "pages": 624,
+              "note": null,
+              "url": "https://archive.org/details/apologeticsorrat01beat"
+            },
+            {
+              "title": "Evidences of the Authenticity, Inspiration, and Canonical Authority of the Holy Scriptures",
+              "by": "Archibald Alexander",
+              "extent": "322 pp.",
+              "minutes": null,
+              "pages": 322,
+              "note": null,
+              "url": "https://archive.org/details/evidencesofauth00alex"
+            }
+          ],
+          "total": "946 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper outlining your personal approach to apologetics and present a defense of the Christian faith with a special view to answering modern objections.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PH600",
+      "title": "Survey of Philosophy and Worldview Studies",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Worldview Series 1-7",
+              "by": "Stephen Gambill",
+              "extent": "6.5 h",
+              "minutes": 390,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=rbcnashville&keyword=Worldview+Series&keyworddesc=Worldview+Series"
+            },
+            {
+              "title": "Modern-isms (3 lectures)",
+              "by": "The Christian Institute",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://www.christian.org.uk/resources/series/modern-isms/"
+            },
+            {
+              "title": "Pluralism",
+              "by": "The Christian Institute",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/pluralism/"
+            },
+            {
+              "title": "The Consequences of Ideas 1-35",
+              "by": "Dr. R.C. Sproul",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=ligonier&keyword=The+Consequences+of+Ideas&keyworddesc=The+Consequences+of+Ideas"
+            },
+            {
+              "title": "History of Philosophy and Christian Thought 1-36",
+              "by": "Dr. Ronald Nash",
+              "extent": "28 h",
+              "minutes": 1680,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1mp3TQdFaHBIqgXB9VnMoF1IOnq1F7nEn?usp=sharing"
+            }
+          ],
+          "total": "54.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Introduction to Worldviews",
+              "by": "Probe Ministries",
+              "extent": "305 pp.",
+              "minutes": null,
+              "pages": 305,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1TgxwD80oD6NUJvd8PoxerFhVEr6bdwNB/view?usp=sharing"
+            },
+            {
+              "title": "Redeeming Philosophy",
+              "by": "Dr. Vern Poythress",
+              "extent": "306 pp.",
+              "minutes": null,
+              "pages": 306,
+              "note": null,
+              "url": "http://www.frame-poythress.org/wp-content/uploads/2014/11/BPhilFinal2014.pdf"
+            }
+          ],
+          "total": "611 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper on a topic of interest presented in the course materials.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT505",
+      "title": "Evangelism and Missions",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Free Offer of the Gospel",
+              "by": "David Silversides",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/sermoninfo.asp?SID=22603142641"
+            },
+            {
+              "title": "A Theology of Evangelism",
+              "by": "Dr. Edmund Clowney",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/leec-copyright.mp3"
+            },
+            {
+              "title": "Evangelism and Mission 1-20",
+              "by": "Dr. Michael Horton",
+              "extent": "12 h",
+              "minutes": 720,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christurc.org/adult-catechism/class-1-an-introduction-to-evangelism-and-mission"
+            },
+            {
+              "title": "God's World Mission 1-17",
+              "by": "Dr. Nelson Jennings",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/gods-world-mission-audio-lectures/id418583428?mt=10"
+            },
+            {
+              "title": "Supremacy of God in World Evangelism 1-5",
+              "by": "John Piper",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1EUrWTR0lfwq4imiU11BjiMzWP_Jcvq6o/view?usp=sharing"
+            },
+            {
+              "title": "Personal Evangelism 1-5",
+              "by": "Dr. John Blanchard",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=blanchard&keyword=Personal+Evangelism&keyworddesc=Personal+Evangelism"
+            },
+            {
+              "title": "Motives for Mission",
+              "by": "Dr. John Blanchard",
+              "extent": "38 min",
+              "minutes": 38,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=122082158149"
+            },
+            {
+              "title": "Eager to Preach",
+              "by": "John Blanchard",
+              "extent": "25 min",
+              "minutes": 25,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=120081738314"
+            },
+            {
+              "title": "The Spiritual Dynamics of Missions",
+              "by": "Dr. J. Edwin Orr",
+              "extent": "30 min",
+              "minutes": 30,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=10270295939"
+            },
+            {
+              "title": "Mobilizing the Church for Evangelism",
+              "by": "John Blanchard",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=102009044281"
+            },
+            {
+              "title": "Why Won't They Listen?",
+              "by": "Ken Ham",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11606143116"
+            },
+            {
+              "title": "Harvest Imperatives 1, 2",
+              "by": "Randy Pope",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "http://www.perimeter.org/podcasts/prexpress1.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 2",
+                  "url": "http://www.perimeter.org/podcasts/prexpress2.mp3"
+                }
+              ]
+            }
+          ],
+          "total": "44.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Every-Member Evangelism",
+              "by": "J.E. Conant",
+              "extent": "232 pp.",
+              "minutes": null,
+              "pages": 232,
+              "note": null,
+              "url": "https://archive.org/details/everymemberevang00cona"
+            },
+            {
+              "title": "The Way of Life",
+              "by": "Charles Hodge",
+              "extent": "374 pp.",
+              "minutes": null,
+              "pages": 374,
+              "note": null,
+              "url": "https://archive.org/details/wayoflife00hodg"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "The Art of Man-Fishing",
+              "by": "Thomas Boston",
+              "extent": "120 pp.",
+              "minutes": null,
+              "pages": 120,
+              "note": null,
+              "url": "https://archive.org/details/soliloquyonartof00bost"
+            },
+            {
+              "title": "The Universal Offer of the Gospel (Dogmatic Theology Vol. 2, pp 482-489)",
+              "by": "W.G.T. Shedd",
+              "extent": "7 pp.",
+              "minutes": null,
+              "pages": 7,
+              "note": null,
+              "url": "https://archive.org/details/dogmatictheology02sheduoft"
+            },
+            {
+              "title": "The World White to Harvest (Discussions of Robert L. Dabney Vol. 1, pp. 575-594)",
+              "by": "R.L. Dabney",
+              "extent": "19 pp.",
+              "minutes": null,
+              "pages": 19,
+              "note": null,
+              "url": "https://archive.org/details/discussions01dabn"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "readings",
+          "instruction": "Read and outline:",
+          "items": [
+            {
+              "title": "Ultimate Questions",
+              "by": "John Blanchard",
+              "extent": "36 pp.",
+              "minutes": null,
+              "pages": 36,
+              "note": null,
+              "url": "http://www.wordtoall.org/questions"
+            }
+          ],
+          "total": "788"
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper on the importance of developing a missional lifestyle and outline a method for personal evangelism.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 6,
+          "type": "assignment",
+          "instruction": "Document a \"one-on-one\" evangelistic encounter (to be conducted after the lecture and reading assignments are completed). Include your approach and method used, the setting, a summary of the dialogue, as well as the person's response.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS690",
+      "title": "Master's Thesis",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "You must work closely with your mentor in developing your thesis topic and in working through the thesis. Thesis topics must first be approved by the seminary administration. Students must use the Request for Approval of Thesis Topic Form when submitting their topic for approval. The completed form should be emailed to info@logcollege.net. Students should not begin thesis work until the seminary administration has first approved the topic.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "FORMATTING: Current Turabian",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 1,
+          "type": "assignment",
+          "instruction": "Your Master's Thesis should be no less than 100 pages, 1 inch margins, twelve-point type, Times New Roman font, double spaced.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Your Master's Thesis should be free of grammatical and syntax errors and should represent the caliber of work you have completed during your Master's Program.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Your Master's Thesis must include a submission page, table of contents, and full bibliography.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Your Master's Thesis must be submitted to LCS administration by your mentor (after grading) for final review and approval before you will be considered for graduation.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Complete the Comprehensive Final Exam. Contact the seminary to schedule a time for your exam.",
+          "items": [],
+          "total": null
+        }
+      ]
+    }
+  ]
+}

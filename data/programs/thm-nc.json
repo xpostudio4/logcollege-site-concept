@@ -1,0 +1,1928 @@
+{
+  "slug": "thm-nc",
+  "name": "Master of Theology in Nouthetic Counseling",
+  "credit_hours": "18-30",
+  "admission": "M.A./M.S. in a counseling or social work field; or LCS MTS; or M.Div. Students with a thesis completed for their previous master’s program are exempt from the BS690 thesis requirement. Students with a secular counseling degree must complete TH701 – “Theological Foundations” as a prerequisite. Program is open to both male and female students. No transfer credit is allowed due to the uniqueness of the program.",
+  "requirements": [
+    "All written assignments (with the exception of the thesis) should follow current MLA formatting.",
+    "All numbered assignments (lecture outlines/notes, summaries, chapter summaries, papers, etc.) must be submitted to your mentor for grading.",
+    "Please report any broken links to info@logcollege.net"
+  ],
+  "course_list": [
+    {
+      "code": "TH701",
+      "title": "Theological Foundations",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "NC800",
+      "title": "Fundamentals of Nouthetic Counseling",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "NC801",
+      "title": "Nouthetic Counseling I",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "NC802",
+      "title": "Nouthetic Counseling II",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "NC803",
+      "title": "Nouthetic Counseling III",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "NC804",
+      "title": "The Christian Directory",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS690",
+      "title": "Master’s Thesis",
+      "credits": 6,
+      "group": null
+    }
+  ],
+  "courses": [
+    {
+      "code": "TH701",
+      "title": "Theological Foundations",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "School of Theology",
+              "by": "Dr. Derek Thomas, et. al.",
+              "extent": "80 hours",
+              "minutes": 4800,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=School+of+Theology&keywordDesc=School+of+Theology&SeriesOnly=true&SourceID=fpccolumbia&AudioOnly=false"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Systematic Theology",
+              "by": "Louis Berkhof",
+              "extent": "819 pp.",
+              "minutes": null,
+              "pages": 819,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1ROY03dA7kboUP1KAUri7RaBz2gNALU1k/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 5 page paper explaining the importance of Systematic Theology in the life of a Christian.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC800",
+      "title": "Fundamentals of Nouthetic Counseling",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Nouthetic Counseling",
+              "by": "Dr. Jay Adams",
+              "extent": "1 h 15 min",
+              "minutes": 75,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/ja103-copyright.mp3"
+            },
+            {
+              "title": "The Bible and Counseling",
+              "by": "Dr. Jay Adams",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/np119-copyright.mp3"
+            },
+            {
+              "title": "Introduction to Biblical Counseling",
+              "by": "Lou Priolo",
+              "extent": "1 h 8 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "The Necessity of Biblical Counseling",
+              "by": "Heath Lambert",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/lambert.the-necessity-of-biblical-counseling.mp3"
+            },
+            {
+              "title": "The Pastor's Counseling Ministry",
+              "by": "David Powlison",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/the-pastor-s-counseling-ministry"
+            },
+            {
+              "title": "The Ultimate Answer to Man’s Problems",
+              "by": "Wayne Mack",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1Ipx0ifAlc7npH-tEooihjwpNpIIDDeaO/view?usp=sharing"
+            },
+            {
+              "title": "Pastoral Counseling 1-40",
+              "by": "Dr. John Street",
+              "extent": "21 h",
+              "minutes": 1260,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/playlist?list=PL4sbg6ng23C6kxXcn035efwnLf2lB4rSb"
+            },
+            {
+              "title": "Biblical Counseling Principles 1-10",
+              "by": "Dr. Jay Adams",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=principles+in+biblical+counseling"
+            },
+            {
+              "title": "Biblical Counseling 1-15",
+              "by": "Dr. Jay Adams",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1zes8p8E392QKdNdRjgGAb188K7ObDXyD?usp=sharing",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://ibcd.org/wp-content/uploads/2015/12/maxham.general-principles-of-biblical-counseling-1.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://ibcd.org/wp-content/uploads/2015/12/maxham.general-principles-of-biblical-counseling-2.mp3"
+                }
+              ]
+            },
+            {
+              "title": "General Principles of Biblical Counseling 1 and 2",
+              "by": "Tom Maxham",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Nouthetic Counseling Questions",
+              "by": "Dr. Jay Adams",
+              "extent": "1 h 15 min",
+              "minutes": 75,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/ja103-copyright.mp3"
+            },
+            {
+              "title": "Sufficiency View of Scripture in Christian Counseling",
+              "by": "Wayne Mack",
+              "extent": "1 h 19 min",
+              "minutes": 79,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=412076465"
+            },
+            {
+              "title": "The Necessity of the Church in Counseling",
+              "by": "Jim Newheiser",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/newheiser.the-necessity-of-the-church-in-counseling.mp3"
+            },
+            {
+              "title": "Counseling is the Church",
+              "by": "David Powlison",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1DTYQazJ9MYeh4JnwoS6PRUxlpSwFZzyB/view?usp=sharing"
+            },
+            {
+              "title": "Why Church Discipline?",
+              "by": "Bruce Ray",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1130141530460"
+            },
+            {
+              "title": "Progressive Sanctification",
+              "by": "Paul Tripp",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/19ROM7so2QtEs4mgLoLYPIfnVs5q0mGzP/view?usp=sharing"
+            },
+            {
+              "title": "Having Biblical Expectations in Counseling",
+              "by": "Brian Borgman",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/borgman.having-biblical-expectations-in-counseling.mp3"
+            },
+            {
+              "title": "The Necessity of the Gospel in Counseling",
+              "by": "Heath Lambert",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/lambert.the-necessity-of-the-gospel-in-counseling.mp3"
+            },
+            {
+              "title": "Handling Evangelism Opportunities in Counseling",
+              "by": "Steve Viars",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2014/07/viars.handling-evangelism-opportunities-in-counseling.mp3"
+            },
+            {
+              "title": "Sovereignty of God in Counseling",
+              "by": "Dr. Jay Adams",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/sovereignty-of-god-in-counseling"
+            },
+            {
+              "title": "Counseling Angry People",
+              "by": "Lou Priolo",
+              "extent": "1 h 7 min",
+              "minutes": 67,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1a_W8eunmWgFou_f_zqhDsqoaVmL_o2XU/view?usp=sharing"
+            },
+            {
+              "title": "How to Kill Worry",
+              "by": "George Scipione",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1114101230198"
+            },
+            {
+              "title": "How to Overcome Discontentment",
+              "by": "Lou Priolo",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": "Duration printed as [54] with no unit; read as minutes",
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Help for Depression",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h 14 min",
+              "minutes": 74,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/Good-Mood-Bad-Mood-1.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://loupriolo.com/free-audio/"
+                }
+              ]
+            },
+            {
+              "title": "Crash Course in Biblical Communication 1 and 2",
+              "by": "Lou Priolo",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "The Intimate Marriage 1-6",
+              "by": "Dr. R.C. Sproul",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/intimate-marriage/",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://loupriolo.com/free-audio/"
+                }
+              ]
+            },
+            {
+              "title": "Raising Children God’s Way 1 and 2",
+              "by": "Lou Priolo",
+              "extent": "1 h 45 min",
+              "minutes": 105,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Forgiveness when Wronged",
+              "by": "Lou Priolo",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Pornography",
+              "by": "Heath Lambert",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/lambert.bringing-freedom-to-captives-of-pornography.mp3"
+            },
+            {
+              "title": "Homosexuality",
+              "by": "Dr. Ed Welch",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ac945_copyright.mp3"
+            },
+            {
+              "title": "Dealing with a Person’s Past",
+              "by": "Dr. David Powlison",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ji9305_copyright.mp3"
+            },
+            {
+              "title": "Suicide",
+              "by": "Bruce Ray",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=101211202466"
+            },
+            {
+              "title": "How to Comfort the Dying",
+              "by": "Bruce Ray",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/17sA6ktfuRQp7hjWbtWvaYs334LuUjY5S/view?usp=sharing"
+            },
+            {
+              "title": "The History of the Biblical Counseling Movement",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            }
+          ],
+          "total": "73.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Change Them?...Into What?",
+              "by": "Dr. Jay Adams",
+              "extent": "5 pp.",
+              "minutes": null,
+              "pages": 5,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1FYwkkdZKVa2XDmAXkR9HX9MIx2TkwFf7/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Competent to Minister: The Biblical Care of Souls",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "254 pp.",
+              "minutes": null,
+              "pages": 254,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/CTM-ebk.pdf"
+            },
+            {
+              "title": "Counsels and Thoughts for the Spiritual Life of Believers",
+              "by": "Thomas Moor",
+              "extent": "398 pp.",
+              "minutes": null,
+              "pages": 398,
+              "note": null,
+              "url": "https://archive.org/details/counselsandthou00moorgoog"
+            },
+            {
+              "title": "Consolation",
+              "by": "J.W. Alexander",
+              "extent": "470 pp.",
+              "minutes": null,
+              "pages": 470,
+              "note": null,
+              "url": "https://archive.org/details/consolationindis00alex"
+            },
+            {
+              "title": "The Rise and Progress of Religion in the Soul",
+              "by": "Philip Doddridge",
+              "extent": "366 pp.",
+              "minutes": null,
+              "pages": 366,
+              "note": null,
+              "url": "https://archive.org/details/cu31924070006741"
+            },
+            {
+              "title": "The Christian’s Daily Walk",
+              "by": "Henry Scudder",
+              "extent": "455 pp.",
+              "minutes": null,
+              "pages": 455,
+              "note": null,
+              "url": "https://archive.org/details/christiansdaily00unkngoog"
+            }
+          ],
+          "total": "1,943 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the fundamental principles of Nouthetic counseling and directives for counseling common life issues.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC801",
+      "title": "Nouthetic Counseling I",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Care and Discipleship I 1-20",
+              "by": "IBCD",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/care-discipleship-level-1/id643538201"
+            },
+            {
+              "title": "Dynamics of Biblical Change 1-22",
+              "by": "Dr. David Powlison",
+              "extent": "27 h",
+              "minutes": 1620,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1kcAymv3MLybmQZmmYJnQUZoaYHgA2IK3?usp=sharing"
+            },
+            {
+              "title": "Union with Christ: A Dynamic for Change",
+              "by": "Dr. Timothy Lane",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww063_copyright.mp3"
+            },
+            {
+              "title": "Union with Christ: God at Work Among You",
+              "by": "Dr. Timothy Lane",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww064_copyright.mp3"
+            },
+            {
+              "title": "The Inner and Outer Man Balance in Counseling",
+              "by": "George Scipione",
+              "extent": "1 h 4 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/scipione.the-inner-man-and-outer-man-balance-in-counceling.mp3"
+            },
+            {
+              "title": "Spiritual Depression 1-6",
+              "by": "Stephen Gambill",
+              "extent": "6 h",
+              "minutes": 360,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=rbcnashville&keyword=Spiritual+Depression&keyworddesc=Spiritual+Depression"
+            },
+            {
+              "title": "How to Identify Heart Idols",
+              "by": "Lou Priolo",
+              "extent": "1 h 7 min",
+              "minutes": 67,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Drawing out Idols of the Heart",
+              "by": "IBCD",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1j8sR-S2RquCNLVUxYMU3S5XZjpPN-QhA/view?usp=drive_link"
+            },
+            {
+              "title": "Knowing God’s Will 1-5",
+              "by": "Dr. R.C. Sproul",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/knowing_gods_will/"
+            },
+            {
+              "title": "How to Avoid Making Rash Judgments",
+              "by": "Lou Priolo",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "How to Kill Anger",
+              "by": "George Scipione",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1218111758419"
+            },
+            {
+              "title": "Thinking Rightly about Yourself",
+              "by": "Lou Priolo",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1Hu5hh2c66XSY7l2iuhysXI77gLS_cbj9/view?usp=drive_link"
+            },
+            {
+              "title": "Inferiority Complex",
+              "by": "Dr. Jay Adams",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/those-with-inferiority-complex"
+            },
+            {
+              "title": "How to Overcome Selfishness",
+              "by": "Lou Priolo",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1-OPGYTT6pAFpGaczWimQ6CX7HdtYlbXU/view?usp=sharing"
+            },
+            {
+              "title": "Depression",
+              "by": "Tom Maxham",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/maxham.gospel-rest-for-depression.mp3"
+            },
+            {
+              "title": "Help for Bipolor Disorder",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h 6 min",
+              "minutes": 66,
+              "pages": null,
+              "note": "title spelled 'Bipolor' as printed",
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/Good-Mood-Bad-Mood-2.mp3"
+            },
+            {
+              "title": "Counseling People Pleasers",
+              "by": "Lou Priolo",
+              "extent": "1 h 14 min",
+              "minutes": 74,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1XOtmRN7-tRpwNeVxc4MWU2Pc_YiNtcQF/view?usp=drive_link"
+            },
+            {
+              "title": "Counseling Manipulators",
+              "by": "Lou Priolo",
+              "extent": "1 h 13 min",
+              "minutes": 73,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/16_wG4CkwosPaaO2mR5f9HnpvfwdLPFYk/view?usp=drive_link"
+            },
+            {
+              "title": "Letting Go of Lying",
+              "by": "Lou Priolo",
+              "extent": "55 min",
+              "minutes": 55,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1LzohFjoXcwFwh_OJu8gpS_Mj1cU3Qr0m/view?usp=drive_link"
+            },
+            {
+              "title": "General Principles about Money",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1SOwRdF1yEqhFT8bCgK6eTCCI1_RX3Z8I/view?usp=drive_link",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://ibcd.org/wp-content/uploads/2015/12/scipione.difficult-cases-and-wisdom-in-counseling-1.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://ibcd.org/wp-content/uploads/2015/12/scipione.difficult-cases-and-wisdom-in-counseling-2.mp3"
+                }
+              ]
+            },
+            {
+              "title": "Difficult Cases and Wisdom in Counseling 1 and 2",
+              "by": "George Scipione",
+              "extent": "2 h 4 min",
+              "minutes": 124,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Helping People Handle Trials",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1lioc-hRJwR5Rhp-15qnOdo-zr4HwqOUG/view?usp=drive_link"
+            },
+            {
+              "title": "Preparation for Counseling from the Pastoral Epistles",
+              "by": "George Scipione",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/scipione.preparation-for-counseling-from-the-pastoral-epistles.mp3"
+            },
+            {
+              "title": "Portraits of a Biblical Counselor",
+              "by": "Bob Kellermen",
+              "extent": "46 min",
+              "minutes": 46,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/kelleman.sharing-scipture-and-soul1.mp3"
+            },
+            {
+              "title": "Resume of a Biblical Counselor",
+              "by": "Bob Kellermen",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/kelleman.resume-of-a-biblical-counselor1.mp3"
+            },
+            {
+              "title": "How Do Others Experience You as a Counselor",
+              "by": "Dr. David Powlison",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/how-do-others-experience-you-as-a-counselor",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://ibcd.org/wp-content/uploads/2016/02/adams.avoiding_legalism_in_counseling_1.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://ibcd.org/wp-content/uploads/2016/02/adams.avoiding_legalism_in_counseling_2.mp3"
+                }
+              ]
+            },
+            {
+              "title": "Avoiding Legalism in Counseling 1 and 2",
+              "by": "Dr. Jay Adams",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null
+            }
+          ],
+          "total": "75 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Person to Person Ministry: Soul Care in the Body of Christ",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "256 pp.",
+              "minutes": null,
+              "pages": 256,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/PPM-ebk.pdf"
+            },
+            {
+              "title": "Christ Centered Ministry versus Problem-Centered Counseling",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "136 pp.",
+              "minutes": null,
+              "pages": 136,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/CCMpcc-ebk.pdf"
+            },
+            {
+              "title": "Stop Counseling and Start Ministering",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "328 pp.",
+              "minutes": null,
+              "pages": 328,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/Stop-Start_ebk.pdf"
+            },
+            {
+              "title": "The Practice of Piety",
+              "by": "Lewis Bayly",
+              "extent": "265 pp.",
+              "minutes": null,
+              "pages": 265,
+              "note": null,
+              "url": "https://drive.google.com/file/d/17tzbJHD9Mj0by2f8pTXGVXTqIv57Q9Nl/view?usp=sharing"
+            },
+            {
+              "title": "A Treatise On Keeping the Heart",
+              "by": "John Flavel",
+              "extent": "122 pp.",
+              "minutes": null,
+              "pages": 122,
+              "note": null,
+              "url": "https://archive.org/details/treatiseonkeepin1840flav"
+            },
+            {
+              "title": "A Lifting Up for the Downcast",
+              "by": "William Bridge",
+              "extent": "279 pp.",
+              "minutes": null,
+              "pages": 279,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Bridge,%20William/Works%20(vol.2)%20Ind%20Titles/%5bWB%5d%20A%20Lifting%20Up%20For%20the%20Downcast.pdf"
+            },
+            {
+              "title": "The Rare Jewel of Christian Contentment",
+              "by": "Jer. Burroughs",
+              "extent": "142 pp.",
+              "minutes": null,
+              "pages": 142,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Burroughs,%20Jeremiah/The%20Rare%20Jewel%20(Preach%20the%20Word).pdf"
+            },
+            {
+              "title": "The Pleasantness of a Religious Life",
+              "by": "Matthew Henry",
+              "extent": "177 pp.",
+              "minutes": null,
+              "pages": 177,
+              "note": null,
+              "url": "https://archive.org/details/pleasantnessare00henrgoog"
+            },
+            {
+              "title": "Cases of Conscience",
+              "by": "Pike and Hayward",
+              "extent": "480 pp.",
+              "minutes": null,
+              "pages": 480,
+              "note": null,
+              "url": "https://archive.org/details/religiouscasesof00pike"
+            },
+            {
+              "title": "The Saint’s Pocketbook",
+              "by": "Joseph Alleine",
+              "extent": "97 pp.",
+              "minutes": null,
+              "pages": 97,
+              "note": null,
+              "url": "http://www.onthewing.org/user/Alleine%20-%20The%20Saints%20Pocket-Book.pdf"
+            }
+          ],
+          "total": "2282 pages"
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Review:",
+          "items": [
+            {
+              "title": "Homework Assignment Resources (51 Handouts)",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/Series/handouts/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the biblical counseling procedures for the counseling issues presented in the course lectures.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC802",
+      "title": "Nouthetic Counseling II",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Care and Discipleship II 1-18",
+              "by": "IBCD",
+              "extent": "16.5 h",
+              "minutes": 990,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/care-discipleship-level-2/id645379324?mt=2"
+            },
+            {
+              "title": "Philosophies of Counseling and Marriage Counseling",
+              "by": "Dr. Ed Welch",
+              "extent": "1 h 11 min",
+              "minutes": 71,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/sc864_copyright.mp3"
+            },
+            {
+              "title": "Marriage and Family Counseling 1-14",
+              "by": "Dr. John Street",
+              "extent": "21 h",
+              "minutes": 1260,
+              "pages": null,
+              "note": null,
+              "url": "http://www.theologicalresources.org/the-masters-seminary/16-marriage-and-family-counseling/"
+            },
+            {
+              "title": "Biblical Communication",
+              "by": "Lou Priolo",
+              "extent": "55 min",
+              "minutes": 55,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Roles in Marriage",
+              "by": "George Scipione",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=514122127334"
+            },
+            {
+              "title": "Character Traits of a Successful Marriage",
+              "by": "Lou Priolo",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Danger Signs of an Unhealthy Relationship",
+              "by": "Lou Priolo",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Helping People Through Romantic Breakups",
+              "by": "Lou Priolo",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "How Husbands May Help Sanctify Wives",
+              "by": "Lou Priolo",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "How to Love Your Wife",
+              "by": "Lou Priolo",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "The Complete Husband",
+              "by": "Lou Priolo",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Marital Sexuality",
+              "by": "Dr. Edward Welch",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww071a-copyright.mp3"
+            },
+            {
+              "title": "Listening and Ministering to Sexual Issues",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/equipped-to-counsel-si15/id1020338404?mt=2"
+            },
+            {
+              "title": "The Pain of Porn",
+              "by": "Jim Newheiser",
+              "extent": "1 h 11 min",
+              "minutes": 71,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/newheiser.the_pain_of_porn_SS12.mp3"
+            },
+            {
+              "title": "Caring in Cases of Adultery",
+              "by": "Jim Newheiser",
+              "extent": "1 h 4 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/newheiser.caring-in-cases-of-adultery.mp3"
+            },
+            {
+              "title": "Teenagers and Sex",
+              "by": "Paul Tripp",
+              "extent": "1 h 4 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ac943_copyright.mp3"
+            },
+            {
+              "title": "Shepherding a Child’s Heart 1-17",
+              "by": "Ted Tripp",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "http://www.wts.edu/resources/media.html?paramType=search&keywords=shepherding+a+childs+heart&speaker=110&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Family Conference 1-7",
+              "by": "Dr. Bruce Ware",
+              "extent": "7 h",
+              "minutes": 420,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=providence-bc&keyword=2012+Family+Conference&keyworddesc=2012+Family+Conference",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 4",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 5",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 1",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://loupriolo.com/free-audio/"
+                }
+              ]
+            },
+            {
+              "title": "Parenting Seminar 1 2 3 4 5",
+              "by": "Lou Priolo",
+              "extent": "4.5 h",
+              "minutes": 270,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "How to Use Scripture in Child Training 1 and 2",
+              "by": "Lou Priolo",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Counseling Parents that Provoke",
+              "by": "Lou Priolo",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "https://my.ekklesia360.com/Clients/download.php?sid=7663&url=http://www.biblicalcounselingonline.org/resources/audio/priolo.counseling_parents_that_provoke.mp3&mediaBID=1310593"
+            },
+            {
+              "title": "How to Handle a Rebellious Teenager",
+              "by": "George Scipione",
+              "extent": "1 h 8 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Counseling Struggling Adoptive Parents",
+              "by": "Brian Borgman",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/borgman.counseling-struggling-adoptive-parents.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://ibcd.org/wp-content/uploads/2013/07/borgman.the-grace-and-grit-of-adoption-1.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://ibcd.org/wp-content/uploads/2013/07/borgman.the-grace-and-grit-of-adoption-2.mp3"
+                }
+              ]
+            },
+            {
+              "title": "Grace and Grit of Adoption 1 and 2",
+              "by": "Brian Borgman",
+              "extent": "2 h 4 min",
+              "minutes": 124,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Caring for the Abused",
+              "by": "Jim Newheiser",
+              "extent": "1 h 2 min",
+              "minutes": 62,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/newheiser.caring-for-the-abused.mp3"
+            },
+            {
+              "title": "Counseling Sexually Abused Women and Children",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/making-peace-with-the-past/id902589217?mt=2"
+            },
+            {
+              "title": "Counseling a Child who has been Sexually Abused",
+              "by": "Dr. Laura Hendrickson",
+              "extent": "1 h 6 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "The Strategic Nature of Family Worship",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            }
+          ],
+          "total": "90.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Family",
+              "by": "B.M. Palmer",
+              "extent": "308 pp.",
+              "minutes": null,
+              "pages": 308,
+              "note": null,
+              "url": "https://archive.org/details/familyinitscivil00palm"
+            },
+            {
+              "title": "Family Religion",
+              "by": "B.M. Smith",
+              "extent": "226 pp.",
+              "minutes": null,
+              "pages": 226,
+              "note": null,
+              "url": "https://archive.org/details/familyreligion00smit"
+            },
+            {
+              "title": "The Christian Home",
+              "by": "Samuel Phillips",
+              "extent": "406 pp.",
+              "minutes": null,
+              "pages": 406,
+              "note": null,
+              "url": "https://archive.org/details/christianhome00phil"
+            },
+            {
+              "title": "Of Domestical Duties",
+              "by": "William Gouge",
+              "extent": "339 pp.",
+              "minutes": null,
+              "pages": 339,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Gouge,%20William/Of%20Domestical%20Duties.pdf"
+            },
+            {
+              "title": "A Help to Domestic Happiness",
+              "by": "John Angell James",
+              "extent": "229 pp.",
+              "minutes": null,
+              "pages": 229,
+              "note": null,
+              "url": "https://archive.org/details/familymonitoror03jamegoog"
+            },
+            {
+              "title": "The Christian Father's Present to His Children",
+              "by": "John Angell James",
+              "extent": "202 pp.",
+              "minutes": null,
+              "pages": 202,
+              "note": null,
+              "url": "https://archive.org/details/christianfathers01jame"
+            },
+            {
+              "title": "Divorce and Remarriage: Recovering the Biblical View",
+              "by": "William Luck",
+              "extent": "287 pp.",
+              "minutes": null,
+              "pages": 287,
+              "note": null,
+              "url": "https://bible.org/assets/worddocs/luck_divorceremarriage.zip"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "A Church in the House",
+              "by": "Matthew Henry",
+              "extent": "92 pp.",
+              "minutes": null,
+              "pages": 92,
+              "note": null,
+              "url": "https://archive.org/details/churchinhouseorf00henr"
+            }
+          ],
+          "total": "1997 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper outlining biblical counseling procedures for the counseling issues presented in the course lectures.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC803",
+      "title": "Nouthetic Counseling III",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Secular Psychology and Christianity",
+              "by": "Dr. Richard Ganz",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12220485341"
+            },
+            {
+              "title": "Personal Freedom",
+              "by": "Dr. Richard Winter",
+              "extent": "1 h 10 min",
+              "minutes": 70,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/02_developmind_1990.mp3"
+            },
+            {
+              "title": "A Biblical View of Personality",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            },
+            {
+              "title": "Bird’s Eye View of Psychology",
+              "by": "Dr. Richard Winter",
+              "extent": "1 h 18 min",
+              "minutes": 78,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/04_developmind_1990.mp3"
+            },
+            {
+              "title": "God, Psychology, and the Christian Care of the Soul 1-3",
+              "by": "David Powlison",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=god+psychology+powlison"
+            },
+            {
+              "title": "Psychology’s View and Scripture’s View: Who We Are",
+              "by": "Ed Welch",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/psychology-s-view-and-scripture-s-view-who-we-are"
+            },
+            {
+              "title": "Biblical and Psychological Views of Death",
+              "by": "Dr. Edward Welch",
+              "extent": "1 h 10 min",
+              "minutes": 70,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ci945-copyright.mp3"
+            },
+            {
+              "title": "Advanced Biblical Counseling 1-13",
+              "by": "Dr. John Street",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "http://www.theologicalresources.org/the-masters-seminary/27-advanced-biblical-counseling/"
+            },
+            {
+              "title": "Biblical Counseling and the Five Points of Calvinism",
+              "by": "Dr. Jay Adams",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/np119-copyright.mp3"
+            },
+            {
+              "title": "Do You Think Like a Christian?",
+              "by": "Lou Priolo",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "The Church and the Addicted Society",
+              "by": "Ed Welch",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/the-church-and-the-addicted-society"
+            },
+            {
+              "title": "Addictions: A Banquet in the Grave 1 and 2",
+              "by": "Ed Welch",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Coming out of Homosexuality 1 and 2",
+              "by": "IBCD",
+              "extent": "2 h 5 min",
+              "minutes": 125,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            },
+            {
+              "title": "Will Medicine Stop the Pain: Psychotropic Drugs",
+              "by": "Dr. Laura Hendrickson",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "The Problems of Pain Medicine",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h 4 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/Good-Mood-Bad-Mood-4.mp3"
+            },
+            {
+              "title": "Making All Things New: Restoring Pure Joy to the Sexually Broken",
+              "by": "David Powlison",
+              "extent": "1 h 13 min",
+              "minutes": 73,
+              "pages": null,
+              "note": null,
+              "url": "http://www.desiringgod.org/messages/making-all-things-new-restoring-pure-joy-to-the-sexually-broken"
+            },
+            {
+              "title": "Medicine and Biblical Counseling",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "What's Medical about Mental Illness",
+              "by": "Dr. Charles Hodges",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2016/03/hodges.whats-medical-about-mental-illness.mp3"
+            },
+            {
+              "title": "Counseling People with a Psychological Diagnosis",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2016/03/hodges.counseling-people-with-psychological-diagnoses.mp3"
+            },
+            {
+              "title": "Counseling People with Psychological Disorders",
+              "by": "George Scipione",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/scipione.counseling-people-with-psycological-disorders.mp3"
+            },
+            {
+              "title": "Helping Women Come Safely Off Anti-depressants",
+              "by": "IBCD",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/making-peace-with-the-past/id902589217?mt=2"
+            },
+            {
+              "title": "When People Go Insane",
+              "by": "Ed Welch",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ac935_copyright.mp3"
+            },
+            {
+              "title": "Sexual Identity and the Bible",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/disordered-desires-si16/id1134744046?mt=2"
+            },
+            {
+              "title": "ADHD Diagnosis",
+              "by": "Dr. Ed Welch",
+              "extent": "68 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ac954_copyright.mp3"
+            },
+            {
+              "title": "Paying Attention to ADHD",
+              "by": "IBCD",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/ibcd-medical-issues-and-biblical-counseling/id1093295209"
+            },
+            {
+              "title": "Ministering to ADHD Patients and their Families",
+              "by": "Eileen Scipione",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/scipione.eileen-ministering-to-adhd-patients-and-their-families.mp3"
+            },
+            {
+              "title": "Ministering to Parents of Special Needs Children",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/making-peace-with-the-past/id902589217?mt=2"
+            },
+            {
+              "title": "Thinking Biblically about OCD",
+              "by": "IBCD",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/ibcd-medical-issues-and-biblical-counseling/id1093295209"
+            },
+            {
+              "title": "Listening and Ministering to Eating Disorders",
+              "by": "Scott Mehl",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/mehl.listenting-and-ministering-to-eating-disorders-and-disorderly-eating.mp3"
+            },
+            {
+              "title": "Anorexia",
+              "by": "Martha Peace",
+              "extent": "1 h 12 min",
+              "minutes": 72,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2014/07/peace.counseling-as-if-a-life-depended-on-it-anorexia.mp3"
+            },
+            {
+              "title": "Gluttony Diet Fitness and Body Idolatry",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            },
+            {
+              "title": "Offering Hope and Help to Women who Self-Injure",
+              "by": "Janet Gustafson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/gustafson-j.offering-hope-and-help-to-women-who-self-injure.mp3"
+            },
+            {
+              "title": "Post-Traumatic Stress Disorder",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/Good-Mood-Bad-Mood-3.mp3"
+            },
+            {
+              "title": "Dealing with Suicide",
+              "by": "Bruce Ray",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Counseling after a Suicide",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/making-peace-with-the-past/id902589217?mt=2"
+            },
+            {
+              "title": "Counseling the Terminally Ill",
+              "by": "Roger Wagner",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1SzBdChV0euHq3xPDMkTwWS-_0F6nRLFs/view?usp=sharing"
+            },
+            {
+              "title": "Responding to Suffering that Cannot be Fixed",
+              "by": "Dr. David Powlison",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww992_copyright.mp3"
+            },
+            {
+              "title": "Confessions of a Biblical Counselor",
+              "by": "George Scipione",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2014/07/scipione.confessions-of-a-biblical-counselor.mp3"
+            }
+          ],
+          "total": "63 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Alcohol, Benzos, and Opiates — Withdrawal that Might Kill You",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Can Withdrawal Cause Death?",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://americanaddictioncenters.org/withdrawal-timelines-treatments/risk-of-death/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Psychoheresy",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "472 pp.",
+              "minutes": null,
+              "pages": 472,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/PHR-ebk.pdf"
+            },
+            {
+              "title": "The End of Christian Psychology",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "298 pp.",
+              "minutes": null,
+              "pages": 298,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/ECP-ebk.pdf"
+            },
+            {
+              "title": "Against Biblical Counseling: For the Bible",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "203 pp.",
+              "minutes": null,
+              "pages": 203,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/ABC-webbk.pdf"
+            },
+            {
+              "title": "Four Temperaments, Astrology, and Personality Testing",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "220 pp.",
+              "minutes": null,
+              "pages": 220,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/4temp-ebk.pdf"
+            },
+            {
+              "title": "Missions and Psychoheresy",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "168 pp.",
+              "minutes": null,
+              "pages": 168,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/MPH-ebk.pdf"
+            },
+            {
+              "title": "12 Steps to Destruction",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "260 pp.",
+              "minutes": null,
+              "pages": 260,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/12steps-ebk.pdf"
+            },
+            {
+              "title": "Hypnosis: Medical, Scientific, or Occultic?",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "144 pp.",
+              "minutes": null,
+              "pages": 144,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/Hypnosis-ebk.pdf"
+            },
+            {
+              "title": "Counseling the Hard Cases",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "222 pp.",
+              "minutes": null,
+              "pages": 222,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/pdf/hard_cases_ebook.pdf"
+            },
+            {
+              "title": "The Guilt, Folly, and Sources of Suicide",
+              "by": "Samuel Miller",
+              "extent": "72 pp.",
+              "minutes": null,
+              "pages": 72,
+              "note": null,
+              "url": "https://archive.org/details/2563057R.nlm.nih.gov/page/n5/mode/2up",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.1).pdf"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.2).pdf"
+                },
+                {
+                  "label": "Vol. 3,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.3).pdf"
+                },
+                {
+                  "label": "Vol. 4,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.4).pdf"
+                },
+                {
+                  "label": "Vol. 5",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.5).pdf"
+                }
+              ]
+            }
+          ],
+          "total": "2059 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating biblical counseling procedures for the counseling issues presented in the course lectures.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC804",
+      "title": "The Christian Directory",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Body of Practical Divinity Vols. 1, 2, 3, 4, 5 (A Christian Directory)",
+              "by": "Richard Baxter",
+              "extent": "2978 pp.",
+              "minutes": null,
+              "pages": 2978,
+              "note": null
+            }
+          ],
+          "total": "2978 pages"
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the biblical counseling principles used by Baxter in this classic work.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS690",
+      "title": "Master’s Thesis",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Students with a thesis completed for their previous master’s program are exempt from the thesis requirement provided that they submit a copy of their previous thesis to the seminary.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Students without a previous thesis must complete a thesis as outlined below: Your thesis topic must be directly related to the field of counseling. You must work closely with your mentor in developing your thesis topic and in working through the thesis. Thesis topics must first be approved by the seminary administration. Students must use the Request for Approval of Thesis Topic Form when submitting their topic for approval. The completed form should be emailed to info@logcollege.net. Students should not begin thesis work until the seminary administration has first approved the topic.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "FORMATTING: Current Turabian",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 1,
+          "type": "assignment",
+          "instruction": "Your Master’s Thesis should be no less than 100 pages, 1 inch margins, twelve-point type, Times New Roman font, double spaced.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Your Master’s Thesis should be free of grammatical and syntax errors and should represent the caliber of work you have completed during your Master’s Program.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Your Master’s Thesis must include a submission page, table of contents, and full bibliography.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Your Master’s Thesis must be submitted to LCS administration by your mentor (after grading) for final review and approval before you will be considered for graduation.",
+          "items": [],
+          "total": null
+        }
+      ]
+    }
+  ]
+}

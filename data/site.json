@@ -1,0 +1,208 @@
+{
+  "name": "The Log College & Seminary",
+  "short": "LCS",
+  "tagline": "Continuing a legacy of Reformed education, experientialism, and evangelism",
+  "email": "info@logcollege.net",
+  "address": "1121 Broad Street, Suite 1, Sumter, SC 29150",
+  "facebook": "https://www.facebook.com/The-Log-College-Seminary-102558814862088",
+  "application_pdf": "https://img1.wsimg.com/blobby/go/33063ad7-f6bb-48d1-90eb-e9092d80ad1f/downloads/c468e276-6be8-4863-9c62-0d415799c2ce/LCS%20Application.pdf?ver=1776647947060",
+  "arts_url": "https://www.artseminaries.org",
+  "history_pdf": "https://drive.google.com/file/d/121u7y5LFtsfcs51LVLGqsjTeMHHBXikd/view?usp=sharing",
+  "standards_pdfs": [
+    [
+      "The Westminster Confession of Faith",
+      "https://drive.google.com/file/d/1DDiCDWeKNf4ohytg17pgvZj7Iuw8OgSW/view?usp=sharing"
+    ],
+    [
+      "The Larger Catechism",
+      "https://drive.google.com/file/d/1GlE5tZNV0cBSzWh4s1kfvT1hrnP0Ka8q/view?usp=sharing"
+    ],
+    [
+      "The Shorter Catechism",
+      "https://drive.google.com/file/d/1jmVwXqTJqU09Ans3XLRxtC9N21g4PWrJ/view?usp=sharing"
+    ]
+  ],
+  "levels": {
+    "undergraduate": {
+      "label": "Undergraduate",
+      "standard": [
+        "15 hours of lectures per credit hour",
+        "150 pages of assigned reading per credit hour",
+        "10–20 pages of research per course",
+        "Comprehensive final exam"
+      ]
+    },
+    "graduate": {
+      "label": "Graduate",
+      "standard": [
+        "15 hours of lectures per credit hour",
+        "300 pages of assigned reading per credit hour",
+        "30 pages of research per course",
+        "Comprehensive final exam and a thesis"
+      ]
+    },
+    "doctoral": {
+      "label": "Doctoral",
+      "standard": [
+        "15 hours of lectures per credit hour",
+        "600 pages of assigned reading per credit hour",
+        "40 pages of research per course",
+        "Dissertation"
+      ]
+    }
+  },
+  "programs": [
+    {
+      "slug": "ats",
+      "abbr": "ATS",
+      "level": "undergraduate",
+      "order": 1,
+      "pdf": "https://drive.google.com/file/d/1VeexwuXWaReOfROwq_4pwRvtpnX9CKsE/view?usp=sharing",
+      "duration": {
+        "full": "2–3 years",
+        "part": "3–4 years"
+      },
+      "summary": "Develop and expand your knowledge of the basic biblical and theological disciplines.",
+      "description": "The ATS program is designed to help students develop and expand their knowledge in basic Biblical and theological disciplines. The ATS program consists of 60 academic credit hours and requires a high school diploma or GED for admission."
+    },
+    {
+      "slug": "bts",
+      "abbr": "BTS",
+      "level": "undergraduate",
+      "order": 2,
+      "pdf": "https://drive.google.com/file/d/1QJrY8LMjUbZn1hJt9mdBIbS5gsd2YA71/view?usp=sharing",
+      "duration": {
+        "full": "2–3 years",
+        "part": "3–5 years"
+      },
+      "summary": "A strong biblical and theological foundation for ministry and for graduate seminary study.",
+      "description": "The BTS program provides students with a strong Biblical and theological foundation for ministry as well as preparation for graduate level seminary programs. The BTS program consists of 60 academic credit hours and requires an associate degree or equivalent for admission."
+    },
+    {
+      "slug": "mbs",
+      "abbr": "MBS",
+      "level": "graduate",
+      "order": 3,
+      "pdf": "https://drive.google.com/file/d/13Vkzm-QDhtzlQkr9uAnBJ5OgDdw9ymUV/view?usp=sharing",
+      "duration": {
+        "full": "2–3 years",
+        "part": "3–5 years"
+      },
+      "summary": "A systematic study of the canonical books through hermeneutics, biblical theology, and covenant theology.",
+      "description": "The MBS program provides students with a systematic study of the Canonical books incorporating Hermeneutics, Biblical Theology, and Covenant Theology. The MBS program consists of 47 academic credit hours that may be transferred into the M.Div. program. The program requires a baccalaureate degree (in any field) or equivalent for admission."
+    },
+    {
+      "slug": "mts",
+      "abbr": "MTS",
+      "level": "graduate",
+      "order": 4,
+      "pdf": "https://drive.google.com/file/d/1iboVfhvIc1C--WgHuo1FEPn3BYZKArkj/view?usp=sharing",
+      "duration": {
+        "full": "2–3 years",
+        "part": "3–5 years"
+      },
+      "summary": "Advanced theological study to engage critically across a wide range of theological fields.",
+      "description": "The MTS program provides students with advanced theological study and will equip the student to critically engage in a wide range of theological fields. The MTS program consists of 61 academic credit hours and is comprised of select courses taken from the M.Div. program. The program requires a baccalaureate degree (in any field) or equivalent for admission."
+    },
+    {
+      "slug": "mdiv",
+      "abbr": "M.Div.",
+      "level": "graduate",
+      "order": 5,
+      "featured": true,
+      "pdf": "https://drive.google.com/file/d/1aPGdlQfVKocCC1_K8NXinglffS9v6F2C/view?usp=sharing",
+      "duration": {
+        "full": "3–4 years",
+        "part": "4–6 years"
+      },
+      "summary": "The classic pastoral degree: a rigorous, rewarding preparation to shepherd God's people.",
+      "description": "The M.Div. program is designed to equip students for pastoral ministry. A rigorous but extremely rewarding program, the M.Div. program will prepare the student to faithfully serve as a shepherd to God's people. It has traditionally been the preferred degree for those seeking to enter a pastoral role. Our program is one of the more demanding of the M.Div. programs available consisting of 116 academic credit hours. The program requires a baccalaureate degree (in any field) or equivalent for admission.",
+      "restricted": "Male applicants only"
+    },
+    {
+      "slug": "bdiv",
+      "abbr": "B.Div.",
+      "level": "undergraduate",
+      "order": 6,
+      "pdf": "https://drive.google.com/file/d/1LlA8O-RBpJeEaTIN6bkSqDvxvmvJNDfu/view?usp=sharing",
+      "duration": {
+        "full": "3–4 years",
+        "part": "4–6 years"
+      },
+      "summary": "The M.Div. curriculum for men over 30 without an undergraduate degree who sense a call to pastoral ministry.",
+      "description": "The B.Div. program is available to men over 30 years of age who have not yet earned an undergraduate degree but perceive a call to pastoral ministry. The program is identical to the Master of Divinity program. The B.Div. is considered a terminal professional degree and does not grant academic standing in terms of future graduate study. The B.Div. program requires a high school diploma or GED for admission.",
+      "restricted": "Male applicants over 30 only"
+    },
+    {
+      "slug": "thm-nc",
+      "abbr": "Th.M.",
+      "level": "graduate",
+      "order": 7,
+      "pdf": "https://drive.google.com/file/d/10kAzO6sv02XW5zQ20Tm6Tottpv8JBgwN/view?usp=sharing",
+      "duration": {
+        "full": "1–2 years",
+        "part": "2–3 years"
+      },
+      "summary": "Focused study of nouthetic counseling for pastors and for counselors moving to a biblical framework.",
+      "description": "The Th.M. in Nouthetic Counseling program is a focused study of the principles of Nouthetic Counseling designed for pastors who would like advanced training in this important pastoral task as well as graduates of secular counseling programs who would like to transition into a Nouthetic framework. The Th.M. in Nouthetic Counseling grants advanced standing in the Th.D. in Nouthetic Counseling program."
+    },
+    {
+      "slug": "dmin",
+      "abbr": "D.Min.",
+      "level": "doctoral",
+      "order": 8,
+      "pdf": "https://drive.google.com/file/d/1q8p8UHHI3b9_MPXICexh6rwXBdBzX3xt/view?usp=sharing",
+      "duration": {
+        "full": "3–6 years",
+        "part": null
+      },
+      "summary": "Advanced study for pastors, with concentrations in Reformed Theological Thought, Nouthetic Counseling, or Apologetics.",
+      "description": "The D.Min. program provides pastors with advanced theological study and enables them to further develop their ministry philosophy and ministry skills. The program offers three areas of concentration: Reformed Theological Thought, Nouthetic Counseling, and Apologetics. The program consists of 15 core credit hours, 15 credit hours in the chosen concentration, and a dissertation (6 credit hours) for a total of 36 academic credit hours. The program requires a M.Div. degree and 3 years of subsequent ministry experience for admission.",
+      "restricted": "Male applicants only"
+    },
+    {
+      "slug": "thd-nc",
+      "abbr": "Th.D.",
+      "level": "doctoral",
+      "order": 9,
+      "pdf": "https://drive.google.com/file/d/1ywftsoVKNVyfMjw-Parae3Pny96oQCDE/view?usp=sharing",
+      "duration": {
+        "full": "6–8 years",
+        "part": "8–12 years"
+      },
+      "summary": "A comprehensive study of nouthetic counseling across the full spectrum of theory and practice.",
+      "description": "The Th.D. in Nouthetic Counseling program is a comprehensive study of the field of Nouthetic Counseling that will equip the student to engage in the full spectrum of Nouthetic theory and practice. The program consists of 51 academic credit hours and requires a M.Div., LCS MTS, or LCS Th.M. in Nouthetic Counseling (grants advanced standing).",
+      "restricted": "Male applicants only"
+    },
+    {
+      "slug": "thd-puritan",
+      "abbr": "Th.D.",
+      "level": "doctoral",
+      "order": 10,
+      "pdf": "https://drive.google.com/file/d/1apFGJPRbnfVWoOpcZ8vPZC0T94a2wQGJ/view?usp=sharing",
+      "duration": {
+        "full": "6–8 years",
+        "part": "8–12 years"
+      },
+      "summary": "Distinguished scholarship in Puritan theology, history, and ministry, for the student's own spiritual formation too.",
+      "description": "This unique doctoral program is designed to provide students with a distinguished level of scholarship in Puritan theology, history, and ministry as well as benefit the student's own spiritual formation as he interacts with the rich content of Puritan thought. The program consists of 51 academic credit hours and requires a master's degree (consisting of a minimum of 60 hours) in a theological discipline for admission.",
+      "restricted": "Male applicants only"
+    },
+    {
+      "slug": "thd-church-history",
+      "abbr": "Th.D.",
+      "level": "doctoral",
+      "order": 11,
+      "pdf": "https://drive.google.com/file/d/1X90l_najeYLJPa7MAqb-zOQ_xYPYgvcC/view?usp=sharing",
+      "duration": {
+        "full": "6–8 years",
+        "part": "8–12 years"
+      },
+      "summary": "Church history with an emphasis on God's providence in the development and growth of the Reformed faith.",
+      "description": "This robust doctoral program is designed to provide students with a distinguished level of scholarship in church history and emphasizes the providence of God surrounding the development and growth of the Reformed Faith. The program consists of 56 academic hours and requires a master's degree (consisting of a minimum of 60 hours) in a theological discipline for admission.",
+      "restricted": "Male applicants only"
+    }
+  ],
+  "concept": true,
+  "official_url": "https://logcollege.net"
+}

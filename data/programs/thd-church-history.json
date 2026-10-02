@@ -1,0 +1,2641 @@
+{
+  "slug": "thd-church-history",
+  "name": "Doctor of Theology in Church History",
+  "credit_hours": 56,
+  "admission": "Open to male students only; minimum 60 hour Master's degree in a field of theological study which includes 6 hours of Hebrew and 6 hours of Greek; applicants without the original languages must first complete the M.Div. language courses (BS500; BS501) as part of the degree program; M.Div or Th.M preferred for admission.",
+  "requirements": [
+    "All written assignments (with the exception of the dissertation) should follow current MLA formatting.",
+    "All numbered assignments (lecture outlines/notes, summaries, chapter summaries, papers, etc.) must be submitted to your mentor for grading."
+  ],
+  "course_list": [
+    {
+      "code": "LG801",
+      "title": "Fundamental Latin Grammar (prerequisite)",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "CH801",
+      "title": "The Early Church",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "CH802",
+      "title": "Medieval Church History",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "CH803",
+      "title": "History of the Reformation",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "PH801",
+      "title": "Puritan History",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "CH804",
+      "title": "Modern Church History",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH860",
+      "title": "New England Theology",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "CH805",
+      "title": "History of Presbyterianism",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "CH806",
+      "title": "Southern Presbyterianism",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "CH807",
+      "title": "History and Theology of Revival",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "HT801",
+      "title": "Historical Theology",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "HT802",
+      "title": "Historic Creeds and Confessions",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "CH890",
+      "title": "Doctoral Dissertation",
+      "credits": 6,
+      "group": null
+    }
+  ],
+  "courses": [
+    {
+      "code": "LG801",
+      "title": "Fundamental Latin Grammar",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "readings",
+          "instruction": "Read each chapter and complete the exercises for each chapter (exercises for each of the 40 chapters and answer key are found at the back of the textbook). Exercises, after self-corrections are made by using the answer keys, are to be submitted to your mentor for grading:",
+          "items": [
+            {
+              "title": "Wheelock's Latin, 7th Edition",
+              "by": null,
+              "extent": "608 pp.",
+              "minutes": null,
+              "pages": 608,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1FJoeFUsF93pCk6gftEf54bI446DL_hmY/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "lectures",
+          "instruction": "For each of the 40 chapters of Wheelock, Read the appropriate chapter of Beginning Latin (see link below), view each accompanying lecture presentation, and take notes on each lecture presentation. Notes are to be submitted to mentor for grading. Complete the practice tests as arranged in the Beginning Latin material. These practice tests will serve as official examinations and must be proctored by your mentor or church officer and graded by your mentor. The practice tests are accompanied by an answer key for the use of your mentor.",
+          "items": [
+            {
+              "title": "Beginning Latin",
+              "by": null,
+              "extent": "18.5 h",
+              "minutes": 1110,
+              "pages": null,
+              "note": null,
+              "url": "http://www.usu.edu/markdamen/Latin1000/index.htm"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "Listen and take notes on the following lectures from Latin Per Diem. Submit notes to your mentor for grading:",
+          "items": [
+            {
+              "title": "The Apostles' Creed",
+              "by": null,
+              "extent": "5",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4AtC6yvpN8Hu3FwYWcezQ6N"
+            },
+            {
+              "title": "The Nicene Creed",
+              "by": null,
+              "extent": "5",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4AP5NARKTXP_aIE7vvrb-Ve"
+            },
+            {
+              "title": "Augustine - De Civitate Dei",
+              "by": null,
+              "extent": "5",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4Dn6nEMS6UyGsK1KeSJhc1P"
+            },
+            {
+              "title": "Calvin's 1536 Institutes",
+              "by": null,
+              "extent": "18",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4CkOuSkKS-ZwmJa2yNZPi1K"
+            },
+            {
+              "title": "The Belgic Confession",
+              "by": null,
+              "extent": "10",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.latinperdiem.com/confessio-belgica/"
+            },
+            {
+              "title": "The Heidelberg Catechism",
+              "by": null,
+              "extent": "3",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4Aja3TyGXooMfsiNFZ_Lxhx"
+            },
+            {
+              "title": "Turretin - Institutes of Elenctic Theology",
+              "by": null,
+              "extent": "3",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.latinperdiem.com/francis-turretin/"
+            },
+            {
+              "title": "The Westminster Shorter Catechism",
+              "by": null,
+              "extent": "46",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4AaFJ-lQfJhAZ_dKsW-2dTS"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Vocabulary List - in development",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Vocabulary Exam - in development.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Complete the translation exercises and perform a self-check using the answer keys provided in the text: The Catholic's Latin Instructor by E. Caswall. Submit the exercises to your mentor for grading. Note: these exercises are to expose the student to the most prevalent expressions of Ecclesiastical Latin; the inclusion of these exercises in no way endorses or condones Roman Catholic practice.",
+          "items": [],
+          "total": null
+        }
+      ],
+      "note": "Prerequisite for all courses; must be completed first before beginning any other course."
+    },
+    {
+      "code": "CH801",
+      "title": "The Early Church",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Value of Church History",
+              "by": "Nick Needham",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "http://www.wicketgate.co.uk/lectures/lecture_value_of_church_history.mp3"
+            },
+            {
+              "title": "Why Bother with Church History?",
+              "by": "Andrew Davies",
+              "extent": "46 min",
+              "minutes": 46,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2002%20Why%20bother%20with%20Church%20History%20-%20Andrew%20Davies.mp3"
+            },
+            {
+              "title": "Ancient Church History 1-6",
+              "by": "Marcelo Souza",
+              "extent": "7 h",
+              "minutes": 420,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/History%20Lectures.htm"
+            },
+            {
+              "title": "Church History I 1-13",
+              "by": "Dr. Gerald Bray",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/church-history-1/gerald-bray"
+            },
+            {
+              "title": "The Ancient Church 1-24",
+              "by": "Dr. Richard Gamble",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "http://christianuniversity.org/courses/the-ancient-church/"
+            },
+            {
+              "title": "Ancient Church History 1-16",
+              "by": "Dr. William Barker",
+              "extent": "12 h",
+              "minutes": 720,
+              "pages": null,
+              "note": null,
+              "url": "https://students.wts.edu/resources/media.html?paramType=search&keywords=Ancient+Church+History&speaker=23&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Ancient and Medieval Church History 1-18",
+              "by": "Dr. David Calhoun",
+              "extent": "14 h",
+              "minutes": 840,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/ancient-medieval-church-history-audio-lectures/id418582066?mt=10"
+            },
+            {
+              "title": "The Early Church",
+              "by": "Andrew Davies",
+              "extent": "1 h 3 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1979%20The%20Early%20Church%20-%20Andrew%20Davies.mp3"
+            }
+          ],
+          "total": "Total: 67.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The History of the Christian Church Vol. 1, Books I and II",
+              "by": "Philip Smith",
+              "extent": "488 pp.",
+              "minutes": null,
+              "pages": 488,
+              "note": null,
+              "url": "https://archive.org/details/historyofchristifirstten00smit/page/n3/mode/2up"
+            },
+            {
+              "title": "Ancient Christianity Exemplified",
+              "by": "Lyman Coleman",
+              "extent": "672 pp.",
+              "minutes": null,
+              "pages": 672,
+              "note": null,
+              "url": "https://archive.org/details/ancientchristi00cole"
+            },
+            {
+              "title": "The Ancient Church (Period II, pp. 249-598)",
+              "by": "William Killen",
+              "extent": "349 pp.",
+              "minutes": null,
+              "pages": 349,
+              "note": null,
+              "url": "https://archive.org/details/ancientchurchit00kill/page/n5/mode/2up",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "https://archive.org/details/livesofmosteminent01cave"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "https://archive.org/details/livesofmosteminent02cave"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "https://archive.org/details/livesofmosteminent03cave"
+                }
+              ]
+            },
+            {
+              "title": "Lives of the Most Eminent Fathers of the Church Vols. 1, 2, 3",
+              "by": "William Cave",
+              "extent": "1333 pp.",
+              "minutes": null,
+              "pages": 1333,
+              "note": null
+            },
+            {
+              "title": "The Theology of the Early Christian Church",
+              "by": "James Bennett",
+              "extent": "300 pp.",
+              "minutes": null,
+              "pages": 300,
+              "note": null,
+              "url": "https://archive.org/details/theologyofearlyc08benn/page/n5/mode/2up"
+            }
+          ],
+          "total": "Total: 3,142 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "It should be noted that Church History technically begins with the Old Testament Church. A great reference for this period of church history is Jonathan Edward's A History of the Work of Redemption, Period I, pp. 28-206.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH802",
+      "title": "Medieval Church History",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Ancient and Medieval Church History 19-35",
+              "by": "Dr. David Calhoun",
+              "extent": "13 h",
+              "minutes": 780,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/ancient-medieval-church-history-audio-lectures/id418582066?mt=10"
+            },
+            {
+              "title": "Medieval Church 1-11",
+              "by": "Dr. Carl Truman",
+              "extent": "13.5 h",
+              "minutes": 810,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/medievalchurch/id430337027?mt=10"
+            },
+            {
+              "title": "Medieval Church 1-25",
+              "by": "Dr. D. Clair Davis",
+              "extent": "22 h",
+              "minutes": 1320,
+              "pages": null,
+              "note": null,
+              "url": "https://students.wts.edu/resources/media.html?paramType=search&keywords=Medieval+Church&speaker=24&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Medieval Theology 1-27",
+              "by": "Dr. Douglas Kelly",
+              "extent": "18 h",
+              "minutes": 1080,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/medieval-theology-dr-douglas-kelly/id592462344"
+            }
+          ],
+          "total": "Total: 66.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The History of the Christian Church Vol. I, Book III",
+              "by": "Philip Smith",
+              "extent": "115 pp.",
+              "minutes": null,
+              "pages": 115,
+              "note": null,
+              "url": "https://archive.org/details/historyofchristifirstten00smit/page/n3/mode/2up"
+            },
+            {
+              "title": "The History of the Christian Church Vol. II",
+              "by": "Philip Smith",
+              "extent": "690 pp.",
+              "minutes": null,
+              "pages": 690,
+              "note": null,
+              "url": "https://archive.org/details/historyofchristi00smit/page/n7/mode/2up"
+            },
+            {
+              "title": "The Old Catholic Church (Period II, pp. 60-394)",
+              "by": "William Killen",
+              "extent": "334 pp.",
+              "minutes": null,
+              "pages": 334,
+              "note": null,
+              "url": "https://archive.org/details/oldcatholicchurc00kill/page/n5/mode/2up"
+            },
+            {
+              "title": "Early Medieval Theology",
+              "by": "George McCracken and Allen Cabaniss",
+              "extent": "410 pp.",
+              "minutes": null,
+              "pages": 410,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1C00qGEHbHxyrBjr79juDQLnXcFTow1bg/view?usp=sharing"
+            },
+            {
+              "title": "The Great Schoolmen of the Middle Ages",
+              "by": "William John Townsend",
+              "extent": "361 pp.",
+              "minutes": null,
+              "pages": 361,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1Jry8UJLZa1jmiBc4cCgzh9KcFnxcUHU8/view?usp=sharing"
+            },
+            {
+              "title": "The Papacy",
+              "by": "J.A. Wylie",
+              "extent": "558 pp.",
+              "minutes": null,
+              "pages": 558,
+              "note": null,
+              "url": "https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t2g73ff9s&view=1up&seq=7"
+            },
+            {
+              "title": "History of the Waldenses",
+              "by": "J.A. Wylie",
+              "extent": "212 pp.",
+              "minutes": null,
+              "pages": 212,
+              "note": null,
+              "url": "https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t0dv23s89&view=1up&seq=13"
+            },
+            {
+              "title": "The Testimony of St. Patrick against the False Pretensions of Rome",
+              "by": "Henry Mason",
+              "extent": "233 pp.",
+              "minutes": null,
+              "pages": 233,
+              "note": null,
+              "url": "https://archive.org/details/TheTestimonyOfStPatrick"
+            },
+            {
+              "title": "The Early Irish Church Independent of Rome until A.D. 1172",
+              "by": "Robert Maguire",
+              "extent": "88 pp.",
+              "minutes": null,
+              "pages": 88,
+              "note": null,
+              "url": "https://books.google.com/books/download/The_Early_Irish_Church_Independent_of_Ro.pdf?id=DzlfAAAAcAAJ&output=pdf&sig=ACfU3U2GjW4p_BbM3fMHhsvBpKUZi0nnTA"
+            }
+          ],
+          "total": "Total: 3,001 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH803",
+      "title": "History of the Reformation",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Reformation and Modern Church History 1-18",
+              "by": "Dr. David Calhoun",
+              "extent": "13 h",
+              "minutes": 780,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/reformation-modern-church-history-audio-lectures/id418584119?mt=10"
+            },
+            {
+              "title": "Church History II 1-20",
+              "by": "Dr. Gerald Bray BT",
+              "extent": "25 h",
+              "minutes": 1500,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/church-history-2/gerald-bray"
+            },
+            {
+              "title": "The Reformation 1-33",
+              "by": "Carl Trueman",
+              "extent": "30 h",
+              "minutes": 1800,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/the-reformation/id924126015?mt=10",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "https://archive.org/details/historyofprotest01wyli"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "https://archive.org/details/historyofprotest02wyli"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "https://archive.org/details/historyofprotest03wyli"
+                },
+                {
+                  "label": "Vol. 1,",
+                  "url": "https://archive.org/details/historyofreforma01merl"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "https://archive.org/details/historyofreforma02merl"
+                },
+                {
+                  "label": "Vol. 3,",
+                  "url": "https://archive.org/details/historyofreforma03merl"
+                },
+                {
+                  "label": "Vol. 4",
+                  "url": "https://archive.org/details/historyofreforma04merl"
+                }
+              ]
+            }
+          ],
+          "total": "Total: 68 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The History of Protestantism Vols. 1, 2, 3",
+              "by": "J.A. Wylie",
+              "extent": "1871 pp.",
+              "minutes": null,
+              "pages": 1871,
+              "note": null
+            },
+            {
+              "title": "History of the Reformation of the Sixteenth Century Vols. 1, 2, 3, 4",
+              "by": "J.H. Merle D'Aubigne",
+              "extent": "2010 pp.",
+              "minutes": null,
+              "pages": 2010,
+              "note": null
+            },
+            {
+              "title": "The Reformers and the Theology of the Reformation",
+              "by": "William Cunningham",
+              "extent": "608 pp.",
+              "minutes": null,
+              "pages": 608,
+              "note": null,
+              "url": "https://archive.org/details/reformerstheolog00cunn"
+            }
+          ],
+          "total": "Total: 4,489 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PH801",
+      "title": "Puritan History",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The English Puritans (Lectures 1-5)",
+              "by": "Dr J.I. Packer",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/the-english-puritans/id378878741?mt=10"
+            },
+            {
+              "title": "The Puritans",
+              "by": "Peter Lewis",
+              "extent": "1 h 20 min",
+              "minutes": 80,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1982%20The%20Puritans%20-%20Peter%20Lewis.mp3"
+            },
+            {
+              "title": "The Puritans",
+              "by": "Dr. David Calhoun",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/wp-content/uploads/sites/5/2014/11/Course-ReformationandModernChurchHistory-DrDavidCalhoun-Lecture15-ThePuritans.mp3"
+            },
+            {
+              "title": "The English Puritans",
+              "by": "Bill Potter",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=63151834359"
+            },
+            {
+              "title": "Puritanism",
+              "by": "Dr. Carl Trueman",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/ch311-13-30-copyright.mp3"
+            },
+            {
+              "title": "Puritanism in England and New England",
+              "by": "Dr. John Gerstner",
+              "extent": "28 min",
+              "minutes": 28,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/handout-church-history/puritanism-in-england-and-new-england/"
+            },
+            {
+              "title": "History and Theology of the Puritans (Lectures 1-21)",
+              "by": "Dr. Douglas Kelly",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-theology-puritans/id580271046"
+            },
+            {
+              "title": "The Context of English Puritanism",
+              "by": "Don Fortson",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "Puritan Worship and the Political Situation",
+              "by": "Don Fortson",
+              "extent": "38 min",
+              "minutes": 38,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "The Reformation and the Puritans",
+              "by": "Bill Potter",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=319131034352"
+            },
+            {
+              "title": "Archbishop Cranmer",
+              "by": "Peter Adam",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/archbishop-cranmer"
+            },
+            {
+              "title": "Thomas Cranmer",
+              "by": "Gordon Murray",
+              "extent": "1 h 14 min",
+              "minutes": 74,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/aut_lecture04_2008.mp3"
+            },
+            {
+              "title": "Thomas Cranmer and the Anglican Enigma",
+              "by": "Gordon Murray",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/Various%20History/Westminster%20Con/2006/WC06B-Thomas-Cranmer-and-the-Anglican-Enigma.mp3"
+            },
+            {
+              "title": "Field and Hooker",
+              "by": "David Holloway",
+              "extent": "1 h 25 min",
+              "minutes": 85,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/field-and-hooker/"
+            },
+            {
+              "title": "John Knox and the Scottish Puritans",
+              "by": "Bill Potter",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=319131037337"
+            },
+            {
+              "title": "The Covenanters: No King but Jesus",
+              "by": "Bill Potter",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=513131552396"
+            },
+            {
+              "title": "Oliver Cromwell and His Russet-Coated Heroes",
+              "by": "Bill Potter",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=319131036386"
+            },
+            {
+              "title": "Oliver Cromwell",
+              "by": "Clive Goulden",
+              "extent": "1 h 23 min",
+              "minutes": 83,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1993%20Oliver%20Cromwell%20-%20Clive%20Goulden.mp3"
+            },
+            {
+              "title": "Oliver Cromwell",
+              "by": "Peter Jeffrey",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1977%20Oliver%20Cromwell%20-%20Peter%20Jeffery.mp3"
+            },
+            {
+              "title": "Oliver Cromwell",
+              "by": "Phil Arthur",
+              "extent": "1 h 45 min",
+              "minutes": 105,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/aut_lecture01_2008.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://media1.wts.edu/media/audio/wb320-copyright.mp3"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://media1.wts.edu/media/audio/wb321-copyright.mp3"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "http://media1.wts.edu/media/audio/wb322-copyright.mp3"
+                }
+              ]
+            },
+            {
+              "title": "The Westminster Assembly 1, 2, and 3",
+              "by": "Dr. William Barker",
+              "extent": "1 h 36 min",
+              "minutes": 96,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "The Westminster Assembly",
+              "by": "Don Fortson",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/resource/courses/reformation-modern-church-history/"
+            },
+            {
+              "title": "The Westminster Assembly",
+              "by": "Dr. David Calhoun",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?sid=83004123250"
+            },
+            {
+              "title": "The Westminster Assembly",
+              "by": "Dr. Curt Daniel",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "English Baptist Separatists",
+              "by": "Don Fortson",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "The Puritan Revival in England in the 17th Century",
+              "by": "Dr. Douglas Kelly",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1120465323"
+            },
+            {
+              "title": "Marrow Controversy 1-3",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "3 h 30 min",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&SourceID=gpts&keyworddesc=The+Marrow+Controversy&keyword=The+Marrow+Controversy"
+            },
+            {
+              "title": "Assurance Controversy in New England in 1636",
+              "by": "Ian Murray",
+              "extent": "55 min",
+              "minutes": 55,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonindex.net/modules/mydownloads/visit.php?lid=3579"
+            },
+            {
+              "title": "Thomas Hooker and the Doctrine of Conversion",
+              "by": "Ian Murray",
+              "extent": "63 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12202115116"
+            },
+            {
+              "title": "The Great Ejection of 1662",
+              "by": "Gary Brady",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "http://www.bulkingtoncongregational.org/sermons/12_010203/BCC%20MON%202012-02-13%20GARY%20BRADY%20THE%20GREAT%20EJECTION%20OF%201662.mp3"
+            },
+            {
+              "title": "The Great Ejection of 1662 1-3",
+              "by": "Dr. Nick Needham",
+              "extent": "1 h 45 min",
+              "minutes": 105,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=crichbaptist&keyword=Church+History+%26+Biography&keyworddesc=Church+History+%26+Biography"
+            },
+            {
+              "title": "Axminster after 1662",
+              "by": "Stephen Rees",
+              "extent": "1 h 13 min",
+              "minutes": 73,
+              "pages": null,
+              "note": null,
+              "url": "http://www.bulkingtoncongregational.org/sermons/12_010203/BCC%20MON%202012-03-26%20STEPHEN%20REES%20AXMINSTER%20AFTER%201662.mp3"
+            },
+            {
+              "title": "The Puritan Woman",
+              "by": "John Marshall",
+              "extent": "1 h 17 min",
+              "minutes": 77,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1997%20The%20Puritan%20Woman%20-%20John%20Marshall.mp3"
+            },
+            {
+              "title": "The Pilgrim Fathers",
+              "by": "Douglas Jones",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1986%20The%20Pilgrim%20Fathers%20-%20Douglas%20Jones.mp3"
+            },
+            {
+              "title": "Puritan Spirituality in Context",
+              "by": "Dr. Carl Trueman",
+              "extent": "41 min",
+              "minutes": 41,
+              "pages": null,
+              "note": null,
+              "url": "http://mp3.sa-media.com/media/650619641/650619641.mp3"
+            },
+            {
+              "title": "James I and his Bible",
+              "by": "Dr. Carl Trueman",
+              "extent": "36 min",
+              "minutes": 36,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/trueman10-18-11-copyright.mp3"
+            },
+            {
+              "title": "John Owen and the Practice of Theology",
+              "by": "Dr. Carl Trueman",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1080502650"
+            },
+            {
+              "title": "Puritan Reading Room",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://feedingonchrist.com/wp-content/uploads/2009/03/ferguson_puritan_reading_room.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://media1.wts.edu/media/audio/wb322-copyright.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://media1.wts.edu/media/audio/wb323-copyright.mp3"
+                },
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://books.google.com/books/pdf/The_History_of_the_Puritans__Or__Protest.pdf?id=6CA3AAAAMAAJ&output=pdf&sig=cjULxTnIBEFJiP2swy5nTaUycBM"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://books.google.com/books/pdf/The_History_of_the_Puritans__Or_Protesta.pdf?id=H20QAAAAIAAJ&output=pdf&sig=jkaSn9CklKlIdwyMIUpzABNgMzQ"
+                },
+                {
+                  "label": "Vol. 3,",
+                  "url": "http://books.google.com/books/pdf/The_History_of_the_Puritans__Or_Protesta.pdf?id=nWoQAAAAIAAJ&output=pdf&sig=5JDeNx15XXceAG9qYXcPyfKOOCw"
+                }
+              ]
+            },
+            {
+              "title": "American Puritans 1 and 2",
+              "by": "Dr. William Barker",
+              "extent": "107 min",
+              "minutes": 107,
+              "pages": null,
+              "note": null
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "History of the Puritans, Vols. 1, 2, 3, 4, 5",
+              "by": "Daniel Neal",
+              "extent": "2595 pp.",
+              "minutes": null,
+              "pages": 2595,
+              "note": null
+            }
+          ],
+          "total": "TOTAL LECTURES: 58.5 hours; TOTAL PAGES: 2595."
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Create a Puritan Era timeline featuring a minimum of 50 key dates.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on an historical theme/event covered in the lectures or readings above.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH804",
+      "title": "Modern Church History",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Reformation and Modern Church History 19-37",
+              "by": "Dr. David Calhoun",
+              "extent": "14 h",
+              "minutes": 840,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/reformation-modern-church-history-audio-lectures/id418584119?mt=10"
+            },
+            {
+              "title": "A History of the Charismatic Movements 1-24",
+              "by": "Dr. John Hannah",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": "unit not printed in guide; read as hours",
+              "url": "https://christianuniversity.org/courses/a-history-of-the-charismatic-movements/"
+            }
+          ],
+          "total": "Total: 31 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Manual of Church History Vol. 2, Period VI",
+              "by": "Albert Henry Newman",
+              "extent": "300 pp.",
+              "minutes": null,
+              "pages": 300,
+              "note": null,
+              "url": "https://archive.org/details/cu31924092348055"
+            },
+            {
+              "title": "A History of American Christianity",
+              "by": "Leonard Bacon",
+              "extent": "466 pp.",
+              "minutes": null,
+              "pages": 466,
+              "note": null,
+              "url": "https://archive.org/details/historyofamericac00baco"
+            },
+            {
+              "title": "Christian Leaders of the 18th Century",
+              "by": "J.C. Ryle",
+              "extent": "443 pp.",
+              "minutes": null,
+              "pages": 443,
+              "note": null,
+              "url": "https://archive.org/details/christianleaders00ryleuoft"
+            },
+            {
+              "title": "Christianity and Liberalism",
+              "by": "J. Gresham Machen",
+              "extent": "168 pp.",
+              "minutes": null,
+              "pages": 168,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1PwCUZXjyTc-HvCeBPRQHkI3NPWXTre2y/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Historicizing the Megachurch",
+              "by": "David Eagle",
+              "extent": "16 pp.",
+              "minutes": null,
+              "pages": 16,
+              "note": null,
+              "url": "http://people.duke.edu/~dee4/articles/Eagle_Hist_Megachurch.pdf"
+            },
+            {
+              "title": "Pentecostal and Charismatic Movements",
+              "by": "Don Fanning",
+              "extent": "15 pp.",
+              "minutes": null,
+              "pages": 15,
+              "note": null,
+              "url": "http://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1006&context=cgm_missions"
+            }
+          ],
+          "total": "Total: 1,423 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH860",
+      "title": "New England Theology",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "History and Theology of Calvinism: Jonathan Edwards and New England Calvinism",
+              "by": "Dr. Curt Daniel",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=83004124922"
+            },
+            {
+              "title": "Jonathan Edwards",
+              "by": "RT Kendall",
+              "extent": "68 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1979%20Jonathan%20Edwards%20-%20R%20T%20Kendall.mp3"
+            },
+            {
+              "title": "Jonathan Edwards: The Life, the Man, and the Legacy",
+              "by": "Iain Murray",
+              "extent": "1 h 7 min",
+              "minutes": 67,
+              "pages": null,
+              "note": null,
+              "url": "http://www.desiringgod.org/messages/jonathan-edwards-the-life-the-man-and-the-legacy"
+            },
+            {
+              "title": "Jonathan Edwards: The Preacher",
+              "by": "Dr. John Carrick",
+              "extent": "68 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1180461613"
+            },
+            {
+              "title": "The Theology of Jonathan Edwards 1-24",
+              "by": "Dr. John Gerstner",
+              "extent": "17.5 h",
+              "minutes": 1050,
+              "pages": null,
+              "note": null,
+              "url": "https://christianuniversity.org/courses/the-theology-of-jonathan-edwards/"
+            },
+            {
+              "title": "A God-Entranced Vision of All Things: Why We Need Jonathan Edwards 300 Years Later",
+              "by": "John Piper",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://www.desiringgod.org/messages/a-god-entranced-vision-of-all-things-why-we-need-jonathan-edwards-300-years-later"
+            },
+            {
+              "title": "Jonathan Edwards and the Modern Church",
+              "by": "Dr. George Marsden",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/jonathan-edwards-and-the-modern-church/id397770695?mt=10"
+            },
+            {
+              "title": "Assurance Controversy in New England in 1636",
+              "by": "Iain Murray",
+              "extent": "55 min",
+              "minutes": 55,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12202115243"
+            },
+            {
+              "title": "The Rise and Fall of New England Puritanism",
+              "by": "Joe Morecraft, III",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12114144513"
+            }
+          ],
+          "total": "Total: 26.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Church History of New England",
+              "by": "Isaac Backus",
+              "extent": "268 pp.",
+              "minutes": null,
+              "pages": 268,
+              "note": null,
+              "url": "https://archive.org/details/churchhistoryofn00back"
+            },
+            {
+              "title": "A Genetic History of the New England Theology",
+              "by": "Frank Foster",
+              "extent": "594 pp.",
+              "minutes": null,
+              "pages": 594,
+              "note": null,
+              "url": "https://archive.org/details/genetichistoryof00fost_0"
+            },
+            {
+              "title": "Jonathan Edwards",
+              "by": "Alexander Allen",
+              "extent": "424 pp.",
+              "minutes": null,
+              "pages": 424,
+              "note": null,
+              "url": "https://archive.org/details/cu31924029461211"
+            },
+            {
+              "title": "Jonathan Edwards: Selected Shorter Writings",
+              "by": "John Hendryx",
+              "extent": "500 pp.",
+              "minutes": null,
+              "pages": 500,
+              "note": null,
+              "url": "https://www.monergism.com/jonathan-edwards-selected-shorter-writings"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Edwards and The New England Theology",
+              "by": "B.B. Warfield",
+              "extent": "8 pp.",
+              "minutes": null,
+              "pages": 8,
+              "note": null,
+              "url": "https://static1.squarespace.com/static/590be125ff7c502a07752a5b/t/5ebddb78d34cf503a6235102/1589500796029/Warfield%2C+Benjamin+Breckinridge%2C+Edwards+and+the+New+England+Theology.pdf"
+            },
+            {
+              "title": "The Word of God in Puritan New England",
+              "by": "Allen Carden",
+              "extent": "16 pp.",
+              "minutes": null,
+              "pages": 16,
+              "note": null,
+              "url": "http://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1505&context=auss"
+            },
+            {
+              "title": "The Covenant Idea in New England Theology",
+              "by": "Peter Y. De Jong",
+              "extent": "200 pp.",
+              "minutes": null,
+              "pages": 200,
+              "note": null,
+              "url": "https://www.monergism.com/thethreshold/books/The_Covenant_Idea.pdf"
+            },
+            {
+              "title": "Letters on the Origin and Progress of the New Haven Theology",
+              "by": "Bennet Tyler",
+              "extent": "194 pp.",
+              "minutes": null,
+              "pages": 194,
+              "note": null,
+              "url": "https://archive.org/details/lettersontheorig00tyleuoft"
+            }
+          ],
+          "total": "Total: 2,204 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH805",
+      "title": "History of Presbyterianism",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "History of Presbyterianism in All Ages",
+              "by": "Robert Kerr",
+              "extent": "312 pp.",
+              "minutes": null,
+              "pages": 312,
+              "note": null,
+              "url": "https://archive.org/details/peopleshistoryof00kerr"
+            },
+            {
+              "title": "History of the Presbyterian Churches of the World",
+              "by": "R.C. Reed",
+              "extent": "428 pp.",
+              "minutes": null,
+              "pages": 428,
+              "note": null,
+              "url": "https://archive.org/details/historyofpresbyt1915reed"
+            },
+            {
+              "title": "The Story of the Scottish Church",
+              "by": "Thomas M'Crie",
+              "extent": "602 pp.",
+              "minutes": null,
+              "pages": 602,
+              "note": null,
+              "url": "https://archive.org/details/scottish00mcri"
+            },
+            {
+              "title": "A History of the Presbyterian Church in America: From its Origin Until the Year 1760, Part I",
+              "by": "Richard Webster",
+              "extent": "294 pp.",
+              "minutes": null,
+              "pages": 294,
+              "note": null,
+              "url": "https://archive.org/details/historyofpresb00webs"
+            },
+            {
+              "title": "A History of Presbyterian Churches in the United States",
+              "by": "Robert Thompson",
+              "extent": "472 pp.",
+              "minutes": null,
+              "pages": 472,
+              "note": null,
+              "url": "https://archive.org/details/historyofpresbyt06thom"
+            },
+            {
+              "title": "Differences Between Old and New School Presbyterians",
+              "by": "Lewis Cheeseman",
+              "extent": "224 pp.",
+              "minutes": null,
+              "pages": 224,
+              "note": null,
+              "url": "https://archive.org/details/differencesbetwe00chee"
+            },
+            {
+              "title": "The Log College",
+              "by": "Archibald Alexander",
+              "extent": "250 pp.",
+              "minutes": null,
+              "pages": 250,
+              "note": null,
+              "url": "https://archive.org/details/biographicalsketcheso00alex"
+            }
+          ],
+          "total": "Total: 2,582 pages"
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "American Presbyterianism 1-19",
+              "by": "Dr. Don Fortson",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/14JPX5PTmxQ2TnKIbl3N_k2MbWvJq7ISY/view?usp=sharing"
+            },
+            {
+              "title": "The Legacy of Old Princeton",
+              "by": "Dr. David Calhoun and Dr. Andrew Hoffecker",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/mt/itunes-u/the-legacy-of-old-princeton/id438036331?mt=10"
+            },
+            {
+              "title": "Themes of Old Princeton",
+              "by": "Dr. Mark Noll",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/westminster-guests/id535486374?mt=10"
+            }
+          ],
+          "total": "Total: 19 hours"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH806",
+      "title": "Southern Presbyterianism",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Theological Distinctives of the 19th Century Southern Presbyterians",
+              "by": "Dr. C.N. Willborn",
+              "extent": "71 min",
+              "minutes": 71,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/watch?v=1DBfwJDya-w"
+            },
+            {
+              "title": "The Pastoral Qualities of the 19th Century Southern Presbyterians",
+              "by": "Dr. C.N. Willborn",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/watch?v=ilR9ym1hVKs&t=5038s"
+            },
+            {
+              "title": "Southern Presbyterian Preaching",
+              "by": "Dr. Douglas Kelly",
+              "extent": "41 min",
+              "minutes": 41,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12210115471"
+            },
+            {
+              "title": "James Henley Thornwell",
+              "by": "Dr. C. N. Willborn",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=24141327220"
+            },
+            {
+              "title": "Life of R.L. Dabney",
+              "by": "Iain Murray",
+              "extent": "67 min",
+              "minutes": 67,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1080263842"
+            },
+            {
+              "title": "Robert L. Dabney",
+              "by": "Dr. Morton Smith",
+              "extent": "83 min",
+              "minutes": 83,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=41504153830"
+            },
+            {
+              "title": "Robert L. Dabney",
+              "by": "Dr. C. N. Willborn",
+              "extent": "55 min",
+              "minutes": 55,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=241413265110"
+            },
+            {
+              "title": "Robert Lewis Dabney: The Cassandra of Yankeedom",
+              "by": "Bill Potter",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1231414355"
+            },
+            {
+              "title": "John L. Girardeau",
+              "by": "Dr. C. N. Willborn",
+              "extent": "68 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=24141325378"
+            },
+            {
+              "title": "Benjamin Morgan Palmer",
+              "by": "Dr. C. N. Willborn",
+              "extent": "62 min",
+              "minutes": 62,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=24141326189"
+            },
+            {
+              "title": "Charles Colcock and Mary Jones",
+              "by": "Dr. Drake Torp-Pedersen",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=9215217155"
+            },
+            {
+              "title": "Hodge/Thornwell Exchange",
+              "by": "Dr. C. N. Willborn",
+              "extent": "68 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=61212151590"
+            }
+          ],
+          "total": "Total: 12 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A History of the Southern Presbyterian Church",
+              "by": "Thomas Cary Johnson",
+              "extent": "162 pp.",
+              "minutes": null,
+              "pages": 162,
+              "note": null,
+              "url": "https://books.google.com/books/download/A_History_of_the_Southern_Presbyterian_C.pdf?id=t5E9AAAAYAAJ&output=pdf&sig=ACfU3U1dhWtCLRI3EdK-bvw6FMYX6rxD7w"
+            },
+            {
+              "title": "Southern Presbyterian Leaders",
+              "by": "Henry White",
+              "extent": "534 pp.",
+              "minutes": null,
+              "pages": 534,
+              "note": null,
+              "url": "https://archive.org/details/southernpresbyte00whit"
+            },
+            {
+              "title": "Southern Presbyterian Pulpit",
+              "by": "PCUS Committee of Publication",
+              "extent": "552 pp.",
+              "minutes": null,
+              "pages": 552,
+              "note": null,
+              "url": "https://archive.org/details/southernpresbyte00pres"
+            },
+            {
+              "title": "Columbia Theological Seminary and the Southern Presbyterian Church",
+              "by": "William Robinson",
+              "extent": "248 pp.",
+              "minutes": null,
+              "pages": 248,
+              "note": null,
+              "url": "https://archive.org/details/columbiatheologi00robi"
+            },
+            {
+              "title": "Presbyterian Church in the Confederate States of America: Address by the General Assembly to All the Churches of Jesus Christ throughout the Earth (pp 51-60 of Minutes)",
+              "by": null,
+              "extent": "10 pp.",
+              "minutes": null,
+              "pages": 10,
+              "note": null
+            }
+          ],
+          "total": "Total: 1,506 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH807",
+      "title": "History and Theology of Revival",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "History of Revival 1-5",
+              "by": "Iain Murray",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=history+of+revival+iain+murray"
+            },
+            {
+              "title": "Reformation and Revival 1-4",
+              "by": "Ian Murray",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=Reformation+and+revival+iain+murray"
+            },
+            {
+              "title": "History of Revival 1-10",
+              "by": "J. Edwin Orr",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://www.jedwinorr.com/archives/#sectionA_answer_8"
+            },
+            {
+              "title": "Revival 1-3",
+              "by": "Dr. J.I. Packer",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=Revival&keyworddesc=Revival"
+            },
+            {
+              "title": "Theology of Revival",
+              "by": "Timothy K. Beougher",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/theology-of-revival"
+            },
+            {
+              "title": "Revival 1-14",
+              "by": "Dr. Henry Krabbendam",
+              "extent": "12.5 h",
+              "minutes": 750,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?speakerWithinSource=&subsetCat=&subsetItem=&mediatype=&includekeywords=&exactverse=&keyword=Revival&keyworddesc=Revival&currsection=&AudioOnly=false&SeriesOnly=true&SourceID=gpts"
+            },
+            {
+              "title": "Revival 1-24",
+              "by": "Dr. David Martyn Lloyd-Jones",
+              "extent": "18.5 h",
+              "minutes": 1110,
+              "pages": null,
+              "note": "unit not printed in guide; read as hours",
+              "url": "http://www.mljtrust.org/collections/revival/"
+            },
+            {
+              "title": "18th Century Revival",
+              "by": "Graham Harrison",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1999%2018th%20Century%20Revival%20-%20Graham%20Harrison.mp3"
+            },
+            {
+              "title": "Cambuslang Revival 1741",
+              "by": "Irfon Hughes",
+              "extent": "75 min",
+              "minutes": 75,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1981%20Cambuslang%20Revival%201741%20-%20Irfon%20Hughes.mp3"
+            },
+            {
+              "title": "Jonathan Edwards and Revival",
+              "by": "John Carrick",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2005%20Jonathan%20Edwards%20&%20Revival%20-%20John%20Carrick.mp3"
+            },
+            {
+              "title": "History of Revival",
+              "by": "John Carrick",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.mansfieldcopc.org/2004_Conference/carricksession2.mp3"
+            },
+            {
+              "title": "The 1859 Revival",
+              "by": "Irfon Hughes",
+              "extent": "84 min",
+              "minutes": 84,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1978%20The%201859%20Revival%20-%20Ifron%20Hughes.mp3"
+            },
+            {
+              "title": "The Welsh Revival of 1859 and Lessons for Today",
+              "by": "Dafydd Morris",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.bulkingtoncongregational.org/sermons/08_010203/BCC%20WED%2012-03-2008%20(MEETING)%20DAFYDD%20MORRIS.mp3"
+            },
+            {
+              "title": "The Wesleyan Revival",
+              "by": "Sidney Lawrence",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1978%20The%20Wesleyan%20Revival%20-%20Sidney%20Lawrence.mp3"
+            },
+            {
+              "title": "1904 Welsh Revival",
+              "by": "Graham Harrison",
+              "extent": "71 min",
+              "minutes": 71,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1980%201904%20Welsh%20Revival%20-%20Graham%20Harrision.mp3"
+            },
+            {
+              "title": "The Lowestoft Revival",
+              "by": "Andrew Patterson",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1991%20The%20Lowestoft%20Revival%20-%20Andrew%20Patterson.mp3"
+            },
+            {
+              "title": "The Moravian Revival",
+              "by": "Andrew Davies",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1991%20The%20Moravian%20Revival%20-%20Andrew%20Davies.mp3"
+            },
+            {
+              "title": "The Cornish Revival",
+              "by": "Paul Cook",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1991-The%20Cornish%20Revival%20-%20Paul%20Cook.mp3"
+            },
+            {
+              "title": "Charles Finney and His Legacy",
+              "by": "Nick Needham",
+              "extent": "48 min",
+              "minutes": 48,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/Various%20History/Needham%20-%20Finney.mp3"
+            },
+            {
+              "title": "Finney and His Critics",
+              "by": "Nick Needham",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2005%20Finney%20and%20his%20Critics%20-%20Nick%20Needham.mp3"
+            },
+            {
+              "title": "Controversy in Revival",
+              "by": "John Thackway",
+              "extent": "71 min",
+              "minutes": 71,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2004%20Contraversy%20in%20Revival%20-%20John%20Thackway.mp3"
+            },
+            {
+              "title": "Opposition in Revival",
+              "by": "Andrew Davies",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2004%20Opposition%20in%20Revival%20-%20Andrew%20Davies.mp3"
+            },
+            {
+              "title": "Prayer in Revival",
+              "by": "Graham Harrison",
+              "extent": "80 min",
+              "minutes": 80,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2004%20Prayer%20in%20Revival%20-%20Graham%20Harrison.mp3"
+            },
+            {
+              "title": "Preaching in Revival",
+              "by": "Mark Johnston",
+              "extent": "64 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2004%20Preaching%20in%20Revival%20-%20Mark%20Johnston.mp3"
+            }
+          ],
+          "total": "Total: 66.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Revival and Its Lessons",
+              "by": "J.W. Alexander",
+              "extent": "234 pp.",
+              "minutes": null,
+              "pages": 234,
+              "note": null,
+              "url": "https://archive.org/details/revivalitslesson00alex"
+            },
+            {
+              "title": "A History of American Revivals",
+              "by": "Frank Beardsley",
+              "extent": "375 pp.",
+              "minutes": null,
+              "pages": 375,
+              "note": null,
+              "url": "https://archive.org/details/ahistoryamerica00beargoog"
+            },
+            {
+              "title": "The Great Awakening",
+              "by": "Joseph Tracy",
+              "extent": "478 pp.",
+              "minutes": null,
+              "pages": 478,
+              "note": null,
+              "url": "https://archive.org/details/greatawakeninghi00trac"
+            },
+            {
+              "title": "A Narrative of the Revival of Religion in New England",
+              "by": "Jonathan Edwards",
+              "extent": "528 pp.",
+              "minutes": null,
+              "pages": 528,
+              "note": null,
+              "url": "https://archive.org/details/narrativeofreviv00edwa"
+            },
+            {
+              "title": "New England Revivals",
+              "by": "Bennet Tyler",
+              "extent": "388 pp.",
+              "minutes": null,
+              "pages": 388,
+              "note": null,
+              "url": "https://archive.org/details/newenglandreviva00tyle"
+            },
+            {
+              "title": "The Welsh Revival: Its Origin and Development",
+              "by": "Thomas Phillips",
+              "extent": "177 pp.",
+              "minutes": null,
+              "pages": 177,
+              "note": null,
+              "url": "https://archive.org/details/welshrevivalits00philgoog"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Distinguishing Marks of a Work of the Spirit of God (summarize each section; there are 3 sections)",
+              "by": "Jonathan Edwards",
+              "extent": "48 pp.",
+              "minutes": null,
+              "pages": 48,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1Agd9CUa5UEW-uVLfLsq9oDpUcBRXCtmg/view?usp=sharing"
+            },
+            {
+              "title": "Charles G. Finney and the Second Great Awakening",
+              "by": "Pyke",
+              "extent": "18 pp.",
+              "minutes": null,
+              "pages": 18,
+              "note": null,
+              "url": "https://biblicalstudies.org.uk/pdf/ref-rev/06-1/6-1_pyke.pdf"
+            }
+          ],
+          "total": "Total: 2,246 pp"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page pager delineating the theological principles of revival.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "HT801",
+      "title": "Historical Theology",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Historical Theology I",
+              "by": "Dr. Sam Waldron",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sg-audiotreasures.org/sw_earlychurchhistory.htm"
+            },
+            {
+              "title": "Historical Theology II",
+              "by": "Dr. Sam Waldron",
+              "extent": "25 h",
+              "minutes": 1500,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sg-audiotreasures.org/sw_medievalreformationchurchhistory.htm"
+            }
+          ],
+          "total": "Total: 45 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The History of Christian Doctrines",
+              "by": "Louis Berkhof",
+              "extent": "217 pp.",
+              "minutes": null,
+              "pages": 217,
+              "note": null,
+              "url": "https://drive.google.com/file/d/129KjZLpf5NZOktLThRE4inysTWxVqFfH/view?usp=sharing",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://archive.org/details/ahistorychristi02shedgoog"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://archive.org/details/ahistorychristi00shedgoog"
+                },
+                {
+                  "label": "Vol. 1",
+                  "url": "https://archive.org/details/historicaltheolo00cunn"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://archive.org/details/historicaltheocun02cunn"
+                }
+              ]
+            },
+            {
+              "title": "History of Christian Doctrine Vols. 1 and 2",
+              "by": "W.G.T. Shedd",
+              "extent": "965 pp.",
+              "minutes": null,
+              "pages": 965,
+              "note": null
+            },
+            {
+              "title": "Historical Theology Vols. 1 and 2",
+              "by": "William Cunningham",
+              "extent": "1306 pp.",
+              "minutes": null,
+              "pages": 1306,
+              "note": null
+            }
+          ],
+          "total": "Total: 2,488 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper focusing on the historical treatment of a specific doctrine.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "HT802",
+      "title": "Historic Creeds and Confessions",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": null,
+          "type": "readings",
+          "instruction": "Read:",
+          "items": [
+            {
+              "title": "Apostles' Creed",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/apostles_creed.html"
+            },
+            {
+              "title": "Nicene Creed 325",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/nicene.html"
+            },
+            {
+              "title": "Chalcedonian Creed 451",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/chalcedon.html"
+            },
+            {
+              "title": "Athanasian Creed 500",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/athanasian.html"
+            },
+            {
+              "title": "Canons on the Council of Orange 529",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/canons_of_orange.html"
+            },
+            {
+              "title": "2nd Council of Constantinople 553",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/2_council_of_constan.html"
+            },
+            {
+              "title": "3rd Council of Constantinople 681",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://carm.org/christianity/creeds-and-confessions/statement-faith-3rd-council-constantinople-681-ad"
+            },
+            {
+              "title": "Luther's 95 Theses 1517",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://carm.org/christianity/creeds-and-confessions/luthers-95-theses-1517-ad"
+            },
+            {
+              "title": "Augsburg Confession 1530",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/augsburg.html"
+            },
+            {
+              "title": "The Smalcald Articles 1537",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/smalcald.html"
+            },
+            {
+              "title": "Geneva Catechism 1545",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/calvin/geneva_catachism/geneva_catachism.html"
+            },
+            {
+              "title": "The Confession of Guanabara 1558",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.cprf.co.uk/articles/guanabaraconfession.htm#.WcBx0ciGO00"
+            },
+            {
+              "title": "Scots Confession of 1560",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.swrb.com/newslett/actualNLs/ScotConf.htm"
+            },
+            {
+              "title": "Belgic Confession 1561",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/BelgicConfession.html"
+            },
+            {
+              "title": "2nd Helvetic Confession 1562",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/Second_Helvetic_Confession.html"
+            },
+            {
+              "title": "Heidelberg Catechism 1563",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://carm.org/christianity/creeds-and-confessions/heidelberg-catechism-1576-ad"
+            },
+            {
+              "title": "The Thirty-Nine Articles 1571",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/articles_39_1572.html"
+            },
+            {
+              "title": "The Irish Articles of Religion 1615",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/irish_articles.html"
+            },
+            {
+              "title": "Canons of Dort 1618",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/canons_of_dordt.html"
+            },
+            {
+              "title": "Westminster Standards 1646",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformed.org/documents/wcf_with_proofs/index.html"
+            },
+            {
+              "title": "Waldensian Confession 1655",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://carm.org/creeds-and-confessions/waldensian-confession-a-d-1655/"
+            },
+            {
+              "title": "The Conclusions of the Synod of Utrecht 1905",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1cTVinU6hSqLKWm6FNf72S4e3MySAcBtw/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Review:",
+          "items": [
+            {
+              "title": "A Tabular Comparison of the 1646 Westminster Confession of Faith, the 1658 Savoy Declaration of Faith, the 1677/1689 London Baptist Confession of Faith, and the 1742 Philadelphia Confession of Faith",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.proginosko.com/docs/wcf_sdfo_lbcf.html"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Creeds and Confessions",
+              "by": "Dr. Ryan McGraw",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=214101626286"
+            },
+            {
+              "title": "Introduction to the Creeds 1-13",
+              "by": "Brian Borgman",
+              "extent": "9.5 h",
+              "minutes": 570,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gracenevada&keyword=An+Introduction+to+the+Creeds&keyworddesc=An+Introduction+to+the+Creeds"
+            },
+            {
+              "title": "The Nicene Creed",
+              "by": "Derek Thomas",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/sermoninfo.asp?SID=918131650535"
+            },
+            {
+              "title": "History of the Nicene Creed",
+              "by": "Ian Goligher",
+              "extent": "41 min",
+              "minutes": 41,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/sermoninfo.asp?SID=62810057164"
+            },
+            {
+              "title": "Continental Confessions 1-10",
+              "by": "Dr. Peter Lillback",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "https://faculty.wts.edu/courses/"
+            },
+            {
+              "title": "The Augsburg Confession",
+              "by": "Dr. Matthew McMahon",
+              "extent": "24 min",
+              "minutes": 24,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?sid=92006133716"
+            },
+            {
+              "title": "The Belgic Confession",
+              "by": "Kevin DeYoung",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=2240619583"
+            },
+            {
+              "title": "History and Purpose of the Heidelberg Catechism",
+              "by": "Dr. Jurgen-Burkhard Klautke",
+              "extent": "63 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1017132356149"
+            },
+            {
+              "title": "The Heidelberg Catechism",
+              "by": "Kevin Deyoung",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=32206215759"
+            },
+            {
+              "title": "The Canons of Dordt",
+              "by": "Kevin DeYoung",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=4230614243"
+            },
+            {
+              "title": "Election, reprobation, and Predestination in the Reformed Creeds and Confessions",
+              "by": "Dr. Matthew McMahon",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=127081239569"
+            },
+            {
+              "title": "Lutheranism after Luther",
+              "by": "Dr. Carl Trueman",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "https://faculty.wts.edu/lectures/reformation-lutheranism-after-luther/",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://faculty.wts.edu/lectures/reformation-the-heidelberg-catechism-i/?coursefilter=6652"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://faculty.wts.edu/lectures/reformation-the-heidelberg-catechism-ii-catholic-reformation-i/?coursefilter=6652"
+                }
+              ]
+            },
+            {
+              "title": "Heidelberg Catechism 1 and 2",
+              "by": "Dr. Carl Trueman",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Eschatology of Victory in the Continental Reformed Creeds",
+              "by": "Dr. Francis Nigel Lee",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=72205125547"
+            },
+            {
+              "title": "The Correct Use of Doctrinal Creeds in the Church",
+              "by": "David Silversides",
+              "extent": "35 min",
+              "minutes": 35,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=5290616939"
+            },
+            {
+              "title": "Overview of the 1689 Confession",
+              "by": "Stephen Gambill",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=52205174923"
+            }
+          ],
+          "total": "Total: 31.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide a book summary:",
+          "items": [
+            {
+              "title": "The Utility and Importance of Creeds and Confessions",
+              "by": "Samuel Miller",
+              "extent": "79 pp.",
+              "minutes": null,
+              "pages": 79,
+              "note": null,
+              "url": "https://archive.org/details/utilityimportanc05mill/page/n3/mode/2up"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Christian Creed and the Creeds of Christendom",
+              "by": "Samuel Green",
+              "extent": "378 pp.",
+              "minutes": null,
+              "pages": 378,
+              "note": null,
+              "url": "https://archive.org/details/christiancreedcr00gree",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "https://archive.org/details/creedschristendo01scha"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "https://archive.org/details/creedschristendo02scha"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "https://archive.org/details/creedschristendo03scha"
+                }
+              ]
+            },
+            {
+              "title": "The Creeds of Christendom Vols. 1, 2, 3",
+              "by": "Philip Schaff",
+              "extent": "2515 pp.",
+              "minutes": null,
+              "pages": 2515,
+              "note": null
+            }
+          ],
+          "total": "Total: 2,972 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper focusing on a particular creed/confession, or the expression and treatment of a particular doctrine appearing throughout the creeds/confessions.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH890",
+      "title": "Doctoral Dissertation",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Dissertation topics must first be approved by the seminary administration. The dissertation topic must be directly related to church history. Students must use the Request for Approval of Dissertation Topic Form when submitting their topic for approval. The completed form should be emailed to info@logcollege.net. Students should not begin dissertation work until the seminary administration has first approved the topic.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "FORMATTING: Current Turabian",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 1,
+          "type": "assignment",
+          "instruction": "Your dissertation should be no less than 150 pages, 1 inch margins (1.5 inch left margin), twelve-point type, Times New Roman font, double spaced.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Your dissertation should be free of grammatical and syntax errors and should represent the caliber of work you have completed during your Doctoral Program.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Your dissertation should be consecutively numbered, with a table of contents and appendices if necessary. Your dissertation should be divided into relevant chapters with sub-section headings within each chapter. You will need to also include a list of tables, figures and illustrations that are included.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Your dissertation must include a submission page and full bibliography.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Your dissertation must be submitted to LCS administration by your mentor (after grading) for final review and approval before you will be considered for graduation.",
+          "items": [],
+          "total": null
+        }
+      ]
+    }
+  ]
+}

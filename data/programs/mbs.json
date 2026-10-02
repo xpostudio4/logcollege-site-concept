@@ -1,0 +1,1445 @@
+{
+  "slug": "mbs",
+  "name": "Master of Biblical Studies",
+  "credit_hours": 47,
+  "admission": "Bachelor degree (in any field) or equivalent; open to male and female students; 30 hours maximum transfer credit allowed; all courses will transfer into MDiv program.",
+  "requirements": [
+    "Complete the Comprehensive Final Exam",
+    "All written assignments (with the exception of the thesis) should follow current MLA formatting.",
+    "All numbered assignments (lecture outlines/notes, summaries, chapter summaries, papers, etc.) must be submitted to your mentor for grading.",
+    "Please report any broken links to info@logcollege.net"
+  ],
+  "course_list": [
+    {
+      "code": "BS502",
+      "title": "Hermeneutics",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS531",
+      "title": "Old Testament History and Theology",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "BS532",
+      "title": "The Pentateuch",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS533",
+      "title": "Old Testament Historical Books",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS534",
+      "title": "Old Testament Wisdom Books",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS535",
+      "title": "Old Testament Prophetic Books",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS541",
+      "title": "New Testament History and Theology",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "BS542",
+      "title": "The Gospels and Acts",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS543",
+      "title": "New Testament Epistles",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS544",
+      "title": "Revelation",
+      "credits": 2,
+      "group": null
+    },
+    {
+      "code": "TH530",
+      "title": "Biblical Theology",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH534",
+      "title": "Covenant Theology",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS690",
+      "title": "Master's Thesis",
+      "credits": 6,
+      "group": null
+    }
+  ],
+  "courses": [
+    {
+      "code": "BS502",
+      "title": "Hermeneutics",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "General Hermeneutics 1-5",
+              "by": "Dr. Moises Silva",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://students.wts.edu/resources/media.html?paramType=search&keywords=hermeneutics&speaker=92&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Hermeneutics 1-49",
+              "by": "Dr. Vern Poythress",
+              "extent": "45 h",
+              "minutes": 2700,
+              "pages": null,
+              "note": null,
+              "url": "https://students.wts.edu/resources/media.html?paramType=search&keywords=hermeneutics&speaker=7&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Lecture Diagrams",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "refer to these diagrams as you listen to the Poythress lectures",
+              "url": "https://drive.google.com/file/d/1Msw__XoQWMA6tXmEyF_TdjfnRuPLwBcN/view?usp=drive_link"
+            }
+          ],
+          "total": "50 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Principles of Biblical Interpretation",
+              "by": "Louis Berkhof",
+              "extent": "166 pp.",
+              "minutes": null,
+              "pages": 166,
+              "note": null,
+              "url": "http://media.sabda.org/alkitab-2/PDF%20Books/00050%20Berkhof%20Principles%20of%20Biblical%20Interpretation..pdf"
+            },
+            {
+              "title": "Biblical Hermeneutics",
+              "by": "Milton Terry",
+              "extent": "802 pp.",
+              "minutes": null,
+              "pages": 802,
+              "note": null,
+              "url": "https://archive.org/details/biblicalhermeneu00terr"
+            }
+          ],
+          "total": "968"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 5 page paper outlining a proper method of biblical interpretation.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write five 5 page exegetical papers, each demonstrating a proper hermeneutical approach to a passage chosen from each of the following biblical genres: narrative, poetic, prophetic, epistles, apocalyptic.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS531",
+      "title": "Old Testament History and Theology",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Old Testament Survey 1-56",
+              "by": "Dr. Jack B. Scott",
+              "extent": "45 h",
+              "minutes": 2700,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=OT+Survey&keyworddesc=OT+Survey"
+            },
+            {
+              "title": "Old Testament History and Theology 1-13",
+              "by": "Dr. Dan Kim",
+              "extent": "18 h",
+              "minutes": 1080,
+              "pages": null,
+              "note": "create a free account to access all of the lectures",
+              "url": "https://resources.covenantseminary.edu/programs/old-testament-history-theology"
+            }
+          ],
+          "total": "63 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Is the Old Testament Reliable?",
+              "by": "Brian Edwards",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://answersingenesis.org/is-the-bible-true/is-the-old-testament-reliable/"
+            },
+            {
+              "title": "A Scientific Investigation of the Old Testament",
+              "by": "Robert Dick Wilson",
+              "extent": "200 pp.",
+              "minutes": null,
+              "pages": 200,
+              "note": null,
+              "url": "http://www.bbfchurch.net/SiteData/bbf/A-Scientific-Investigation-of-the-OT-Robert-Dick-Wilson.pdf"
+            },
+            {
+              "title": "Is the Higher Criticism Scholarly?",
+              "by": "Robert Dick Wilson",
+              "extent": "74 pp.",
+              "minutes": null,
+              "pages": 74,
+              "note": null,
+              "url": "https://archive.org/details/ishighercriticis00wils"
+            },
+            {
+              "title": "Does Archaeology Support the Bible?",
+              "by": "Clifford Wilson",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "The New Answers Book, Ch. 25",
+              "url": "https://answersingenesis.org/archaeology/does-archaeology-support-the-bible/"
+            },
+            {
+              "title": "Dead Sea Scrolls: Timeless Treasures from Qumran",
+              "by": "Jeremy Lyon",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1RDYjuk4GNuDhTQlW-4xmTh2YwMeOcPIv/view?usp=drive_link"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Church During the Old Testament Dispensation",
+              "by": "C.C. Jones",
+              "extent": "558 pp.",
+              "minutes": null,
+              "pages": 558,
+              "note": null,
+              "url": "https://archive.org/details/historyofchurcho00jone/page/n8",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://archive.org/details/typologyofscript01fairiala"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://archive.org/details/typologyofscript02fairiala"
+                }
+              ]
+            },
+            {
+              "title": "The Typology of Scripture, Vols. 1 and 2",
+              "by": "Patrick Fairbairn",
+              "extent": "952 pp.",
+              "minutes": null,
+              "pages": 952,
+              "note": null
+            }
+          ],
+          "total": "1784"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write an introduction for each Old Testament book.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS532",
+      "title": "The Pentateuch",
+      "credits": 3,
+      "scripture_reading": "Genesis, Exodus, Leviticus, Numbers, and Deuteronomy",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Pentateuch 1-29",
+              "by": "Dr. Richard Pratt",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/16luovu94A0pTAZLSTz1dqmwOnVC6qeQR?usp=sharing"
+            },
+            {
+              "title": "Genesis – Joshua 1-26",
+              "by": "Dr. Richard Belcher",
+              "extent": "23 h",
+              "minutes": 1380,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1owHlbgNIJw-VTgSbCEVpDfB2vaO6OvmR?usp=sharing"
+            }
+          ],
+          "total": "40 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Introduction to the Pentateuch Vol I (pp. 1-367)",
+              "by": "Donald MacDonald",
+              "extent": "367 pp.",
+              "minutes": null,
+              "pages": 367,
+              "note": "page count derived from printed page range",
+              "url": "https://archive.org/details/introductiontope01macd"
+            },
+            {
+              "title": "Introduction to the Pentateuch Vol II (pp. 1-478)",
+              "by": "Donald MacDonald",
+              "extent": "478 pp.",
+              "minutes": null,
+              "pages": 478,
+              "note": "page count derived from printed page range",
+              "url": "https://archive.org/stream/introductiontope02macd#page/n5/mode/2up"
+            }
+          ],
+          "total": "845 pages"
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Other “Interpretations of Genesis”",
+              "by": "Jason Lisle and Tim Chaffey",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://answersingenesis.org/genesis/other-interpretations-of-genesis/"
+            },
+            {
+              "title": "Problems with Other Interpretations",
+              "by": "Jason Lisle and Tim Chaffey",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://answersingenesis.org/creationism/old-earth/problems-with-other-interpretations/"
+            },
+            {
+              "title": "Are there Gaps in the Genesis Genealogies?",
+              "by": "Jason Lisle and Tim Chaffey",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://answersingenesis.org/bible-timeline/genealogy/are-there-gaps-in-the-genesis-genealogies/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write two 15 page papers on subjects of interest pertaining to the Pentateuch.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS533",
+      "title": "Old Testament Historical Books",
+      "credits": 3,
+      "scripture_reading": "Joshua - Esther",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Old Testament History 1-37",
+              "by": "Dr. Phil Long",
+              "extent": "24 h",
+              "minutes": 1440,
+              "pages": null,
+              "note": null,
+              "url": "https://resources.covenantseminary.edu/programs/old-testament-history?categoryId=106866&permalink=old-testament-history-lecture-1a"
+            },
+            {
+              "title": "Joshua (Lec. 27)",
+              "by": "Dr. Richard Belcher",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Judges – Esther 1-22",
+              "by": "Dr. Richard Belcher",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "https://subsplash.com/reformtheosem/learn-about-rts/li/+79eb036"
+            },
+            {
+              "title": "The Life of David",
+              "by": "Dr. R.C. Sproul",
+              "extent": "5.5 h",
+              "minutes": 330,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/life_of_david/"
+            }
+          ],
+          "total": "50.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A History of the Israelitish Nation Parts III-IV (pp. 175-422)",
+              "by": "Archibald Alexander",
+              "extent": "247 pp.",
+              "minutes": null,
+              "pages": 247,
+              "note": null,
+              "url": "https://archive.org/details/historyofisraeli00alex"
+            },
+            {
+              "title": "The Kings of Israel and Judah",
+              "by": "George Rawlinson",
+              "extent": "264 pp.",
+              "minutes": null,
+              "pages": 264,
+              "note": null,
+              "url": "https://archive.org/details/cu31924029279423"
+            }
+          ],
+          "total": "511 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write two 15 page papers on subjects of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS534",
+      "title": "Old Testament Wisdom Books",
+      "credits": 3,
+      "scripture_reading": "Job, Psalms, Proverbs, Ecclesiastes, and Song of Solomon",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Psalms and Wisdom Books 1-33",
+              "by": "Dr. Philip Long",
+              "extent": "21 h",
+              "minutes": 1260,
+              "pages": null,
+              "note": null,
+              "url": "https://resources.covenantseminary.edu/programs/psalms-wisdom-books"
+            },
+            {
+              "title": "Poets 1-24",
+              "by": "Dr. Richard Belcher",
+              "extent": "19 h",
+              "minutes": 1140,
+              "pages": null,
+              "note": null,
+              "url": "https://subsplash.com/+3c13/media/li/+6ecf1cd"
+            },
+            {
+              "title": "Ecclesiastes 1-4",
+              "by": "Dr. R.C. Sproul",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/ecclesiastes/"
+            }
+          ],
+          "total": "41.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Beauty of the Bible: A Study of its Poets and Poetry",
+              "by": "James Stalker",
+              "extent": "196 pp.",
+              "minutes": null,
+              "pages": 196,
+              "note": null,
+              "url": "https://archive.org/details/beautyofbiblestu00stal"
+            },
+            {
+              "title": "The Psalms: Their History, Teachings, and Use",
+              "by": "William Binnie",
+              "extent": "424 pp.",
+              "minutes": null,
+              "pages": 424,
+              "note": null,
+              "url": "https://archive.org/details/psalmstheirhisto00binn"
+            }
+          ],
+          "total": "620 pages"
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful Resource:",
+          "items": [
+            {
+              "title": "Psalms Classification Chart",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1LZwyfjowBImAmdVdY8jrb6iAeZmYsRUK/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS535",
+      "title": "Old Testament Prophetic Books",
+      "credits": 3,
+      "scripture_reading": "Isaiah - Malachi",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Lectures in Prophecy 1-8",
+              "by": "Dr. Richard Pratt",
+              "extent": "7 h",
+              "minutes": 420,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1GD1pTaiRy2CWYefCZkpgq7Uyqm471oNv?usp=sharing"
+            },
+            {
+              "title": "Isaiah - Malachi 1-34",
+              "by": "Dr. Richard Belcher",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://subsplash.com/reformtheosem/learn-about-rts/ms/+39145a6"
+            },
+            {
+              "title": "Isaiah - Malachi 1-21",
+              "by": "Dr. Richard Pratt",
+              "extent": "13 h",
+              "minutes": 780,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1OFNaJ6VoI9nLO6QyIaZmbsmumCiBmyKj?usp=sharing"
+            },
+            {
+              "title": "Lessons from Lamentations",
+              "by": "Dr. John Blanchard",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1250832259"
+            },
+            {
+              "title": "Introduction to the Minor Prophets 1-12",
+              "by": "Dr. John Blanchard",
+              "extent": "8.5 h",
+              "minutes": 510,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=blanchard&keyword=Intro%2E+to+Minor+Prophets&keyworddesc=Intro%2E+to+Minor+Prophets"
+            }
+          ],
+          "total": "56.5h"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "My Servants the Prophets",
+              "by": "Edward Young",
+              "extent": "208 pp.",
+              "minutes": null,
+              "pages": 208,
+              "note": null,
+              "url": "https://archive.org/details/MyServantsTheProphets"
+            },
+            {
+              "title": "The Interpretation of Prophecy",
+              "by": "Patrick Fairbairn",
+              "extent": "538 pp.",
+              "minutes": null,
+              "pages": 538,
+              "note": null,
+              "url": "https://archive.org/details/prophecyviewedin00fair"
+            },
+            {
+              "title": "Daniel's Eschatology",
+              "by": "Dr. Francis Nigel Lee",
+              "extent": "64 pp.",
+              "minutes": null,
+              "pages": 64,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1MwLmkYxAFNOqKBVWzt-Z5M817TT6PPZ4/view?usp=sharing"
+            }
+          ],
+          "total": "810 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful resource:",
+          "items": [
+            {
+              "title": "Chronological Table of the Prophets",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1BNqE5VBpNSCuyibYIPDW43792jLtDzFG/view?usp=sharing"
+            }
+          ],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS541",
+      "title": "New Testament History and Theology",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "New Testament Survey 1-25",
+              "by": "Jack B. Scott",
+              "extent": "26 h",
+              "minutes": 1560,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=NT+Survey&keyworddesc=NT+Survey"
+            },
+            {
+              "title": "New Testament Theology 1-14",
+              "by": "Dr. Frank Thielman",
+              "extent": "14 h",
+              "minutes": 840,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/new-testament-theology/frank-thielman"
+            },
+            {
+              "title": "Textual Criticism (35 lectures)",
+              "by": "Dr. Daniel Wallace",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/14eQWOWGpSll_NvnsOPrhNVxfrAN2ik_4?usp=sharing"
+            },
+            {
+              "title": "New Testament Textual Criticism (9 lectures)",
+              "by": "Dr. Moises Silva",
+              "extent": "8 h",
+              "minutes": 480,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1aZ-GqcpJip92yvwKQpP4iv8r3bxQ7Oru/view?usp=sharing"
+            },
+            {
+              "title": "The NT Text: The Superiority of the Majority Text",
+              "by": "Brian Schwertley",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=431115281"
+            }
+          ],
+          "total": "66 hours"
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "View the following videos and provide a short summary for each:",
+          "items": [
+            {
+              "title": "The Basics of New Testament Textual Criticism 1-15",
+              "by": "Dr. Daniel Wallace",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": "(Note that this series is very informative although Wallace favors the Critical Text and has spoken against the providential preservation view.)",
+              "url": "https://itunes.apple.com/us/itunes-u/basics-new-testament-textual/id446655163?mt=10"
+            },
+            {
+              "title": "Textual Criticism Put Into Practice 1-7",
+              "by": "Dr. Daniel Wallace",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": "(Note that this series is very informative although Wallace tends to favor the Critical Text rather than the Majority Text.)",
+              "url": "https://itunes.apple.com/us/itunes-u/disputed-new-testament-passages/id446655229?mt=10"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Literature and History of New Testament Times",
+              "by": "J. Gresham Machen",
+              "extent": "288 pp.",
+              "minutes": null,
+              "pages": 288,
+              "note": null,
+              "url": "https://archive.org/details/literaturehistor00mach/page/n7"
+            },
+            {
+              "title": "The Progress of Doctrine in the New Testament",
+              "by": "Thomas Bernard",
+              "extent": "235 pp.",
+              "minutes": null,
+              "pages": 235,
+              "note": null,
+              "url": "https://archive.org/details/progressofdoctri00bern/page/n8"
+            },
+            {
+              "title": "Exegetical Study of the New Testament",
+              "by": "Patrick Fairbairn",
+              "extent": "542 pp.",
+              "minutes": null,
+              "pages": 542,
+              "note": null,
+              "url": "https://archive.org/details/hermeneutical00fairrich"
+            },
+            {
+              "title": "Has God Indeed Said? The Preservation of the Text of the New Testament",
+              "by": "Phillip Kayser and Wilbur Pickering",
+              "extent": "30 pp.",
+              "minutes": null,
+              "pages": 30,
+              "note": null,
+              "url": "https://leanpub.com/has-god-indeed-said/read"
+            },
+            {
+              "title": "The Identity of the New Testament Text",
+              "by": "Wilbur Pickering",
+              "extent": "200 pp.",
+              "minutes": null,
+              "pages": 200,
+              "note": null,
+              "url": "https://drive.google.com/file/d/12O3G4AGtwyup5dMWwfjwdWIQbyC_Hpcn/view?usp=sharing"
+            },
+            {
+              "title": "The Higher Criticism",
+              "by": "Francis Beattie",
+              "extent": "68 pp.",
+              "minutes": null,
+              "pages": 68,
+              "note": null,
+              "url": "https://ia600409.us.archive.org/17/items/highercriticismo00beat/highercriticismo00beat.pdf"
+            }
+          ],
+          "total": "1,363 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write an introduction for each New Testament book.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful resource:",
+          "items": [
+            {
+              "title": "A Textual Key to the New Testament",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1M_w6z7phkxUM5TJKrKBFVLqGIm_dCZ1X/view?usp=sharing"
+            }
+          ],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS542",
+      "title": "Gospels and Acts",
+      "credits": 3,
+      "scripture_reading": "Matthew, Mark, Luke, John, Acts",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Gospels 1-10",
+              "by": "IIIM",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "http://reformedseminary.org/course.asp/vs/gos"
+            },
+            {
+              "title": "The Gospels 1-40",
+              "by": "Dr. Robert Cara",
+              "extent": "25 h",
+              "minutes": 1500,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1LgyqUPu72GtbkqyzJOPnpFTz3oSpdYeC/view?usp=sharing"
+            },
+            {
+              "title": "The Book of Acts 1-63",
+              "by": "Dr. R.C. Sproul",
+              "extent": "25 h",
+              "minutes": 1500,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/book_of_acts/"
+            }
+          ],
+          "total": "67 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "How to Study the New Testament: The Gospels and Acts of the Apostles",
+              "by": "Henry Alford",
+              "extent": "377 pp.",
+              "minutes": null,
+              "pages": 377,
+              "note": null,
+              "url": "https://archive.org/details/howtostudynewte00alfogoog"
+            },
+            {
+              "title": "The Teaching of Jesus Concerning the Kingdom of God and the Church",
+              "by": "Geerhardus Vos",
+              "extent": "190 pp.",
+              "minutes": null,
+              "pages": 190,
+              "note": null,
+              "url": "https://archive.org/details/theteachingofjes00vosuoft"
+            }
+          ],
+          "total": "567 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write two 15 page papers on subjects of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS543",
+      "title": "New Testament Epistles",
+      "credits": 3,
+      "scripture_reading": "Romans - Jude",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Life and Letters of Paul 1-35",
+              "by": "Dr. Hans Bayer",
+              "extent": "23 h",
+              "minutes": 1380,
+              "pages": null,
+              "note": null,
+              "url": "https://resources.covenantseminary.edu/programs/life-letters-paul"
+            },
+            {
+              "title": "Pauline Epistles 1-35",
+              "by": "Dr. Robert Cara",
+              "extent": "25.5 h",
+              "minutes": 1530,
+              "pages": null,
+              "note": null,
+              "url": "https://subsplash.com/reformtheosem/learn-about-rts/ms/+tj7t9pd"
+            },
+            {
+              "title": "Hebrews to Revelation 1-20, 31-36",
+              "by": "Dr. Dan Doriani",
+              "extent": "20.5 h",
+              "minutes": 1230,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1ZDAH6bh4FbCRrx_vTV1GUPfxIqGZpZEp/view?usp=sharing"
+            }
+          ],
+          "total": "69 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "How to Study the New Testament: The Epistles I",
+              "by": "Henry Alford",
+              "extent": "304 pp.",
+              "minutes": null,
+              "pages": 304,
+              "note": null,
+              "url": "https://archive.org/details/howtostudynewt00alfo"
+            },
+            {
+              "title": "How to Study the New Testament: The Epistles II pp. 1-277",
+              "by": "Henry Alford",
+              "extent": "277 pp.",
+              "minutes": null,
+              "pages": 277,
+              "note": null,
+              "url": "https://archive.org/details/howtostudynewtes00alfo"
+            }
+          ],
+          "total": "581 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write two 15 page papers on subjects of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS544",
+      "title": "Revelation",
+      "credits": 2,
+      "scripture_reading": "Revelation",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Revelation 1-24",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "14 h",
+              "minutes": 840,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=fpccolumbia&keyword=Revelation&keyworddesc=Revelation"
+            },
+            {
+              "title": "Revelation 1-33",
+              "by": "David Silversides",
+              "extent": "21 h",
+              "minutes": 1260,
+              "pages": null,
+              "note": "Note that the messages are not in proper order on the site so you will need to rearrange.",
+              "url": "http://www.sermonaudio.com/search.asp?currpage=1&keyword=Revelation&keywordDesc=Revelation&SeriesOnly=true&SourceID=ldrpc&AudioOnly=false"
+            },
+            {
+              "title": "Postmillennialism and Revelation 20",
+              "by": "David Silversides",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=9130414633"
+            }
+          ],
+          "total": "36 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "How to Study the New Testament: The Epistles II pp. 278-315",
+              "by": "Henry Alford",
+              "extent": "37 pp.",
+              "minutes": null,
+              "pages": 37,
+              "note": null,
+              "url": "https://archive.org/details/howtostudynewtes00alfo"
+            },
+            {
+              "title": "Exposition of Thomas Goodwin on the Book of Revelation",
+              "by": "Thomas Goodwin",
+              "extent": "168 pp.",
+              "minutes": null,
+              "pages": 168,
+              "note": null,
+              "url": "https://archive.org/details/theexpositionoft00gooduoft"
+            },
+            {
+              "title": "John's Revelation Unveiled",
+              "by": "Francis Nigel Lee",
+              "extent": "329 pp.",
+              "minutes": null,
+              "pages": 329,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1MhL8p8Jtr8AcIf06dc_3DG93bqUzpw63/view?usp=sharing"
+            },
+            {
+              "title": "Jerusalem, Rome, Revelation - John's Apocalypse Written Before 70 A.D.",
+              "by": "Francis Nigel Lee",
+              "extent": "90 pp.",
+              "minutes": null,
+              "pages": 90,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1bioamehd1HoOm4eEToAA73m-Vtf7H72-/view?usp=sharing"
+            }
+          ],
+          "total": "625 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper presenting your view of Revelation's purpose and scope.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH530",
+      "title": "Biblical Theology",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Building Biblical Theology 1-4",
+              "by": "Dr. Richard Pratt",
+              "extent": "6 h",
+              "minutes": 360,
+              "pages": null,
+              "note": null,
+              "url": "https://thirdmill.org/seminary/course.asp/vs/bbt"
+            },
+            {
+              "title": "Biblical Theology 1-26",
+              "by": "Dr. Gerard Van Groningen",
+              "extent": "19.5 h",
+              "minutes": 1170,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/biblical-theology"
+            },
+            {
+              "title": "Old Testament Biblical Theology 2-7",
+              "by": "Dr. Miles Van Pelt",
+              "extent": "6 h",
+              "minutes": 360,
+              "pages": null,
+              "note": "see chart below",
+              "url": "https://drive.google.com/drive/folders/19HBWe0TPtZmYR_uWvC9pC6QUxUFNPG5V?usp=sharing"
+            },
+            {
+              "title": "New Testament Biblical Theology 1-22",
+              "by": "Dr. G.K. Beale",
+              "extent": "22.5 h",
+              "minutes": 1350,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/biblical-theology-22-part-mp3-lecture-series"
+            },
+            {
+              "title": "Misunderstandings of the Kingdom throughout History",
+              "by": "Dr. Carl Trueman",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/14HUyIuf-57cdgobRGHb5e7eA9q4i9vKj/view?usp=sharing"
+            },
+            {
+              "title": "Biblical Theology and the Westminster Standards",
+              "by": "Dr. Richard Gaffin",
+              "extent": "59 min",
+              "minutes": 59,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/inrg2_copyright.mp3"
+            }
+          ],
+          "total": "55 hours"
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Review:",
+          "items": [
+            {
+              "title": "Old Testament - New Testament Covenant Canon Chart",
+              "by": "Dr. Miles Van Pelt",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1aWbXDcWjzRkS3XU95Kvkd9t_zaZLRIXY/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Biblical Theology: Old and New Testaments",
+              "by": "Vos",
+              "extent": "493 pp.",
+              "minutes": null,
+              "pages": 493,
+              "note": null,
+              "url": "https://www.monergism.com/biblical-theology-old-and-new-testaments-ebook"
+            }
+          ],
+          "total": "493 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH534",
+      "title": "Covenant Theology",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Covenant Theology 1-22",
+              "by": "Dr. Stephen Myers",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/covenant-theology-23-part-lecture-series"
+            },
+            {
+              "title": "Covenant Theology 1-4",
+              "by": "Dr. O Palmer Robertson",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/covenant-theology-mp3-series"
+            },
+            {
+              "title": "On the Covenants 1-6",
+              "by": "Dr. O Palmer Robertson",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/covenant-theology-mp3-series"
+            },
+            {
+              "title": "The Old Testament in the New 1-6",
+              "by": "Dr. O. Palmer Robertson",
+              "extent": "5.5 h",
+              "minutes": 330,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=The+Old+Testament+in+the+New&keyworddesc=The+Old+Testament+in+the+New"
+            },
+            {
+              "title": "The Promissory Land Covenant in the New Testament",
+              "by": "Dr. Bruce Waltke",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/bw061_copyright.mp3"
+            },
+            {
+              "title": "The Temple, the Land, and Paradise Restored",
+              "by": "Dr. John Mackay",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/the-temple-the-land-and-paradise-restored/"
+            },
+            {
+              "title": "Dispensationalism Refuted 1-10",
+              "by": "Dr. Michael Barrett",
+              "extent": "7 h",
+              "minutes": 420,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=faith&keyword=Refuting+Dispensationalism&keyworddesc=Refuting+Dispensationalism"
+            },
+            {
+              "title": "Covenant Theology and the Preacher: How Covenant Theology Helps You Preach the Gospel",
+              "by": "Dr. Ligon Duncan",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=8230794547"
+            },
+            {
+              "title": "Church and Covenant Theology",
+              "by": "Dr. Morton Smith",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=2180471237"
+            }
+          ],
+          "total": "45 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Treatise on the Covenant of Grace",
+              "by": "John Colquhoun",
+              "extent": "556 pp.",
+              "minutes": null,
+              "pages": 556,
+              "note": null,
+              "url": "https://archive.org/download/treatiseoncovena00colq_0/treatiseoncovena00colq_0.pdf"
+            },
+            {
+              "title": "A History of the Work of Redemption, pp. 1-302",
+              "by": "Jonathan Edwards",
+              "extent": "302 pp.",
+              "minutes": null,
+              "pages": 302,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1w-k3vT-NwFW9EWK00ZfRSMJpkQZGhELi/view?usp=sharing"
+            },
+            {
+              "title": "Christ in all the Scriptures",
+              "by": "A.M. Hodgkin",
+              "extent": "272 pp.",
+              "minutes": null,
+              "pages": 272,
+              "note": null,
+              "url": "https://archive.org/details/christinallscrip00hodguoft"
+            }
+          ],
+          "total": "1,130 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 30 page paper outlining the key concepts integral to covenant theology.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS690",
+      "title": "Master's Thesis",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "You must work closely with your mentor in developing your thesis topic and in working through the thesis. Thesis topics must first be approved by the seminary administration. Students must use the Request for Approval of Thesis Topic Form when submitting their topic for approval. The completed form should be emailed to info@logcollege.net. Students should not begin thesis work until the seminary administration has first approved the topic.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "FORMATTING: Current Turabian",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 1,
+          "type": "assignment",
+          "instruction": "Your Master's Thesis should be no less than 100 pages, 1 inch margins, twelve-point type, Times New Roman font, double spaced.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Your Master's Thesis should be free of grammatical and syntax errors and should represent the caliber of work you have completed during your Master's Program.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Your Master's Thesis must include a submission page, table of contents, and full bibliography.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Your Master's Thesis must be submitted to LCS administration by your mentor (after grading) for final review and approval before you will be considered for graduation.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Complete the Comprehensive Final Exam. Contact the seminary to schedule a time for your exam.",
+          "items": [],
+          "total": null
+        }
+      ]
+    }
+  ]
+}

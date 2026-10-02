@@ -1,0 +1,4491 @@
+{
+  "slug": "dmin",
+  "name": "Doctor of Ministry",
+  "credit_hours": 36,
+  "admission": "Male students with M.Div. and 3 years ministry experience subsequent to conferring of M.Div.",
+  "requirements": [
+    "15 Core credit hours + 15 Concentration credit hours + 6 hour Dissertation. Choose one concentration (Reformed Theological Thought, Nouthetic Counseling, or Apologetics) consisting of 15 hours of credit.",
+    "All written assignments (with the exception of the dissertation) should follow current MLA formatting. Lecture outlines/notes, summaries, chapter summaries, papers, and all other stated assignments must be submitted to your mentor for grading.",
+    "All numbered assignments (lecture outlines/notes, summaries, chapter summaries, papers, etc.) must be submitted to your mentor for grading.",
+    "Please report any broken links to info@logcollege.net"
+  ],
+  "course_list": [
+    {
+      "code": "PT801",
+      "title": "History and Theology of Preaching",
+      "credits": 3,
+      "group": "Core"
+    },
+    {
+      "code": "PT802",
+      "title": "Public Worship",
+      "credits": 3,
+      "group": "Core"
+    },
+    {
+      "code": "PT803",
+      "title": "Public Prayer",
+      "credits": 3,
+      "group": "Core"
+    },
+    {
+      "code": "PT804",
+      "title": "Revival, Revitalization, and Renewal",
+      "credits": 3,
+      "group": "Core"
+    },
+    {
+      "code": "NC800",
+      "title": "Fundamentals of Nouthetic Counseling",
+      "credits": 3,
+      "group": "Core"
+    },
+    {
+      "code": "TH820",
+      "title": "Calvin’s Institutes",
+      "credits": 3,
+      "group": "Concentration: Reformed Theological Thought"
+    },
+    {
+      "code": "PM801",
+      "title": "Puritan Ministry",
+      "credits": 6,
+      "group": "Concentration: Reformed Theological Thought"
+    },
+    {
+      "code": "TH830",
+      "title": "The Holy Spirit",
+      "credits": 3,
+      "group": "Concentration: Reformed Theological Thought"
+    },
+    {
+      "code": "TH850",
+      "title": "The Christian Sabbath",
+      "credits": 3,
+      "group": "Concentration: Reformed Theological Thought"
+    },
+    {
+      "code": "NC801",
+      "title": "Nouthetic Counseling I",
+      "credits": 3,
+      "group": "Concentration: Nouthetic Counseling"
+    },
+    {
+      "code": "NC802",
+      "title": "Nouthetic Counseling II",
+      "credits": 6,
+      "group": "Concentration: Nouthetic Counseling"
+    },
+    {
+      "code": "NC803",
+      "title": "Nouthetic Counseling III",
+      "credits": 3,
+      "group": "Concentration: Nouthetic Counseling"
+    },
+    {
+      "code": "NC804",
+      "title": "The Christian Directory",
+      "credits": 3,
+      "group": "Concentration: Nouthetic Counseling"
+    },
+    {
+      "code": "AP801",
+      "title": "Apologetics in a Postmodern World",
+      "credits": 3,
+      "group": "Concentration: Apologetics"
+    },
+    {
+      "code": "PH810",
+      "title": "Modern Philosophy",
+      "credits": 3,
+      "group": "Concentration: Apologetics"
+    },
+    {
+      "code": "TH801",
+      "title": "Inspiration, Inerrancy, and Reliability of Scripture",
+      "credits": 3,
+      "group": "Concentration: Apologetics"
+    },
+    {
+      "code": "AP820",
+      "title": "Christianity and Science",
+      "credits": 3,
+      "group": "Concentration: Apologetics"
+    },
+    {
+      "code": "AP850",
+      "title": "Islam",
+      "credits": 3,
+      "group": "Concentration: Apologetics"
+    },
+    {
+      "code": "BS890",
+      "title": "Doctoral Dissertation",
+      "credits": 6,
+      "group": "Dissertation"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PT801",
+      "title": "History and Theology of Preaching",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Preaching in History 1-3",
+              "by": "Iain Murray",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=Preaching+in+History&keyworddesc=Preaching+in+History"
+            },
+            {
+              "title": "A Reformation Theology of Preaching",
+              "by": "Dr. Carl Trueman",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1113141355497"
+            },
+            {
+              "title": "Preaching of the Puritans 1 and 2",
+              "by": "Dr. Joel Beeke",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=christfellowship&keyword=2009+Expositors+Conference&keyworddesc=2009+Expositors+Conference"
+            },
+            {
+              "title": "Lectures on Preaching 1-8",
+              "by": "Dr. D.A. Carson",
+              "extent": "8 h",
+              "minutes": 480,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/legacy/mt/mp3/lectures-preaching-mp3-series-d-carson"
+            },
+            {
+              "title": "The Primacy of Expository Preaching 1-3",
+              "by": "Dr. D.A. Carson",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "http://www.desiringgod.org/messages/by-series/1995-conference-for-pastors"
+            },
+            {
+              "title": "Transformational Expository Preaching",
+              "by": "Colin Smith",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/transformational-expository-preaching-en"
+            },
+            {
+              "title": "Christ-Centered Preaching 1-30",
+              "by": "Dr. Bryan Chapell",
+              "extent": "30 h",
+              "minutes": 1800,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/christ-centered-preaching/"
+            }
+          ],
+          "total": "49 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "The Importance of Doctrinal and Instructive Preaching",
+              "by": "Samuel Winchester",
+              "extent": "42 pp.",
+              "minutes": null,
+              "pages": 42,
+              "note": null,
+              "url": "https://archive.org/details/importancedoctr00wincgoog",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://archive.org/details/ahistoryofpreach01darguoft"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://archive.org/details/ahistoryofpreach02darguoft"
+                }
+              ]
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A History of Preaching Vols. 1 and 2",
+              "by": "Edwin Dargan",
+              "extent": "1208 pp.",
+              "minutes": null,
+              "pages": 1208,
+              "note": null
+            },
+            {
+              "title": "Thoughts on Preaching",
+              "by": "Daniel Moore",
+              "extent": "397 pp.",
+              "minutes": null,
+              "pages": 397,
+              "note": null,
+              "url": "https://archive.org/details/thoughtsonpreac01moorgoog"
+            },
+            {
+              "title": "Lectures on Preaching",
+              "by": "Philip Doddridge",
+              "extent": "161 pp.",
+              "minutes": null,
+              "pages": 161,
+              "note": null,
+              "url": "https://archive.org/details/lecturesonpreach00dodd"
+            },
+            {
+              "title": "The Gospel Idea of Preaching",
+              "by": "R.L. Dabney",
+              "extent": "7 pp.",
+              "minutes": null,
+              "pages": 7,
+              "note": "Discussions of Robert L. Dabney Vol. 1, pp. 595-601",
+              "url": "https://archive.org/details/discussions01dabn"
+            }
+          ],
+          "total": "1773 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper defending the primacy of preaching and delineating the rationale behind your own approach to the great privilege and work of preaching.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT802",
+      "title": "Public Worship",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Importance of Public Worship",
+              "by": "Maurice Roberts",
+              "extent": ".5 h",
+              "minutes": 30,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1LcanpVi8EaRMIKaSVi67yry9AclXLhsM/view?usp=sharing"
+            },
+            {
+              "title": "The Elements of Worship Series 1-15",
+              "by": "Dr. Ryan McGraw",
+              "extent": "10.5 h",
+              "minutes": 630,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?sortby=oldest&keyword=The+Elements+of+Worship+Series&keywordDesc=The+Elements+of+Worship+Series&SeriesOnly=true&SourceID=grace5550&AudioOnly=false"
+            },
+            {
+              "title": "Christian Worship 1-19",
+              "by": "Dr. Mark Dalbey",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "https://resources.covenantseminary.edu/programs/christian-worship-dalbey-lecture-1"
+            },
+            {
+              "title": "Worship 1-10",
+              "by": "Dr. R.C. Sproul",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/worship/"
+            },
+            {
+              "title": "Worship and the Presence of God",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/BobKauflin2004-3.mp3"
+            },
+            {
+              "title": "What is Word-Centered Worship?",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/BobKauflin2004-1.mp3"
+            },
+            {
+              "title": "Visuals in Worship: How Do We See God?",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/BobKauflin2004-2.mp3"
+            },
+            {
+              "title": "10 Core Values of Biblical Worship",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/051003bob2.mp3"
+            },
+            {
+              "title": "Reformed View of Worship",
+              "by": "Dr. Michael Haykin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://media.thegospelcoalition.org/audio/haykin_michael/haykin-04_reformed_view_of_worship.mp3?_gl=1*1nzvdms*_ga*Mjc1NzQ1MDYwLjE2NTYwMzI1OTQ.*_ga_R61P3F5MSN*MTY1OTk5NTAwMS4yLjEuMTY1OTk5ODU2MS4yNA..",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://media.thegospelcoalition.org/audio/frame_John/frame-worshiping_gods_way_1.mp3?_gl=1*17j8bnp*_ga*Mjc1NzQ1MDYwLjE2NTYwMzI1OTQ.*_ga_R61P3F5MSN*MTY1OTk5NTAwMS4yLjEuMTY1OTk5NzUwOS4zNQ.."
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://media.thegospelcoalition.org/audio/frame_John/frame-worshiping_gods_way_2.mp3?_gl=1*188g29s*_ga*Mjc1NzQ1MDYwLjE2NTYwMzI1OTQ.*_ga_R61P3F5MSN*MTY1OTk5NTAwMS4yLjEuMTY1OTk5NzU4My41NA.."
+                }
+              ]
+            },
+            {
+              "title": "Worshiping God’s Way 1 and 2",
+              "by": "Dr. John Frame",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/BobKauflin2003-2.mp3"
+            },
+            {
+              "title": "Why Does Preaching Have Such a Prominent Place in Worship?",
+              "by": "John Piper",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://www.desiringgod.org/messages/the-essential-and-prominent-place-of-preaching-in-worship#full-audio"
+            },
+            {
+              "title": "The Christ-Centered Disciple and True Worship",
+              "by": "Dr. Harry Reeder",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1yte99pDuuAvjtIkOxkSDzAu8GzdPkZF_/view?usp=sharing"
+            },
+            {
+              "title": "Music in Worship: Divine or Divisive?",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/BobKauflin2002-1.mp3"
+            },
+            {
+              "title": "Worship Music or Music Worship: The Meaning of Music in Congregational Worship",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/BobKauflin2003-2.mp3"
+            },
+            {
+              "title": "Ethnomusicology: Biblical Mandates for Music in the Church",
+              "by": "John Benham",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://repository.sbts.edu/handle/10392/6329"
+            },
+            {
+              "title": "New Music in the Christian Community: An Apologetic for Popular Musical Styles",
+              "by": "Kevin Twit",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://digital.library.sbts.edu/handle/10392/6200"
+            },
+            {
+              "title": "What Makes Worship Contemporary? Exploring Different Strands of Contemporary Worship",
+              "by": "Lester Ruth",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://d3pi8hptl0qhh4.cloudfront.net/media/audio/icw/LesterRuth2002-1.mp3"
+            },
+            {
+              "title": "Christian Worship Music: Is it Postmodern?",
+              "by": "Dr. John Frame",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://media.thegospelcoalition.org/audio/frame_John/frame-christian_worship_music_is_it_postmodern.mp3?_gl=1*1msj0wx*_ga*Mjc1NzQ1MDYwLjE2NTYwMzI1OTQ.*_ga_R61P3F5MSN*MTY1OTk5NTAwMS4yLjEuMTY1OTk5NjEwNy4zNQ.."
+            },
+            {
+              "title": "Classifying Protestant Worship",
+              "by": "Lester Ruth",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://repository.sbts.edu/handle/10392/6187"
+            },
+            {
+              "title": "Creativity in Worship-Novelty or Necessity?",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/BobKauflin2002-2.mp3"
+            },
+            {
+              "title": "Common Errors when Leading Worship",
+              "by": "Dr. Jerram Barrs",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://media.thegospelcoalition.org/audio/barrs_jerram/barrs-common_errors_in_leading_worship.mp3?_gl=1*15ea2bw*_ga*Mjc1NzQ1MDYwLjE2NTYwMzI1OTQ.*_ga_R61P3F5MSN*MTY1OTk5NTAwMS4yLjEuMTY1OTk5NTc2NC42MA.."
+            },
+            {
+              "title": "Healthy Tensions in Corporate Worship",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/20061024kauflin2.mp3"
+            },
+            {
+              "title": "Congregational Worship as Pastoral Care",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/icw/20061026kauflin2.mp3"
+            },
+            {
+              "title": "Biblical Worship in a Postmodern Age",
+              "by": "Bob Kauflin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://repository.sbts.edu/handle/10392/647"
+            }
+          ],
+          "total": "54.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and outline:",
+          "items": [
+            {
+              "title": "The Directory for the Public Worship of God",
+              "by": "Westminster Standards",
+              "extent": "25 pp.",
+              "minutes": null,
+              "pages": 25,
+              "note": null,
+              "url": "http://nesherchristianresources.org/JBS/standards/dpwg.pdf"
+            },
+            {
+              "title": "Manual of Forms",
+              "by": "A.A. Hodge",
+              "extent": "78 pp.",
+              "minutes": null,
+              "pages": 78,
+              "note": null,
+              "url": "https://archive.org/details/manualofformsfor00hodg"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read, provide chapter summaries, and outline services:",
+          "items": [
+            {
+              "title": "Gospel Worship",
+              "by": "Jeremiah Burroughs",
+              "extent": "248 pp.",
+              "minutes": null,
+              "pages": 248,
+              "note": null,
+              "url": "https://books.google.com/books/about/Gospel_worship.html?id=TQk8AQAAMAAJ"
+            },
+            {
+              "title": "Gospel Worship in the New Testament Vol. 1",
+              "by": "Archibald Hall",
+              "extent": "416 pp.",
+              "minutes": null,
+              "pages": 416,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1NF5FL_FlUJv0vHhzU5TgW2OHusYUJiKX/view?usp=drive_link"
+            },
+            {
+              "title": "Public Worship",
+              "by": "T. Harwood Pattison",
+              "extent": "296 pp.",
+              "minutes": null,
+              "pages": 296,
+              "note": null,
+              "url": "https://archive.org/details/publicworship00patt"
+            },
+            {
+              "title": "The Public Worship of God",
+              "by": "J.R.P. Sclater",
+              "extent": "205 pp.",
+              "minutes": null,
+              "pages": 205,
+              "note": null,
+              "url": "https://archive.org/details/MN40289ucmf_2"
+            },
+            {
+              "title": "Public Worship: The Best Method of Conducting It",
+              "by": "John Spencer Pearsall",
+              "extent": "196 pp.",
+              "minutes": null,
+              "pages": 196,
+              "note": null,
+              "url": "https://books.google.com/books?id=oitWAAAAcAAJ&printsec=frontcover&source=gbs_book_other_versions_r&cad=4#v=onepage&q&f=false"
+            },
+            {
+              "title": "The Worship of the Presbyterian Church",
+              "by": "David Douglas Bannerman",
+              "extent": "144 pp.",
+              "minutes": null,
+              "pages": 144,
+              "note": null,
+              "url": "https://archive.org/details/worshipofpresbyt00bann"
+            },
+            {
+              "title": "Eutaxia, or the Presbyterian Liturgies: Historical Sketches",
+              "by": "Charles Baird",
+              "extent": "282 pp.",
+              "minutes": null,
+              "pages": 282,
+              "note": null,
+              "url": "https://archive.org/details/eutaxiaorpresbyt00bair"
+            },
+            {
+              "title": "Presbyterian Liturgies",
+              "by": "Church of Scotland",
+              "extent": "196 pp.",
+              "minutes": null,
+              "pages": 196,
+              "note": null,
+              "url": "https://archive.org/details/presbyterianlit00godgoog"
+            }
+          ],
+          "total": "2086 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper developing a Sunday public worship service and defend the use, stress, and particular arrangement of the chosen elements.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT803",
+      "title": "Public Prayer",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Corporate Prayer in the Life of the Church and in Worship",
+              "by": "John Piper",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.desiringgod.org/messages/corporate-prayer-in-the-life-of-the-church-and-in-worship"
+            },
+            {
+              "title": "The Form and Content of Public Prayer",
+              "by": "David Silversides",
+              "extent": "40 min",
+              "minutes": 40,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=8605132810"
+            },
+            {
+              "title": "A Balanced Diet of Public Prayer",
+              "by": "Hughes Oliphant Old",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/a-balanced-diet-of-public-prayer"
+            },
+            {
+              "title": "How do Preaching and Corporate Prayer Work Together?",
+              "by": "Dr. Ryan McGraw",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1129151144273"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries as applicable:",
+          "items": [
+            {
+              "title": "A Discourse Concerning the Gift of Prayer",
+              "by": "John Wilkins",
+              "extent": "207 pp.",
+              "minutes": null,
+              "pages": 207,
+              "note": null,
+              "url": "https://archive.org/details/discourseconcern00wilk"
+            },
+            {
+              "title": "Thoughts on Public Prayer",
+              "by": "Samuel Miller",
+              "extent": "328 pp.",
+              "minutes": null,
+              "pages": 328,
+              "note": null,
+              "url": "https://archive.org/details/thoughtsonpublicp00mill"
+            },
+            {
+              "title": "A Method for Prayer",
+              "by": "Matthew Henry",
+              "extent": "278 pp.",
+              "minutes": null,
+              "pages": 278,
+              "note": null,
+              "url": "https://archive.org/details/a587258300henruoft"
+            },
+            {
+              "title": "Aids to Devotion (Bickersteth and Watts)",
+              "by": "Ensign Lincoln",
+              "extent": "327 pp.",
+              "minutes": null,
+              "pages": 327,
+              "note": null,
+              "url": "https://archive.org/details/aidstodevotioni00socigoog"
+            },
+            {
+              "title": "A Manual of Prayer",
+              "by": "Albert Barnes",
+              "extent": "270 pp.",
+              "minutes": null,
+              "pages": 270,
+              "note": null,
+              "url": "https://archive.org/details/manualofprayer00barn"
+            },
+            {
+              "title": "Pulpit Prayers",
+              "by": "Alexander Maclaren",
+              "extent": "334 pp.",
+              "minutes": null,
+              "pages": 334,
+              "note": null,
+              "url": "https://archive.org/details/pulpitprayers00macl"
+            },
+            {
+              "title": "Spurgeon’s Prayers Personalized",
+              "by": null,
+              "extent": "264 pp.",
+              "minutes": null,
+              "pages": 264,
+              "note": null,
+              "url": "http://www.monergism.com/thethreshold/sdg/spurgeon/Spurgeons%20Prayers.pdf"
+            },
+            {
+              "title": "A Book of Public Prayer",
+              "by": null,
+              "extent": "376 pp.",
+              "minutes": null,
+              "pages": 376,
+              "note": null,
+              "url": "https://archive.org/details/bookofpublicpr00pres"
+            },
+            {
+              "title": "Anthology of Prayers for Public Worship",
+              "by": null,
+              "extent": "224 pp.",
+              "minutes": null,
+              "pages": 224,
+              "note": null,
+              "url": "https://archive.org/details/anthologyofpraye00unit"
+            }
+          ],
+          "total": "2608 pages"
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful resource:",
+          "items": [
+            {
+              "title": "Book of Common Prayer (1552)",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://archive.org/details/bookofcommonprayer00chur"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper developing your own “prayer book” as a personal aid to the ministerial work of public prayer. The elements of prayer, as well as the various ‘occasions for public prayer, should be considered and prayers formulated accordingly.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT804",
+      "title": "Revival, Revitalization, and Renewal",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "History of Revival 1-5",
+              "by": "Iain Murray",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=history+of+revival+iain+murray"
+            },
+            {
+              "title": "Reformation and Revival 1-4",
+              "by": "Iain Murray",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=Reformation+and+revival+iain+murray"
+            },
+            {
+              "title": "History of Revival 1-10",
+              "by": "Dr. J. Edwin Orr",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://www.jedwinorr.com/archives/#sectionA_answer_8"
+            },
+            {
+              "title": "Revival 1-3",
+              "by": "Dr. J.I. Packer",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=Revival&keyworddesc=Revival"
+            },
+            {
+              "title": "Theology of Revival",
+              "by": "Timothy K. Beougher",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/theology-of-revival"
+            },
+            {
+              "title": "Revival 1-14",
+              "by": "Dr. Henry Krabbendam",
+              "extent": "12.5 h",
+              "minutes": 750,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?speakerWithinSource=&subsetCat=&subsetItem=&mediatype=&includekeywords=&exactverse=&keyword=Revival&keyworddesc=Revival&currsection=&AudioOnly=false&SeriesOnly=true&SourceID=gpts"
+            },
+            {
+              "title": "Revival 1-24",
+              "by": "Dr. David Martyn Lloyd-Jones",
+              "extent": "18.5 h",
+              "minutes": 1110,
+              "pages": null,
+              "note": "Duration printed without unit ([18.5]); read as hours",
+              "url": "http://www.mljtrust.org/collections/revival/"
+            },
+            {
+              "title": "A Biblical Strategy to Shake the World",
+              "by": "Dr. Harry Reeder",
+              "extent": ".5 h",
+              "minutes": 30,
+              "pages": null,
+              "note": null,
+              "url": "http://player.subsplash.com/3e469c1"
+            },
+            {
+              "title": "The Church in Biblical Perspective 1-12",
+              "by": "Dr. Harry Reeder",
+              "extent": "9 h",
+              "minutes": 540,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Marks of a Healthy Church 1-11",
+              "by": "Dr. David Murray",
+              "extent": "8.5 h",
+              "minutes": 510,
+              "pages": null,
+              "note": "Duration printed without unit ([8.5]); read as hours",
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=frcgr&keyword=Marks+of+a+Healthy+Church&keyworddesc=Marks+of+a+Healthy+Church"
+            },
+            {
+              "title": "Dead Orthodoxy",
+              "by": "Dr. David Martyn Lloyd-Jones",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "https://www.mljtrust.org/sermons/revival/dead-orthodoxy/"
+            },
+            {
+              "title": "When the Spirit Comes",
+              "by": "Dr. David Martyn Lloyd-Jones",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "https://www.mljtrust.org/sermons/book-of-john/when-the-spirit-comes/"
+            }
+          ],
+          "total": "68.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Distinguishing Marks of a Work of the Spirit of God (summarize each section; there are 3 sections)",
+              "by": "Jonathan Edwards",
+              "extent": "48 pp.",
+              "minutes": null,
+              "pages": 48,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "The Re-study of Revival and Revivalism",
+              "by": "J. Edwin Orr",
+              "extent": "76 pp.",
+              "minutes": null,
+              "pages": 76,
+              "note": null,
+              "url": "http://www.jedwinorr.com/resources/pdf/Orr_Revival_and_Revivalism.pdf"
+            },
+            {
+              "title": "The Outpouring of the Spirit in Revival and Awakening and its Issue in Church Growth",
+              "by": "J. Edwin Orr",
+              "extent": "16 pp.",
+              "minutes": null,
+              "pages": 16,
+              "note": null,
+              "url": "http://www.churchmodel.org.uk/Orr%20HS%20BOOKLET%20A4.pdf"
+            },
+            {
+              "title": "The Bible and Church Revitalization",
+              "by": "Harry Reeder",
+              "extent": "7 pp.",
+              "minutes": null,
+              "pages": 7,
+              "note": null,
+              "url": "https://harryreeder.wordpress.com/2014/04/29/the-bible-church-revitalization/"
+            },
+            {
+              "title": "The Spiritual Vitality of Calvinism",
+              "by": "David Martyn Lloyd-Jones",
+              "extent": "2 pp.",
+              "minutes": null,
+              "pages": 2,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1EQCzV9IWSwIBFh7yuSjX_WUy2_51FNDy/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Revival and its Lessons",
+              "by": "J.W. Alexander",
+              "extent": "234 pp.",
+              "minutes": null,
+              "pages": 234,
+              "note": null,
+              "url": "https://archive.org/details/revivalitslesson00alex"
+            },
+            {
+              "title": "Personal Declension and Revival of Religion in the Soul",
+              "by": "Octavius Winslow",
+              "extent": "386 pp.",
+              "minutes": null,
+              "pages": 386,
+              "note": null,
+              "url": "https://archive.org/details/personaldeclensi00wins"
+            },
+            {
+              "title": "A Treatise Concerning Religious Affections",
+              "by": "Jonathan Edwards",
+              "extent": "628 pp.",
+              "minutes": null,
+              "pages": 628,
+              "note": null,
+              "url": "https://archive.org/details/treatiseconcerni1831edwa/page/n7/mode/2up"
+            }
+          ],
+          "total": "1250 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper developing a church revitalization ministry plan promoting church health.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC800",
+      "title": "Fundamentals of Nouthetic Counseling",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Nouthetic Counseling",
+              "by": "Dr. Jay Adams",
+              "extent": "1 h 15 min",
+              "minutes": 75,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/ja103-copyright.mp3"
+            },
+            {
+              "title": "The Bible and Counseling",
+              "by": "Dr. Jay Adams",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/np119-copyright.mp3"
+            },
+            {
+              "title": "Introduction to Biblical Counseling",
+              "by": "Lou Priolo",
+              "extent": "1 h 8 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "The Necessity of Biblical Counseling",
+              "by": "Heath Lambert",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/lambert.the-necessity-of-biblical-counseling.mp3"
+            },
+            {
+              "title": "The Pastor's Counseling Ministry",
+              "by": "David Powlison",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/the-pastor-s-counseling-ministry"
+            },
+            {
+              "title": "The Ultimate Answer to Man’s Problems",
+              "by": "Wayne Mack",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1Ipx0ifAlc7npH-tEooihjwpNpIIDDeaO/view?usp=sharing"
+            },
+            {
+              "title": "Pastoral Counseling 1-40",
+              "by": "Dr. John Street",
+              "extent": "21 h",
+              "minutes": 1260,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/playlist?list=PL4sbg6ng23C6kxXcn035efwnLf2lB4rSb"
+            },
+            {
+              "title": "Biblical Counseling Principles 1-10",
+              "by": "Dr. Jay Adams",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=principles+in+biblical+counseling"
+            },
+            {
+              "title": "Biblical Counseling 1-15",
+              "by": "Dr. Jay Adams",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1zes8p8E392QKdNdRjgGAb188K7ObDXyD?usp=sharing",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://ibcd.org/wp-content/uploads/2015/12/maxham.general-principles-of-biblical-counseling-1.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://ibcd.org/wp-content/uploads/2015/12/maxham.general-principles-of-biblical-counseling-2.mp3"
+                }
+              ]
+            },
+            {
+              "title": "General Principles of Biblical Counseling 1 and 2",
+              "by": "Tom Maxham",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Nouthetic Counseling Questions",
+              "by": "Dr. Jay Adams",
+              "extent": "1 h 15 min",
+              "minutes": 75,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/ja103-copyright.mp3"
+            },
+            {
+              "title": "Sufficiency View of Scripture in Christian Counseling",
+              "by": "Wayne Mack",
+              "extent": "1 h 19 min",
+              "minutes": 79,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=412076465"
+            },
+            {
+              "title": "The Necessity of the Church in Counseling",
+              "by": "Jim Newheiser",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/newheiser.the-necessity-of-the-church-in-counseling.mp3"
+            },
+            {
+              "title": "Counseling is the Church",
+              "by": "David Powlison",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1DTYQazJ9MYeh4JnwoS6PRUxlpSwFZzyB/view?usp=sharing"
+            },
+            {
+              "title": "Why Church Discipline?",
+              "by": "Bruce Ray",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1130141530460"
+            },
+            {
+              "title": "Progressive Sanctification",
+              "by": "Paul Tripp",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/19ROM7so2QtEs4mgLoLYPIfnVs5q0mGzP/view?usp=sharing"
+            },
+            {
+              "title": "Having Biblical Expectations in Counseling",
+              "by": "Brian Borgman",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/borgman.having-biblical-expectations-in-counseling.mp3"
+            },
+            {
+              "title": "The Necessity of the Gospel in Counseling",
+              "by": "Heath Lambert",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/lambert.the-necessity-of-the-gospel-in-counseling.mp3"
+            },
+            {
+              "title": "Handling Evangelism Opportunities in Counseling",
+              "by": "Steve Viars",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2014/07/viars.handling-evangelism-opportunities-in-counseling.mp3"
+            },
+            {
+              "title": "Sovereignty of God in Counseling",
+              "by": "Dr. Jay Adams",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/sovereignty-of-god-in-counseling"
+            },
+            {
+              "title": "Counseling Angry People",
+              "by": "Lou Priolo",
+              "extent": "1 h 7 min",
+              "minutes": 67,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1a_W8eunmWgFou_f_zqhDsqoaVmL_o2XU/view?usp=sharing"
+            },
+            {
+              "title": "How to Kill Worry",
+              "by": "George Scipione",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1114101230198"
+            },
+            {
+              "title": "How to Overcome Discontentment",
+              "by": "Lou Priolo",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": "Duration printed as [54] with no unit; read as minutes",
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Help for Depression",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h 14 min",
+              "minutes": 74,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/Good-Mood-Bad-Mood-1.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://loupriolo.com/free-audio/"
+                }
+              ]
+            },
+            {
+              "title": "Crash Course in Biblical Communication 1 and 2",
+              "by": "Lou Priolo",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "The Intimate Marriage 1-6",
+              "by": "Dr. R.C. Sproul",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/intimate-marriage/",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://loupriolo.com/free-audio/"
+                }
+              ]
+            },
+            {
+              "title": "Raising Children God’s Way 1 and 2",
+              "by": "Lou Priolo",
+              "extent": "1 h 45 min",
+              "minutes": 105,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Forgiveness when Wronged",
+              "by": "Lou Priolo",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Pornography",
+              "by": "Heath Lambert",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/lambert.bringing-freedom-to-captives-of-pornography.mp3"
+            },
+            {
+              "title": "Homosexuality",
+              "by": "Dr. Ed Welch",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ac945_copyright.mp3"
+            },
+            {
+              "title": "Dealing with a Person’s Past",
+              "by": "Dr. David Powlison",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ji9305_copyright.mp3"
+            },
+            {
+              "title": "Suicide",
+              "by": "Bruce Ray",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=101211202466"
+            },
+            {
+              "title": "How to Comfort the Dying",
+              "by": "Bruce Ray",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/17sA6ktfuRQp7hjWbtWvaYs334LuUjY5S/view?usp=sharing"
+            },
+            {
+              "title": "The History of the Biblical Counseling Movement",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            }
+          ],
+          "total": "73.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Change Them?...Into What?",
+              "by": "Dr. Jay Adams",
+              "extent": "5 pp.",
+              "minutes": null,
+              "pages": 5,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1FYwkkdZKVa2XDmAXkR9HX9MIx2TkwFf7/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Competent to Minister: The Biblical Care of Souls",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "254 pp.",
+              "minutes": null,
+              "pages": 254,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/CTM-ebk.pdf"
+            },
+            {
+              "title": "Counsels and Thoughts for the Spiritual Life of Believers",
+              "by": "Thomas Moor",
+              "extent": "398 pp.",
+              "minutes": null,
+              "pages": 398,
+              "note": null,
+              "url": "https://archive.org/details/counselsandthou00moorgoog"
+            },
+            {
+              "title": "Consolation",
+              "by": "J.W. Alexander",
+              "extent": "470 pp.",
+              "minutes": null,
+              "pages": 470,
+              "note": null,
+              "url": "https://archive.org/details/consolationindis00alex"
+            },
+            {
+              "title": "The Rise and Progress of Religion in the Soul",
+              "by": "Philip Doddridge",
+              "extent": "366 pp.",
+              "minutes": null,
+              "pages": 366,
+              "note": null,
+              "url": "https://archive.org/details/cu31924070006741"
+            },
+            {
+              "title": "The Christian’s Daily Walk",
+              "by": "Henry Scudder",
+              "extent": "455 pp.",
+              "minutes": null,
+              "pages": 455,
+              "note": null,
+              "url": "https://archive.org/details/christiansdaily00unkngoog"
+            }
+          ],
+          "total": "1,943 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the fundamental principles of Nouthetic counseling and directives for counseling common life issues.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH820",
+      "title": "Calvin’s Institutes",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Calvin’s Institutes Vols. 1 and 2",
+              "by": "Henry Beveridge",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/calvins-institutes-audio-lectures/id418582445?mt=10"
+            }
+          ],
+          "total": "1332 pages"
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "John Calvin 1-3",
+              "by": "Dr. Richard Gamble",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": "(create a free iTunes account and download free iTunes software to access lectures)",
+              "url": "https://itunes.apple.com/us/itunes-u/john-calvin/id436414539?mt=10"
+            },
+            {
+              "title": "The Rediscovery of John Calvin 1-4",
+              "by": "Dr. Herman Selderhuis",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/rediscovery-john-calvin/id391764302?mt=10"
+            },
+            {
+              "title": "Theology of Calvin in his Institutes",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "79 min",
+              "minutes": 79,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/sf112-copyright.mp3"
+            },
+            {
+              "title": "Calvin's Institutes",
+              "by": "Dr. David Calhoun",
+              "extent": "28 h",
+              "minutes": 1680,
+              "pages": null,
+              "note": null,
+              "url": "https://archive.org/details/collectedwriting01thor/page/596/mode/2up"
+            }
+          ],
+          "total": "35 hours"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course materials.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful Resource:",
+          "items": [
+            {
+              "title": "Analysis of Calvin’s Institutes",
+              "by": "J. H. Thornwell",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null
+            }
+          ],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PM801",
+      "title": "Puritan Ministry",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Introduction to English Puritan Theology Lectures 7 and 12",
+              "by": "Dr. J.I. Packer",
+              "extent": "106 min",
+              "minutes": 106,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/introduction-to-english-puritan/id982367624"
+            },
+            {
+              "title": "The English Puritans Lectures 11-16",
+              "by": "Dr. J.I. Packer",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/bm/itunes-u/the-english-puritans/id378878741?mt=10"
+            },
+            {
+              "title": "Puritan Theology Lectures 23-26",
+              "by": "Dr. Joel Beeke",
+              "extent": "4.5 h",
+              "minutes": 270,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/watch?v=FBGZ7ZD9rqA&list=PLHKxt9HSA8B6SGgxqOQB4rC34ZBX2ijNW&index=1"
+            },
+            {
+              "title": "The Puritans’ View of the Pulpit",
+              "by": "Dr. Bruce Bickel",
+              "extent": "68 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformationpittsburgh.org/lectures/BruceBickel%20Puritan%20Preaching.mp3"
+            },
+            {
+              "title": "Puritan Preaching 1 and 2",
+              "by": "Dr. Joel Beeke",
+              "extent": "1 h 21 min",
+              "minutes": 81,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11709220120",
+              "urls": [
+                {
+                  "label": "Vol. 2",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=117092216305"
+                }
+              ]
+            },
+            {
+              "title": "The Puritans on Prayer",
+              "by": "Dr. Don Kistler",
+              "extent": "46 min",
+              "minutes": 46,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=426142355558"
+            },
+            {
+              "title": "The Puritans on the Family",
+              "by": "Dr. Don Kistler",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=426142348415"
+            },
+            {
+              "title": "The Puritans and the Family",
+              "by": "Dr. Joel Beeke",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=54101711250"
+            },
+            {
+              "title": "The Reformed Pastor",
+              "by": "Dr. Matthew McMahon",
+              "extent": "64 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=7120614113"
+            },
+            {
+              "title": "Gospel Worship",
+              "by": "Dr. Matthew McMahon",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=71206124659"
+            },
+            {
+              "title": "Puritans and Pastoral Ministry",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "40 min",
+              "minutes": 40,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/insfck-copyright.mp3"
+            },
+            {
+              "title": "Puritan Sermons and Spiritual Formation",
+              "by": "Dr. Derek Thomas",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.wordmp3.com/download.aspx?id=15434"
+            },
+            {
+              "title": "John Owen's Pastoral Theology 1-8",
+              "by": "Dr. Derek Thomas",
+              "extent": "11 h",
+              "minutes": 660,
+              "pages": null,
+              "note": null,
+              "url": "http://tonyreinke.com/2007/06/29/john-owen-derek-thomas/"
+            },
+            {
+              "title": "Owen's View of the Christian Life",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "1 h 17 min",
+              "minutes": 77,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sg-audiotreasures.org/sinclair/05sf_owen.mp3"
+            },
+            {
+              "title": "Puritans and the Christian Sabbath",
+              "by": "Dr. Joseph Pipa",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=5410173529"
+            }
+          ],
+          "total": "32 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Reformed Pastor",
+              "by": "Richard Baxter",
+              "extent": "378 pp.",
+              "minutes": null,
+              "pages": 378,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/The%20Reformed%20Pastor%20(4th%20ed.).pdf"
+            },
+            {
+              "title": "The Art of Prophesying",
+              "by": "William Perkins",
+              "extent": "61 pp.",
+              "minutes": null,
+              "pages": 61,
+              "note": null,
+              "url": "https://www.monergism.com/thethreshold/sdg/perkins/Perkins%20-%20The%20Art%20of%20Prophesyin%20-%20William%20Perkins.pdf",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.1).pdf"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.2).pdf"
+                },
+                {
+                  "label": "Vol. 3,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.3).pdf"
+                },
+                {
+                  "label": "Vol. 4,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.4).pdf"
+                },
+                {
+                  "label": "Vol. 5",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.5).pdf"
+                }
+              ]
+            },
+            {
+              "title": "A Body of Practical Divinity Vols. 1, 2, 3, 4, 5 (A Christian Directory)",
+              "by": "Richard Baxter",
+              "extent": "2978 pp.",
+              "minutes": null,
+              "pages": 2978,
+              "note": null
+            }
+          ],
+          "total": "3417 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the key Puritan concepts pertaining to their view of Pastoral Ministry.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH830",
+      "title": "The Holy Spirit",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Doctrine of the Holy Spirit 1-37",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "27 h",
+              "minutes": 1620,
+              "pages": null,
+              "note": null,
+              "url": "http://www.wts.edu/resources/media.html?paramType=search&category%5B%5D=5&keywords=the+doctrine+of+the+holy+spirit&speaker=26&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=1990s&srch=search"
+            },
+            {
+              "title": "The Holy Spirit 1-6",
+              "by": "Dr. R.C. Sproul",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/the_holy_spirit/"
+            },
+            {
+              "title": "The Holy Spirit 1-19",
+              "by": "Geoff Thomas",
+              "extent": "16 h",
+              "minutes": 960,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=alfredplace&keyword=The+Holy+Spirit&keyworddesc=The+Holy+Spirit"
+            },
+            {
+              "title": "Work of the Holy Spirit 1-14",
+              "by": "Dr. Richard Gaffin",
+              "extent": "12.5 h",
+              "minutes": 750,
+              "pages": null,
+              "note": null,
+              "url": "http://www.wts.edu/resources/media.html?paramType=search&keywords=gifts+of+the+holy+spirit&speaker=10&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=1970s&srch=search"
+            },
+            {
+              "title": "The Holy Spirit in the Early Church",
+              "by": "William VanDoodewaard",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=829111536150"
+            },
+            {
+              "title": "The Power of the Holy Spirit in the Work of the Ministry",
+              "by": "Dr. Michael Barrett",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=420151330552"
+            },
+            {
+              "title": "When the Spirit Comes",
+              "by": "Dr. David Martyn Lloyd-Jones",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "https://www.mljtrust.org/sermons/book-of-john/when-the-spirit-comes/"
+            }
+          ],
+          "total": "61 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Spirit of God in the Old Testament",
+              "by": "B.B. Warfield",
+              "extent": "28 pp.",
+              "minutes": null,
+              "pages": 28,
+              "note": null,
+              "url": "https://archive.org/details/biblicaldoctrinewarf/page/100/mode/2up"
+            },
+            {
+              "title": "The Office and Work of the Holy Spirit",
+              "by": "James Buchanan",
+              "extent": "534 pp.",
+              "minutes": null,
+              "pages": 534,
+              "note": null,
+              "url": "https://archive.org/details/officeandworkho00buchgoog"
+            },
+            {
+              "title": "The Doctrine of the Holy Spirit",
+              "by": "George Smeaton",
+              "extent": "412 pp.",
+              "minutes": null,
+              "pages": 412,
+              "note": null,
+              "url": "https://archive.org/details/thedoctrineofthe00smeauoft"
+            },
+            {
+              "title": "The Gifts of the Holy Spirit to Unbelievers and Believers",
+              "by": "C.R. Vaughan",
+              "extent": "415 pp.",
+              "minutes": null,
+              "pages": 415,
+              "note": null,
+              "url": "https://books.google.com/books?id=gZpUAAAAYAAJ&pg=PA233&dq=the+gifts+of+the+holy+spirit+to+unbelievers+and+to+believers&hl=en&sa=X&ved=0ahUKEwjcmdH_147SAhVCVWMKHWL0ChwQ6AEIHjAA#v=onepage&q=the%20gifts%20of%20the%20holy%20spirit%20to%20unbelievers%20and%20to%20believers&f=false"
+            },
+            {
+              "title": "Pneumatologia",
+              "by": "John Owen, abridged by Burder",
+              "extent": "352 pp.",
+              "minutes": null,
+              "pages": 352,
+              "note": null,
+              "url": "https://books.google.com/books/about/Pneumatologia_Abridged_by_the_Rev_G_Burd.html?id=Y1XTMgEACAAJ"
+            },
+            {
+              "title": "An Experimental and Practical View of the Work of the Holy Spirit",
+              "by": "Octavius Winslow",
+              "extent": "282 pp.",
+              "minutes": null,
+              "pages": 282,
+              "note": null,
+              "url": "https://books.google.com/books/about/The_inquirer_directed_to_an_experimental.html?id=RhtMAAAAYAAJ"
+            }
+          ],
+          "total": "2,023 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH850",
+      "title": "The Christian Sabbath",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Sabbath 1-12",
+              "by": "Dr. Francis Nigel Lee",
+              "extent": "9 h",
+              "minutes": 540,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=The+Sabbath&keyworddesc=The+Sabbath"
+            },
+            {
+              "title": "The Christian Sabbath 1-24",
+              "by": "Dr. Robert Martin",
+              "extent": "25 h",
+              "minutes": 1500,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=erbc-wa&keyword=The+Christian+Sabbath&keyworddesc=The+Christian+Sabbath"
+            },
+            {
+              "title": "The Sabbath and Sabbatarianism",
+              "by": "Dr. J.I. Packer",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=2190484417"
+            },
+            {
+              "title": "The Lord’s Day",
+              "by": "Iain Murray",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=82509143711"
+            },
+            {
+              "title": "The Lord’s Day: It’s Blessing, Sanctity",
+              "by": "John Murray",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/the-lord-s-day-it-s-blessing-sanctity"
+            },
+            {
+              "title": "Why Keep a Christian Sabbath Today",
+              "by": "Ian Goligher",
+              "extent": "36 min",
+              "minutes": 36,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11280613851"
+            },
+            {
+              "title": "Studies on the Sabbath 1-4",
+              "by": "Michael Barrett",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=faith&keyword=Studies+on+the+Sabbath&keyworddesc=Studies+on+the+Sabbath"
+            },
+            {
+              "title": "Keeping the Sabbath a Safeguard to True and Spiritual Worship",
+              "by": "Dr. Michael Barrett",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11401141637"
+            },
+            {
+              "title": "The Sabbath Gift",
+              "by": "Dr. W. Robert Godfrey",
+              "extent": "37 min",
+              "minutes": 37,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=37121534311"
+            },
+            {
+              "title": "The Christian Sabbath: Market Day of the Soul",
+              "by": "Dr. Jon Payne",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=511142022207"
+            },
+            {
+              "title": "Keeping the Sabbath Day Holy",
+              "by": "Phil Ryken",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/keep-the-sabbath-day-holy"
+            },
+            {
+              "title": "Sabbath Observance in a Non-Christian Society",
+              "by": "David Silversides",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=7300813700"
+            },
+            {
+              "title": "How to Cultivate Sabbath Keeping",
+              "by": "Dr. Joel Beeke",
+              "extent": "34 min",
+              "minutes": 34,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=5191514403910"
+            },
+            {
+              "title": "Means of Grace: The Sabbath",
+              "by": "Dr. Joseph Pipa",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=7204235318"
+            }
+          ],
+          "total": "45.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Sabbath Viewed in the Light of Reason, Revelation, and History",
+              "by": "James Gilfillan",
+              "extent": "610 pp.",
+              "minutes": null,
+              "pages": 610,
+              "note": null,
+              "url": "https://archive.org/details/sabbathviewedinrrsl00gilf/page/n7/mode/2up"
+            },
+            {
+              "title": "The Christian Sabbath",
+              "by": "George Holden",
+              "extent": "556 pp.",
+              "minutes": null,
+              "pages": 556,
+              "note": null,
+              "url": "https://archive.org/details/christiansabbath00hold"
+            },
+            {
+              "title": "The Christian Sabbath",
+              "by": "R.L. Dabney",
+              "extent": "110 pp.",
+              "minutes": null,
+              "pages": 110,
+              "note": null,
+              "url": "https://archive.org/details/christiansabbat00dabn"
+            },
+            {
+              "title": "A Treatise on the Sabbath",
+              "by": "John Owen",
+              "extent": "274 pp.",
+              "minutes": null,
+              "pages": 274,
+              "note": null,
+              "url": "https://archive.org/details/treatiseonsabbat00owen"
+            },
+            {
+              "title": "A Manual of the Christian Sabbath",
+              "by": "John Holmes Agnew",
+              "extent": "214 pp.",
+              "minutes": null,
+              "pages": 214,
+              "note": null,
+              "url": "https://archive.org/details/manualonchristiaec00agne"
+            },
+            {
+              "title": "Sabbath and Sunday",
+              "by": "William DeLoss Love",
+              "extent": "346 pp.",
+              "minutes": null,
+              "pages": 346,
+              "note": null,
+              "url": "https://archive.org/details/sabbathsunday00love"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "The Foundations of the Sabbath in the Word of God",
+              "by": "B.B. Warfield",
+              "extent": "16 pp.",
+              "minutes": null,
+              "pages": 16,
+              "note": null,
+              "url": "http://www.reformedaudio.org/audio/warfield/Warfield%20-%20The%20Foundations%20of%20the%20Sabbath%20in%20the%20Word%20of%20God.pdf"
+            },
+            {
+              "title": "The Sabbath’s Sanctification",
+              "by": "William Gouge",
+              "extent": "46 pp.",
+              "minutes": null,
+              "pages": 46,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Gouge%2C%20William/%5BWG%5D%20The%20Sabbath%27s%20Sanctification.pdf"
+            }
+          ],
+          "total": "2172 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper outlining a pastoral ministry plan for encouraging and promoting the proper use and observance of the Sabbath in the life of your church.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC801",
+      "title": "Nouthetic Counseling I",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Care and Discipleship I 1-20",
+              "by": "IBCD",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/care-discipleship-level-1/id643538201"
+            },
+            {
+              "title": "Dynamics of Biblical Change 1-22",
+              "by": "Dr. David Powlison",
+              "extent": "27 h",
+              "minutes": 1620,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1kcAymv3MLybmQZmmYJnQUZoaYHgA2IK3?usp=sharing"
+            },
+            {
+              "title": "Union with Christ: A Dynamic for Change",
+              "by": "Dr. Timothy Lane",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww063_copyright.mp3"
+            },
+            {
+              "title": "Union with Christ: God at Work Among You",
+              "by": "Dr. Timothy Lane",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww064_copyright.mp3"
+            },
+            {
+              "title": "The Inner and Outer Man Balance in Counseling",
+              "by": "George Scipione",
+              "extent": "1 h 4 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/scipione.the-inner-man-and-outer-man-balance-in-counceling.mp3"
+            },
+            {
+              "title": "Spiritual Depression 1-6",
+              "by": "Stephen Gambill",
+              "extent": "6 h",
+              "minutes": 360,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=rbcnashville&keyword=Spiritual+Depression&keyworddesc=Spiritual+Depression"
+            },
+            {
+              "title": "How to Identify Heart Idols",
+              "by": "Lou Priolo",
+              "extent": "1 h 7 min",
+              "minutes": 67,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Drawing out Idols of the Heart",
+              "by": "IBCD",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1j8sR-S2RquCNLVUxYMU3S5XZjpPN-QhA/view?usp=drive_link"
+            },
+            {
+              "title": "Knowing God’s Will 1-5",
+              "by": "Dr. R.C. Sproul",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/knowing_gods_will/"
+            },
+            {
+              "title": "How to Avoid Making Rash Judgments",
+              "by": "Lou Priolo",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "How to Kill Anger",
+              "by": "George Scipione",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1218111758419"
+            },
+            {
+              "title": "Thinking Rightly about Yourself",
+              "by": "Lou Priolo",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1Hu5hh2c66XSY7l2iuhysXI77gLS_cbj9/view?usp=drive_link"
+            },
+            {
+              "title": "Inferiority Complex",
+              "by": "Dr. Jay Adams",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/those-with-inferiority-complex"
+            },
+            {
+              "title": "How to Overcome Selfishness",
+              "by": "Lou Priolo",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1-OPGYTT6pAFpGaczWimQ6CX7HdtYlbXU/view?usp=sharing"
+            },
+            {
+              "title": "Depression",
+              "by": "Tom Maxham",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/maxham.gospel-rest-for-depression.mp3"
+            },
+            {
+              "title": "Help for Bipolor Disorder",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h 6 min",
+              "minutes": 66,
+              "pages": null,
+              "note": "title spelled 'Bipolor' as printed",
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/Good-Mood-Bad-Mood-2.mp3"
+            },
+            {
+              "title": "Counseling People Pleasers",
+              "by": "Lou Priolo",
+              "extent": "1 h 14 min",
+              "minutes": 74,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1XOtmRN7-tRpwNeVxc4MWU2Pc_YiNtcQF/view?usp=drive_link"
+            },
+            {
+              "title": "Counseling Manipulators",
+              "by": "Lou Priolo",
+              "extent": "1 h 13 min",
+              "minutes": 73,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/16_wG4CkwosPaaO2mR5f9HnpvfwdLPFYk/view?usp=drive_link"
+            },
+            {
+              "title": "Letting Go of Lying",
+              "by": "Lou Priolo",
+              "extent": "55 min",
+              "minutes": 55,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1LzohFjoXcwFwh_OJu8gpS_Mj1cU3Qr0m/view?usp=drive_link"
+            },
+            {
+              "title": "General Principles about Money",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1SOwRdF1yEqhFT8bCgK6eTCCI1_RX3Z8I/view?usp=drive_link",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://ibcd.org/wp-content/uploads/2015/12/scipione.difficult-cases-and-wisdom-in-counseling-1.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://ibcd.org/wp-content/uploads/2015/12/scipione.difficult-cases-and-wisdom-in-counseling-2.mp3"
+                }
+              ]
+            },
+            {
+              "title": "Difficult Cases and Wisdom in Counseling 1 and 2",
+              "by": "George Scipione",
+              "extent": "2 h 4 min",
+              "minutes": 124,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Helping People Handle Trials",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1lioc-hRJwR5Rhp-15qnOdo-zr4HwqOUG/view?usp=drive_link"
+            },
+            {
+              "title": "Preparation for Counseling from the Pastoral Epistles",
+              "by": "George Scipione",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/scipione.preparation-for-counseling-from-the-pastoral-epistles.mp3"
+            },
+            {
+              "title": "Portraits of a Biblical Counselor",
+              "by": "Bob Kellermen",
+              "extent": "46 min",
+              "minutes": 46,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/kelleman.sharing-scipture-and-soul1.mp3"
+            },
+            {
+              "title": "Resume of a Biblical Counselor",
+              "by": "Bob Kellermen",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/kelleman.resume-of-a-biblical-counselor1.mp3"
+            },
+            {
+              "title": "How Do Others Experience You as a Counselor",
+              "by": "Dr. David Powlison",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/how-do-others-experience-you-as-a-counselor",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://ibcd.org/wp-content/uploads/2016/02/adams.avoiding_legalism_in_counseling_1.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://ibcd.org/wp-content/uploads/2016/02/adams.avoiding_legalism_in_counseling_2.mp3"
+                }
+              ]
+            },
+            {
+              "title": "Avoiding Legalism in Counseling 1 and 2",
+              "by": "Dr. Jay Adams",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null
+            }
+          ],
+          "total": "75 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Person to Person Ministry: Soul Care in the Body of Christ",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "256 pp.",
+              "minutes": null,
+              "pages": 256,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/PPM-ebk.pdf"
+            },
+            {
+              "title": "Christ Centered Ministry versus Problem-Centered Counseling",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "136 pp.",
+              "minutes": null,
+              "pages": 136,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/CCMpcc-ebk.pdf"
+            },
+            {
+              "title": "Stop Counseling and Start Ministering",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "328 pp.",
+              "minutes": null,
+              "pages": 328,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/Stop-Start_ebk.pdf"
+            },
+            {
+              "title": "The Practice of Piety",
+              "by": "Lewis Bayly",
+              "extent": "265 pp.",
+              "minutes": null,
+              "pages": 265,
+              "note": null,
+              "url": "https://drive.google.com/file/d/17tzbJHD9Mj0by2f8pTXGVXTqIv57Q9Nl/view?usp=sharing"
+            },
+            {
+              "title": "A Treatise On Keeping the Heart",
+              "by": "John Flavel",
+              "extent": "122 pp.",
+              "minutes": null,
+              "pages": 122,
+              "note": null,
+              "url": "https://archive.org/details/treatiseonkeepin1840flav"
+            },
+            {
+              "title": "A Lifting Up for the Downcast",
+              "by": "William Bridge",
+              "extent": "279 pp.",
+              "minutes": null,
+              "pages": 279,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Bridge,%20William/Works%20(vol.2)%20Ind%20Titles/%5bWB%5d%20A%20Lifting%20Up%20For%20the%20Downcast.pdf"
+            },
+            {
+              "title": "The Rare Jewel of Christian Contentment",
+              "by": "Jer. Burroughs",
+              "extent": "142 pp.",
+              "minutes": null,
+              "pages": 142,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Burroughs,%20Jeremiah/The%20Rare%20Jewel%20(Preach%20the%20Word).pdf"
+            },
+            {
+              "title": "The Pleasantness of a Religious Life",
+              "by": "Matthew Henry",
+              "extent": "177 pp.",
+              "minutes": null,
+              "pages": 177,
+              "note": null,
+              "url": "https://archive.org/details/pleasantnessare00henrgoog"
+            },
+            {
+              "title": "Cases of Conscience",
+              "by": "Pike and Hayward",
+              "extent": "480 pp.",
+              "minutes": null,
+              "pages": 480,
+              "note": null,
+              "url": "https://archive.org/details/religiouscasesof00pike"
+            },
+            {
+              "title": "The Saint’s Pocketbook",
+              "by": "Joseph Alleine",
+              "extent": "97 pp.",
+              "minutes": null,
+              "pages": 97,
+              "note": null,
+              "url": "http://www.onthewing.org/user/Alleine%20-%20The%20Saints%20Pocket-Book.pdf"
+            }
+          ],
+          "total": "2282 pages"
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Review:",
+          "items": [
+            {
+              "title": "Homework Assignment Resources (51 Handouts)",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/Series/handouts/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the biblical counseling procedures for the counseling issues presented in the course lectures.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC802",
+      "title": "Nouthetic Counseling II",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Care and Discipleship II 1-18",
+              "by": "IBCD",
+              "extent": "16.5 h",
+              "minutes": 990,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/care-discipleship-level-2/id645379324?mt=2"
+            },
+            {
+              "title": "Philosophies of Counseling and Marriage Counseling",
+              "by": "Dr. Ed Welch",
+              "extent": "1 h 11 min",
+              "minutes": 71,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/sc864_copyright.mp3"
+            },
+            {
+              "title": "Marriage and Family Counseling 1-14",
+              "by": "Dr. John Street",
+              "extent": "21 h",
+              "minutes": 1260,
+              "pages": null,
+              "note": null,
+              "url": "http://www.theologicalresources.org/the-masters-seminary/16-marriage-and-family-counseling/"
+            },
+            {
+              "title": "Biblical Communication",
+              "by": "Lou Priolo",
+              "extent": "55 min",
+              "minutes": 55,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Roles in Marriage",
+              "by": "George Scipione",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=514122127334"
+            },
+            {
+              "title": "Character Traits of a Successful Marriage",
+              "by": "Lou Priolo",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Danger Signs of an Unhealthy Relationship",
+              "by": "Lou Priolo",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Helping People Through Romantic Breakups",
+              "by": "Lou Priolo",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "How Husbands May Help Sanctify Wives",
+              "by": "Lou Priolo",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "How to Love Your Wife",
+              "by": "Lou Priolo",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "The Complete Husband",
+              "by": "Lou Priolo",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "Marital Sexuality",
+              "by": "Dr. Edward Welch",
+              "extent": "1 h 9 min",
+              "minutes": 69,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww071a-copyright.mp3"
+            },
+            {
+              "title": "Listening and Ministering to Sexual Issues",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/equipped-to-counsel-si15/id1020338404?mt=2"
+            },
+            {
+              "title": "The Pain of Porn",
+              "by": "Jim Newheiser",
+              "extent": "1 h 11 min",
+              "minutes": 71,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/newheiser.the_pain_of_porn_SS12.mp3"
+            },
+            {
+              "title": "Caring in Cases of Adultery",
+              "by": "Jim Newheiser",
+              "extent": "1 h 4 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/newheiser.caring-in-cases-of-adultery.mp3"
+            },
+            {
+              "title": "Teenagers and Sex",
+              "by": "Paul Tripp",
+              "extent": "1 h 4 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ac943_copyright.mp3"
+            },
+            {
+              "title": "Shepherding a Child’s Heart 1-17",
+              "by": "Ted Tripp",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "http://www.wts.edu/resources/media.html?paramType=search&keywords=shepherding+a+childs+heart&speaker=110&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Family Conference 1-7",
+              "by": "Dr. Bruce Ware",
+              "extent": "7 h",
+              "minutes": 420,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=providence-bc&keyword=2012+Family+Conference&keyworddesc=2012+Family+Conference",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 4",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 5",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 1",
+                  "url": "http://loupriolo.com/free-audio/"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://loupriolo.com/free-audio/"
+                }
+              ]
+            },
+            {
+              "title": "Parenting Seminar 1 2 3 4 5",
+              "by": "Lou Priolo",
+              "extent": "4.5 h",
+              "minutes": 270,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "How to Use Scripture in Child Training 1 and 2",
+              "by": "Lou Priolo",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Counseling Parents that Provoke",
+              "by": "Lou Priolo",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "https://my.ekklesia360.com/Clients/download.php?sid=7663&url=http://www.biblicalcounselingonline.org/resources/audio/priolo.counseling_parents_that_provoke.mp3&mediaBID=1310593"
+            },
+            {
+              "title": "How to Handle a Rebellious Teenager",
+              "by": "George Scipione",
+              "extent": "1 h 8 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Counseling Struggling Adoptive Parents",
+              "by": "Brian Borgman",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/borgman.counseling-struggling-adoptive-parents.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://ibcd.org/wp-content/uploads/2013/07/borgman.the-grace-and-grit-of-adoption-1.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://ibcd.org/wp-content/uploads/2013/07/borgman.the-grace-and-grit-of-adoption-2.mp3"
+                }
+              ]
+            },
+            {
+              "title": "Grace and Grit of Adoption 1 and 2",
+              "by": "Brian Borgman",
+              "extent": "2 h 4 min",
+              "minutes": 124,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Caring for the Abused",
+              "by": "Jim Newheiser",
+              "extent": "1 h 2 min",
+              "minutes": 62,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/newheiser.caring-for-the-abused.mp3"
+            },
+            {
+              "title": "Counseling Sexually Abused Women and Children",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/making-peace-with-the-past/id902589217?mt=2"
+            },
+            {
+              "title": "Counseling a Child who has been Sexually Abused",
+              "by": "Dr. Laura Hendrickson",
+              "extent": "1 h 6 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "The Strategic Nature of Family Worship",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            }
+          ],
+          "total": "90.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Family",
+              "by": "B.M. Palmer",
+              "extent": "308 pp.",
+              "minutes": null,
+              "pages": 308,
+              "note": null,
+              "url": "https://archive.org/details/familyinitscivil00palm"
+            },
+            {
+              "title": "Family Religion",
+              "by": "B.M. Smith",
+              "extent": "226 pp.",
+              "minutes": null,
+              "pages": 226,
+              "note": null,
+              "url": "https://archive.org/details/familyreligion00smit"
+            },
+            {
+              "title": "The Christian Home",
+              "by": "Samuel Phillips",
+              "extent": "406 pp.",
+              "minutes": null,
+              "pages": 406,
+              "note": null,
+              "url": "https://archive.org/details/christianhome00phil"
+            },
+            {
+              "title": "Of Domestical Duties",
+              "by": "William Gouge",
+              "extent": "339 pp.",
+              "minutes": null,
+              "pages": 339,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Gouge,%20William/Of%20Domestical%20Duties.pdf"
+            },
+            {
+              "title": "A Help to Domestic Happiness",
+              "by": "John Angell James",
+              "extent": "229 pp.",
+              "minutes": null,
+              "pages": 229,
+              "note": null,
+              "url": "https://archive.org/details/familymonitoror03jamegoog"
+            },
+            {
+              "title": "The Christian Father's Present to His Children",
+              "by": "John Angell James",
+              "extent": "202 pp.",
+              "minutes": null,
+              "pages": 202,
+              "note": null,
+              "url": "https://archive.org/details/christianfathers01jame"
+            },
+            {
+              "title": "Divorce and Remarriage: Recovering the Biblical View",
+              "by": "William Luck",
+              "extent": "287 pp.",
+              "minutes": null,
+              "pages": 287,
+              "note": null,
+              "url": "https://bible.org/assets/worddocs/luck_divorceremarriage.zip"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "A Church in the House",
+              "by": "Matthew Henry",
+              "extent": "92 pp.",
+              "minutes": null,
+              "pages": 92,
+              "note": null,
+              "url": "https://archive.org/details/churchinhouseorf00henr"
+            }
+          ],
+          "total": "1997 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper outlining biblical counseling procedures for the counseling issues presented in the course lectures.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC803",
+      "title": "Nouthetic Counseling III",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Secular Psychology and Christianity",
+              "by": "Dr. Richard Ganz",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12220485341"
+            },
+            {
+              "title": "Personal Freedom",
+              "by": "Dr. Richard Winter",
+              "extent": "1 h 10 min",
+              "minutes": 70,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/02_developmind_1990.mp3"
+            },
+            {
+              "title": "A Biblical View of Personality",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            },
+            {
+              "title": "Bird’s Eye View of Psychology",
+              "by": "Dr. Richard Winter",
+              "extent": "1 h 18 min",
+              "minutes": 78,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/04_developmind_1990.mp3"
+            },
+            {
+              "title": "God, Psychology, and the Christian Care of the Soul 1-3",
+              "by": "David Powlison",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=god+psychology+powlison"
+            },
+            {
+              "title": "Psychology’s View and Scripture’s View: Who We Are",
+              "by": "Ed Welch",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/psychology-s-view-and-scripture-s-view-who-we-are"
+            },
+            {
+              "title": "Biblical and Psychological Views of Death",
+              "by": "Dr. Edward Welch",
+              "extent": "1 h 10 min",
+              "minutes": 70,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ci945-copyright.mp3"
+            },
+            {
+              "title": "Advanced Biblical Counseling 1-13",
+              "by": "Dr. John Street",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "http://www.theologicalresources.org/the-masters-seminary/27-advanced-biblical-counseling/"
+            },
+            {
+              "title": "Biblical Counseling and the Five Points of Calvinism",
+              "by": "Dr. Jay Adams",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/np119-copyright.mp3"
+            },
+            {
+              "title": "Do You Think Like a Christian?",
+              "by": "Lou Priolo",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "http://loupriolo.com/free-audio/"
+            },
+            {
+              "title": "The Church and the Addicted Society",
+              "by": "Ed Welch",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/the-church-and-the-addicted-society"
+            },
+            {
+              "title": "Addictions: A Banquet in the Grave 1 and 2",
+              "by": "Ed Welch",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Coming out of Homosexuality 1 and 2",
+              "by": "IBCD",
+              "extent": "2 h 5 min",
+              "minutes": 125,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            },
+            {
+              "title": "Will Medicine Stop the Pain: Psychotropic Drugs",
+              "by": "Dr. Laura Hendrickson",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "The Problems of Pain Medicine",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h 4 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/Good-Mood-Bad-Mood-4.mp3"
+            },
+            {
+              "title": "Making All Things New: Restoring Pure Joy to the Sexually Broken",
+              "by": "David Powlison",
+              "extent": "1 h 13 min",
+              "minutes": 73,
+              "pages": null,
+              "note": null,
+              "url": "http://www.desiringgod.org/messages/making-all-things-new-restoring-pure-joy-to-the-sexually-broken"
+            },
+            {
+              "title": "Medicine and Biblical Counseling",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "What's Medical about Mental Illness",
+              "by": "Dr. Charles Hodges",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2016/03/hodges.whats-medical-about-mental-illness.mp3"
+            },
+            {
+              "title": "Counseling People with a Psychological Diagnosis",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2016/03/hodges.counseling-people-with-psychological-diagnoses.mp3"
+            },
+            {
+              "title": "Counseling People with Psychological Disorders",
+              "by": "George Scipione",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/scipione.counseling-people-with-psycological-disorders.mp3"
+            },
+            {
+              "title": "Helping Women Come Safely Off Anti-depressants",
+              "by": "IBCD",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/making-peace-with-the-past/id902589217?mt=2"
+            },
+            {
+              "title": "When People Go Insane",
+              "by": "Ed Welch",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ac935_copyright.mp3"
+            },
+            {
+              "title": "Sexual Identity and the Bible",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/disordered-desires-si16/id1134744046?mt=2"
+            },
+            {
+              "title": "ADHD Diagnosis",
+              "by": "Dr. Ed Welch",
+              "extent": "68 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ac954_copyright.mp3"
+            },
+            {
+              "title": "Paying Attention to ADHD",
+              "by": "IBCD",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/ibcd-medical-issues-and-biblical-counseling/id1093295209"
+            },
+            {
+              "title": "Ministering to ADHD Patients and their Families",
+              "by": "Eileen Scipione",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2013/07/scipione.eileen-ministering-to-adhd-patients-and-their-families.mp3"
+            },
+            {
+              "title": "Ministering to Parents of Special Needs Children",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/making-peace-with-the-past/id902589217?mt=2"
+            },
+            {
+              "title": "Thinking Biblically about OCD",
+              "by": "IBCD",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/ibcd-medical-issues-and-biblical-counseling/id1093295209"
+            },
+            {
+              "title": "Listening and Ministering to Eating Disorders",
+              "by": "Scott Mehl",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/mehl.listenting-and-ministering-to-eating-disorders-and-disorderly-eating.mp3"
+            },
+            {
+              "title": "Anorexia",
+              "by": "Martha Peace",
+              "extent": "1 h 12 min",
+              "minutes": 72,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2014/07/peace.counseling-as-if-a-life-depended-on-it-anorexia.mp3"
+            },
+            {
+              "title": "Gluttony Diet Fitness and Body Idolatry",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/changed-by-grace-si-12/id1136078877"
+            },
+            {
+              "title": "Offering Hope and Help to Women who Self-Injure",
+              "by": "Janet Gustafson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/gustafson-j.offering-hope-and-help-to-women-who-self-injure.mp3"
+            },
+            {
+              "title": "Post-Traumatic Stress Disorder",
+              "by": "Dr. Charles Hodges",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2015/12/Good-Mood-Bad-Mood-3.mp3"
+            },
+            {
+              "title": "Dealing with Suicide",
+              "by": "Bruce Ray",
+              "extent": "1 h 16 min",
+              "minutes": 76,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Counseling after a Suicide",
+              "by": "IBCD",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/podcast/making-peace-with-the-past/id902589217?mt=2"
+            },
+            {
+              "title": "Counseling the Terminally Ill",
+              "by": "Roger Wagner",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1SzBdChV0euHq3xPDMkTwWS-_0F6nRLFs/view?usp=sharing"
+            },
+            {
+              "title": "Responding to Suffering that Cannot be Fixed",
+              "by": "Dr. David Powlison",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww992_copyright.mp3"
+            },
+            {
+              "title": "Confessions of a Biblical Counselor",
+              "by": "George Scipione",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "https://ibcd.org/wp-content/uploads/2014/07/scipione.confessions-of-a-biblical-counselor.mp3"
+            }
+          ],
+          "total": "63 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "Alcohol, Benzos, and Opiates — Withdrawal that Might Kill You",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "Can Withdrawal Cause Death?",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://americanaddictioncenters.org/withdrawal-timelines-treatments/risk-of-death/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Psychoheresy",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "472 pp.",
+              "minutes": null,
+              "pages": 472,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/PHR-ebk.pdf"
+            },
+            {
+              "title": "The End of Christian Psychology",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "298 pp.",
+              "minutes": null,
+              "pages": 298,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/ECP-ebk.pdf"
+            },
+            {
+              "title": "Against Biblical Counseling: For the Bible",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "203 pp.",
+              "minutes": null,
+              "pages": 203,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/ABC-webbk.pdf"
+            },
+            {
+              "title": "Four Temperaments, Astrology, and Personality Testing",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "220 pp.",
+              "minutes": null,
+              "pages": 220,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/4temp-ebk.pdf"
+            },
+            {
+              "title": "Missions and Psychoheresy",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "168 pp.",
+              "minutes": null,
+              "pages": 168,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/MPH-ebk.pdf"
+            },
+            {
+              "title": "12 Steps to Destruction",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "260 pp.",
+              "minutes": null,
+              "pages": 260,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/12steps-ebk.pdf"
+            },
+            {
+              "title": "Hypnosis: Medical, Scientific, or Occultic?",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "144 pp.",
+              "minutes": null,
+              "pages": 144,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/e-books/Hypnosis-ebk.pdf"
+            },
+            {
+              "title": "Counseling the Hard Cases",
+              "by": "Martin and Deidre Bobgan",
+              "extent": "222 pp.",
+              "minutes": null,
+              "pages": 222,
+              "note": null,
+              "url": "http://www.psychoheresy-aware.org/pdf/hard_cases_ebook.pdf"
+            },
+            {
+              "title": "The Guilt, Folly, and Sources of Suicide",
+              "by": "Samuel Miller",
+              "extent": "72 pp.",
+              "minutes": null,
+              "pages": 72,
+              "note": null,
+              "url": "https://archive.org/details/2563057R.nlm.nih.gov/page/n5/mode/2up"
+            }
+          ],
+          "total": "2059 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating biblical counseling procedures for the counseling issues presented in the course lectures.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "NC804",
+      "title": "The Christian Directory",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Body of Practical Divinity Vols. 1, 2, 3, 4, 5 (A Christian Directory)",
+              "by": "Richard Baxter",
+              "extent": "2978 pp.",
+              "minutes": null,
+              "pages": 2978,
+              "note": null
+            }
+          ],
+          "total": "2978 pages"
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the biblical counseling principles used by Baxter in this classic work.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "AP801",
+      "title": "Apologetics in a Postmodern World",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "From Modernism to Postmodernism",
+              "by": "D.A. Carson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/from-modernism-to-postmodernism"
+            },
+            {
+              "title": "Postmodern Spirituality",
+              "by": "Dr. D.A. Carson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/postmodern-spirituality"
+            },
+            {
+              "title": "The Interpretation of the Bible in a Postmodern World 1-7",
+              "by": "Dr. D.A. Carson",
+              "extent": "7 h",
+              "minutes": 420,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=The+Interpretation+of+the+bible+in+a+postmodern+world"
+            },
+            {
+              "title": "Understanding the Postmodern Culture",
+              "by": "Travis Kern",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/understanding-the-postmodern-culture"
+            },
+            {
+              "title": "Understanding Postmodernism from a Confessional Stance 1-3",
+              "by": "D.A. Carson",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=understanding+postmodernism+from+a+confessional+stance"
+            },
+            {
+              "title": "Apologetics in a Post-Christian Age 1-25",
+              "by": "Dr. Kim Riddlebarger",
+              "extent": "21.5 h",
+              "minutes": 1290,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/apologetics-post-christian-age-26-part-lecture-series"
+            },
+            {
+              "title": "The Challenge of Preaching in the 21st Century",
+              "by": "Dr. D.A. Carson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/the-challenge-of-preaching-in-the-21st-century"
+            },
+            {
+              "title": "How then Should We Preach to a Postmodern World",
+              "by": "David Wells",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/how-then-should-we-preach-to-a-post-modern-world"
+            },
+            {
+              "title": "The Gospel and Postmodern Minds",
+              "by": "Dr. D.A. Carson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/the-gospel-and-postmodern-minds-how-do-we-reach-out-to-a-changing-culture-without-selling-out"
+            },
+            {
+              "title": "Telling the Premodern Truth to Postmodern People",
+              "by": "Dr. D.A. Carson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/telling-the-premodern-truth-to-postmodern-people"
+            },
+            {
+              "title": "Teaching the Only Savior to Postmoderns",
+              "by": "J.D. Payne",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/teaching-the-only-savior-to-postmoderns"
+            },
+            {
+              "title": "Proclaiming the Risen Christ to a Postmodern and Post-Christian Culture",
+              "by": "Jim Newheiser",
+              "extent": "41 min",
+              "minutes": 41,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=426142342192"
+            },
+            {
+              "title": "Addressing the Gospel to a Postmodern Culture in the Context of Church Ministry",
+              "by": "Dr. James Grier",
+              "extent": "34 min",
+              "minutes": 34,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=430517280"
+            },
+            {
+              "title": "Challenge of Postmodernity and Theological Responses to its Teaching",
+              "by": "Dr. James Grier",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=4305171732"
+            }
+          ],
+          "total": "41.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Supremacy of Christ in a Postmodern World",
+              "by": "John Piper and Justin Taylor",
+              "extent": "192 pp.",
+              "minutes": null,
+              "pages": 192,
+              "note": null,
+              "url": "http://www.desiringgod.org/books/the-supremacy-of-christ-in-a-postmodern-world.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "The Postmodernist Challenge to Theology",
+              "by": "Douglas Groothuis",
+              "extent": "20 pp.",
+              "minutes": null,
+              "pages": 20,
+              "note": null,
+              "url": "https://douglasgroothuisdotcom.files.wordpress.com/2015/03/the-postmodernist-challenge-to-theology1.pdf"
+            },
+            {
+              "title": "The Biblical View of Truth Challenges Postmodernist Truth Decay",
+              "by": "Douglas Groothuis",
+              "extent": "24 pp.",
+              "minutes": null,
+              "pages": 24,
+              "note": null,
+              "url": "https://douglasgroothuisdotcom.files.wordpress.com/2015/03/the-biblical-view-of-truth-challenges-postmodernist-truth-decay-2.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper addressing and winsomely responding to the challenges faced by the Christian Church in the postmodern era.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PH810",
+      "title": "Modern Philosophy",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Modern Philosophy 1-28",
+              "by": "Dr. Ronald Nash",
+              "extent": "23 h",
+              "minutes": 1380,
+              "pages": null,
+              "note": "(create a free iTunes account and download the free iTunes software to access lectures)",
+              "url": "https://itunes.apple.com/us/itunes-u/modern-philosophy/id412910038?mt=10"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Modern Philosophy",
+              "by": "Francis Bowen",
+              "extent": "512 pp.",
+              "minutes": null,
+              "pages": 512,
+              "note": null,
+              "url": "https://archive.org/details/modernphilosophy00boweuoft"
+            },
+            {
+              "title": "Readings in 20th Century Philosophy",
+              "by": "Alston and Nakhnikian",
+              "extent": "810 pp.",
+              "minutes": null,
+              "pages": 810,
+              "note": null,
+              "url": "https://archive.org/details/readingsintwenti00alst"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH801",
+      "title": "Inspiration, Inerrancy, and Reliability of Scripture",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Why We Trust Our Bible 1-20",
+              "by": "Piper, Blomberg, & Mounce",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/why-we-trust-our-bible"
+            },
+            {
+              "title": "Evidence for Inerrancy",
+              "by": "Stephen J. Wellum",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/evidence-for-inerrancy"
+            },
+            {
+              "title": "How Do We Know the Bible is True?",
+              "by": "Brian Edwards",
+              "extent": "35 min",
+              "minutes": 35,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=113091325520"
+            },
+            {
+              "title": "Why We Believe the Bible 1-5",
+              "by": "John Piper",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=why+we+believe+the+bible+Piper"
+            },
+            {
+              "title": "Trusting the Old Testament",
+              "by": "Russell Fuller",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/trusting-the-old-testament"
+            },
+            {
+              "title": "The Truth about the Bible and Archaeology",
+              "by": "Brian Edwards",
+              "extent": "1 h 7 min",
+              "minutes": 67,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=523101631543"
+            },
+            {
+              "title": "Scripture, Archaeology, and Miracles",
+              "by": "Dr. E.J. Young",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/scripture-archaeology-and-miracles"
+            },
+            {
+              "title": "Authority of Scripture: Are there errors in the Bible?",
+              "by": "Dr. E.J. Young",
+              "extent": "42 min",
+              "minutes": 42,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ey_307_copyright.mp3"
+            },
+            {
+              "title": "Mosaic Authorship of the Pentateuch",
+              "by": "Dr. E.J. Young",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ey_311_copyright.mp3"
+            },
+            {
+              "title": "The Historicity of Genesis",
+              "by": "Drs. Collins and Barrs",
+              "extent": "4.5 h",
+              "minutes": 270,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/the-francis-schaeffer-lecture-series-2010-fall-the-historicity-of-genesis/"
+            },
+            {
+              "title": "Unity of Isaiah",
+              "by": "Dr. E.J. Young",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ey_309_copyright.mp3"
+            },
+            {
+              "title": "Authorship of Daniel and the Psalms",
+              "by": "Dr. E.J. Young",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ey_312_copyright.mp3"
+            },
+            {
+              "title": "Inerrancy and the Problem of Harmonization in the Old Testament",
+              "by": "Dr. Tremper Longman",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/sc845-copyright.mp3"
+            },
+            {
+              "title": "Trusting the New Testament",
+              "by": "William Cook",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/trusting-the-new-testament",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://www.relyonchrist.com/Lecture/Audio/27.mp3"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://www.relyonchrist.com/Lecture/Audio/28.mp3"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "http://www.relyonchrist.com/Lecture/Audio/29.mp3"
+                }
+              ]
+            },
+            {
+              "title": "Reliability of the New Testament 1, 2, and 3",
+              "by": "Dr. Douglas Groothuis",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "The Canonization of the New Testament 1-4",
+              "by": "Dr. Michael Kruger",
+              "extent": "5.5 h",
+              "minutes": 330,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/canonization-new-testament/id620430978?mt=10"
+            },
+            {
+              "title": "Origins of the New Testament Canon",
+              "by": "Dr. Michael Kruger",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/origins-new-testament-canon/id904631381?mt=10"
+            },
+            {
+              "title": "The Implications of Inerrancy for Biblical Sufficiency",
+              "by": "Dr. John Street",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=330152358233"
+            },
+            {
+              "title": "Where is Jesus in All This? A Review of the Work of the Jesus Seminar",
+              "by": "Ben Witherington",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/where-is-jesus-in-all-this-a-review-of-the-work-of-the-jesus-seminar"
+            },
+            {
+              "title": "Inerrancy and Church History 100-1800AD",
+              "by": "Dr. Carl Trueman",
+              "extent": "1 h 6 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=417142241445"
+            },
+            {
+              "title": "Inerrancy and Church History 1800 to Present",
+              "by": "Dr. Jeffrey Jue",
+              "extent": "1 h 26 min",
+              "minutes": 86,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=72013222941"
+            }
+          ],
+          "total": "54.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Books of the Old and New Testaments proved to be Canonical, and their Verbal Inspiration Maintained and Established",
+              "by": "Robert Haldane",
+              "extent": "222 pp.",
+              "minutes": null,
+              "pages": 222,
+              "note": null,
+              "url": "https://archive.org/details/booksofoldnewtes00hald"
+            },
+            {
+              "title": "The Evidence and Authority of Divine Revelation vols. 1 and 2",
+              "by": "Robert Haldane",
+              "extent": "1060 pp.",
+              "minutes": null,
+              "pages": 1060,
+              "note": null
+            },
+            {
+              "title": "The Infallible Truth and Divine Authority of the Holy Scriptures",
+              "by": "James Bannerman",
+              "extent": "595 pp.",
+              "minutes": null,
+              "pages": 595,
+              "note": null,
+              "url": "https://books.google.com/books/about/Inspiration.html?id=8u4UAAAAYAAJ"
+            },
+            {
+              "title": "Supreme Authority",
+              "by": "J. Norval Geldenhuys",
+              "extent": "136 pp.",
+              "minutes": null,
+              "pages": 136,
+              "note": null,
+              "url": "https://archive.org/details/supremeauthority0000jnor/mode/2up"
+            },
+            {
+              "title": "The Bible Under Trial",
+              "by": "James Orr",
+              "extent": "344 pp.",
+              "minutes": null,
+              "pages": 344,
+              "note": null,
+              "url": "https://archive.org/details/bibleundertriali00orrj"
+            },
+            {
+              "title": "Demolishing Supposed Bible Contradictions Vol. 1",
+              "by": "Ken Ham",
+              "extent": "172 pp.",
+              "minutes": null,
+              "pages": 172,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/demolishing-supposed-bible-contradictions-1/"
+            },
+            {
+              "title": "Demolishing Supposed Bible Contradictions Vol. 2",
+              "by": "Ken Ham",
+              "extent": "172 pp.",
+              "minutes": null,
+              "pages": 172,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/demolishing-supposed-bible-contradictions-2/"
+            }
+          ],
+          "total": "2701 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper defending the reliability of Scripture.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "AP820",
+      "title": "Christianity and Science",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Bible and Science 1-5",
+              "by": "Dr. Kingsley Elder",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=The+Bible+and+Science&keyworddesc=The+Bible+and+Science"
+            },
+            {
+              "title": "The Bible and Science 1-9",
+              "by": "Dr. Henry Morris",
+              "extent": "7 h",
+              "minutes": 420,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=swrb&keyword=The+Bible+and+Science&keyworddesc=The+Bible+and+Science"
+            },
+            {
+              "title": "Creation Series 1-12",
+              "by": "Dr. Ron Marks",
+              "extent": "9 h",
+              "minutes": 540,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gracegreenville&keyword=Creation+Series&keyworddesc=Creation+Series"
+            },
+            {
+              "title": "The Christian Roots of Science",
+              "by": "Jonathan Sarfati",
+              "extent": "30 min",
+              "minutes": 30,
+              "pages": null,
+              "note": null,
+              "url": "http://nwcreation.net/media/Christian_Root_of_Science.mp3"
+            },
+            {
+              "title": "Modern Science and the Christian Faith 1-4",
+              "by": "Dr. Henry Schaefer",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/the-francis-schaeffer-lecture-series-1995-spring-modern-science-and-the-christian-faith/",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11814110036895"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11814110042153"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11814110045023"
+                }
+              ]
+            },
+            {
+              "title": "Christianity and Science 1, 2, and 3",
+              "by": "Dr. Derek Thomas",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Science, Creation, and Laws of Nature",
+              "by": "Werner Gitt",
+              "extent": "74 min",
+              "minutes": 74,
+              "pages": null,
+              "note": null,
+              "url": "http://nwcreation.net/media/science_creation_andnature.wav"
+            },
+            {
+              "title": "Busting the Myths of Science",
+              "by": "Jonathan Sarfati",
+              "extent": "30 min",
+              "minutes": 30,
+              "pages": null,
+              "note": null,
+              "url": "http://nwcreation.net/media/Busting_the_Myths_of_Science.mp3"
+            },
+            {
+              "title": "Can I Trust the Bible Over Evolutionary Science",
+              "by": "James Anderson",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1026131812464",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11509121562"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=115091257290"
+                }
+              ]
+            },
+            {
+              "title": "Origin of the Species 1 and 2",
+              "by": "Dr. Terry Mortenson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Science and Scripture versus Evolution",
+              "by": "Dr. Henry Morris",
+              "extent": "37 min",
+              "minutes": 37,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12100312724"
+            },
+            {
+              "title": "Designed for Life",
+              "by": "Jonathan Sarfati",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://nwcreation.net/media/Designed_for_Life.mp3"
+            },
+            {
+              "title": "Creation Evolution Lectures 1-3",
+              "by": "Dr. A.E. Wilder-Smith",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=swrb&keyword=Creation+Evolution+Lectures&keyworddesc=Creation+Evolution+Lectures"
+            },
+            {
+              "title": "Has Science Got Rid of God?",
+              "by": "Dr. John Blanchard",
+              "extent": "57 min",
+              "minutes": 57,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=6613448320"
+            }
+          ],
+          "total": "34 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Creation Facts of Life",
+              "by": "Gary Parker",
+              "extent": "216 pp.",
+              "minutes": null,
+              "pages": 216,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/creation-facts-of-life/"
+            },
+            {
+              "title": "Did God Use Evolution?",
+              "by": "Werner Gitt",
+              "extent": "144 pp.",
+              "minutes": null,
+              "pages": 144,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/did-god-use-evolution/"
+            },
+            {
+              "title": "Universe by Design",
+              "by": "Danny Faulker",
+              "extent": "160 pp.",
+              "minutes": null,
+              "pages": 160,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/universe-by-design/"
+            },
+            {
+              "title": "The New Answers Book 1",
+              "by": "Answers in Genesis",
+              "extent": "384 pp.",
+              "minutes": null,
+              "pages": 384,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/new-answers-book-1/"
+            },
+            {
+              "title": "The New Answers Book 2",
+              "by": "Answers in Genesis",
+              "extent": "384 pp.",
+              "minutes": null,
+              "pages": 384,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/new-answers-book-2/"
+            },
+            {
+              "title": "The New Answers Book 3",
+              "by": "Answers in Genesis",
+              "extent": "384 pp.",
+              "minutes": null,
+              "pages": 384,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/new-answers-book-3/"
+            }
+          ],
+          "total": "1672 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper explaining the relationship between Christianity and Science",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper refuting evolution and theistic evolution",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper critiquing Scientism/Secular Humanism",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "AP850",
+      "title": "Islam",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Imperative of Understanding and Responding to Islam",
+              "by": "Michael Youssef",
+              "extent": "42 min",
+              "minutes": 42,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/the-imperative-of-understanding-and-responding-to-islamism"
+            },
+            {
+              "title": "Historical Background to Islam",
+              "by": "Dr. Michael Haykin",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/historical-background-to-islam"
+            },
+            {
+              "title": "Introduction to Islam 1-24",
+              "by": "Dr. Timothy Tennent",
+              "extent": "16 h 20 min",
+              "minutes": 980,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/introduction-islam/timothy-tennent"
+            },
+            {
+              "title": "Apologetics to Islam 1-7",
+              "by": "Nabeel Qureshi",
+              "extent": "9 h",
+              "minutes": 540,
+              "pages": null,
+              "note": "(create a free iTunes account and download free iTunes software to access lectures)",
+              "url": "https://itunes.apple.com/us/itunes-u/apologetics-to-islam-audio/id583668920?mt=10"
+            },
+            {
+              "title": "Islam 1-4",
+              "by": "Dr. Nabeel Qureshi and D. Wood",
+              "extent": "4.5 h",
+              "minutes": 270,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=grbcli&keyword=Series+on+Islam&keyworddesc=Series+on+Islam"
+            },
+            {
+              "title": "Evangelism in a Muslim Context 1-17",
+              "by": "Peter Ipema",
+              "extent": "13 h",
+              "minutes": 780,
+              "pages": null,
+              "note": "(Lectures 7,11, and 12 are not available)",
+              "url": "https://students.wts.edu/resources/media.html?paramType=search&keywords=muslim&speaker=&ScrBook=&ScrChap=&ScrVerse=&ScrVerseEnd=&year=&srch=search"
+            },
+            {
+              "title": "Engaging Islam",
+              "by": "Dr. John Leonard",
+              "extent": "1 h 19 min",
+              "minutes": 79,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/ww056_copyright.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://www.relyonchrist.com/Lecture/Audio/37.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://www.relyonchrist.com/Lecture/Audio/38.mp3"
+                }
+              ]
+            },
+            {
+              "title": "Islam 1 and 2",
+              "by": "Dr. Douglas Groothuis",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Christianity Confronts Islam 1 and 2",
+              "by": "Dr. Michael Horton",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library?utf8=%E2%9C%93&query=christianity+confronts+islam"
+            },
+            {
+              "title": "Why do Muslims Reject the Gospel 1 and 2",
+              "by": "Dr. James White",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": "Duration printed without unit ([1.5]); read as hours",
+              "url": "https://podcasts.apple.com/us/podcast/why-do-muslims-reject-the-gospel/id616215587"
+            }
+          ],
+          "total": "50.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Quran Unveiled",
+              "by": "Dave Miller",
+              "extent": "310 pp.",
+              "minutes": null,
+              "pages": 310,
+              "note": null,
+              "url": "http://apologeticspress.org/user_file/Quran-w.pdf"
+            },
+            {
+              "title": "The Religion of the Crescent",
+              "by": "William St. Clair Tisdall",
+              "extent": "284 pp.",
+              "minutes": null,
+              "pages": 284,
+              "note": null,
+              "url": "https://archive.org/details/religionofcresce00tisdiala"
+            },
+            {
+              "title": "The Original Sources of the Quran",
+              "by": "William St. Clair Tisdall",
+              "extent": "298 pp.",
+              "minutes": null,
+              "pages": 298,
+              "note": null,
+              "url": "https://archive.org/details/theoriginalsourc00tisduoft"
+            },
+            {
+              "title": "The Christian Approach to Islam",
+              "by": "James Barton",
+              "extent": "362 pp.",
+              "minutes": null,
+              "pages": 362,
+              "note": null,
+              "url": "https://archive.org/details/christianapproa00bartuoft"
+            },
+            {
+              "title": "Manual of Muslim Objections",
+              "by": "William St. Clair Tisdall",
+              "extent": "258 pp.",
+              "minutes": null,
+              "pages": 258,
+              "note": null,
+              "url": "https://archive.org/details/amanualofthelead00tisduoft"
+            },
+            {
+              "title": "Islam in the Bible",
+              "by": "Francis Nigel Lee",
+              "extent": "67 pp.",
+              "minutes": null,
+              "pages": 67,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1o0fRmFCJ1Hcopi48u6MxrI4YMAvvov9T/view?usp=sharing"
+            }
+          ],
+          "total": "1579 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper outlining a basic apologetic approach to the religion of Islam.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS890",
+      "title": "Doctoral Dissertation",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Dissertation topics must first be approved by the seminary administration. The dissertation topic must be directly related to ministry. Students should not begin dissertation work until the seminary administration has first approved the topic.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "FORMATTING: Current Turabian",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 1,
+          "type": "assignment",
+          "instruction": "Your dissertation should be no less than 150 pages, 1 inch margins (1.5 inch left margin), twelve-point type, Times New Roman font, double spaced.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Your dissertation should be free of grammatical and syntax errors and should represent the caliber of work you have completed during your Doctoral Program.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Your dissertation should be consecutively numbered, with a table of contents and appendices (if necessary). Your dissertation should be divided into relevant chapters with sub-section headings within each chapter. You will need to also include a list of tables, figures and illustrations if these appear in your dissertation.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Your dissertation must include a submission page and full bibliography.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Your dissertation must be submitted to LCS administration by your mentor (after grading) for final review and approval before you will be considered for graduation.",
+          "items": [],
+          "total": null
+        }
+      ]
+    }
+  ]
+}

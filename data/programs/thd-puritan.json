@@ -1,0 +1,2596 @@
+{
+  "slug": "thd-puritan",
+  "name": "Doctor of Theology in Puritan Studies",
+  "credit_hours": 51,
+  "admission": "Open to male students only; minimum 60 hour Master's degree in a field of theological study which includes 12 hours of Hebrew and Greek (applicants without the original languages must complete the M.Div. language courses as part of the degree program); M.Div or Th.M preferred; no transfer credits are possible due to the uniqueness of the program.",
+  "requirements": [
+    "All written assignments (with the exception of the dissertation) should follow current MLA formatting.",
+    "All numbered assignments (lecture outlines/notes, summaries, chapter summaries, papers, etc.) must be submitted to your mentor for grading."
+  ],
+  "course_list": [
+    {
+      "code": "LG801",
+      "title": "Fundamental Latin Grammar (prerequisite)",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PRT801",
+      "title": "Puritan Theology I",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PRT802",
+      "title": "Puritan Theology II",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "PRT803",
+      "title": "Puritan Theology III",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PRT804",
+      "title": "Puritan Theology IV",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PM801",
+      "title": "Puritan Ministry",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "PR801",
+      "title": "Puritan Classics",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PR802",
+      "title": "Puritan Readings",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "PH801",
+      "title": "Puritan History",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "PH802",
+      "title": "Puritan Biographies",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PH803",
+      "title": "The Puritans and the Westminster Standards",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PS890",
+      "title": "Doctoral Dissertation",
+      "credits": 6,
+      "group": null
+    }
+  ],
+  "courses": [
+    {
+      "code": "LG801",
+      "title": "Fundamental Latin Grammar",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "readings",
+          "instruction": "Read each chapter and complete the exercises for each chapter (exercises for each of the 40 chapters and answer key are found at the back of the textbook). Exercises, after self-corrections are made by using the answer keys, are to be submitted to your mentor for grading:",
+          "items": [
+            {
+              "title": "Wheelock's Latin, 7th Edition",
+              "by": null,
+              "extent": "608 pp.",
+              "minutes": null,
+              "pages": 608,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1FJoeFUsF93pCk6gftEf54bI446DL_hmY/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "lectures",
+          "instruction": "For each of the 40 chapters of Wheelock, Read the appropriate chapter of Beginning Latin (see link below), view each accompanying lecture presentation, and take notes on each lecture presentation. Notes are to be submitted to mentor for grading. Complete the practice tests as arranged in the Beginning Latin material. These practice tests will serve as official examinations and must be proctored by your mentor or church officer and graded by your mentor. The practice tests are accompanied by an answer key for the use of your mentor.",
+          "items": [
+            {
+              "title": "Beginning Latin",
+              "by": null,
+              "extent": "18.5 h",
+              "minutes": 1110,
+              "pages": null,
+              "note": null,
+              "url": "http://www.usu.edu/markdamen/Latin1000/index.htm"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "Listen and take notes on the following lectures from Latin Per Diem:",
+          "items": [
+            {
+              "title": "The Apostles' Creed",
+              "by": null,
+              "extent": "5",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4AtC6yvpN8Hu3FwYWcezQ6N"
+            },
+            {
+              "title": "The Nicene Creed",
+              "by": null,
+              "extent": "5",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4AP5NARKTXP_aIE7vvrb-Ve"
+            },
+            {
+              "title": "Augustine - De Civitate Dei",
+              "by": null,
+              "extent": "5",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4Dn6nEMS6UyGsK1KeSJhc1P"
+            },
+            {
+              "title": "Calvin's 1536 Institutes",
+              "by": null,
+              "extent": "18",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4CkOuSkKS-ZwmJa2yNZPi1K"
+            },
+            {
+              "title": "The Belgic Confession",
+              "by": null,
+              "extent": "10",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.latinperdiem.com/confessio-belgica/"
+            },
+            {
+              "title": "The Heidelberg Catechism",
+              "by": null,
+              "extent": "3",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4Aja3TyGXooMfsiNFZ_Lxhx"
+            },
+            {
+              "title": "Turretin - Institutes of Elenctic Theology",
+              "by": null,
+              "extent": "3",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.latinperdiem.com/francis-turretin/"
+            },
+            {
+              "title": "The Westminster Shorter Catechism",
+              "by": null,
+              "extent": "46",
+              "minutes": null,
+              "pages": null,
+              "note": "lecture count; unit not printed",
+              "url": "https://www.youtube.com/playlist?list=PLEC2sC2cPY4AaFJ-lQfJhAZ_dKsW-2dTS"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Vocabulary List - in development",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Vocabulary Exam - in development.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Complete the translation exercises and perform a self-check using the answer keys provided in the text: The Catholic's Latin Instructor by E. Caswall. Submit the exercises to your mentor for grading. Note: these exercises are to expose the student to the most prevalent expressions of Ecclesiastical Latin; the inclusion of these exercises in no way endorses or condones Roman Catholic practice.",
+          "items": [],
+          "total": null
+        }
+      ],
+      "note": "Prerequisite for all courses; must be completed first before beginning any other course. Required for all students enrolled after 9/1/20."
+    },
+    {
+      "code": "PRT801",
+      "title": "Puritan Theology I",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Who were the Puritans?",
+              "by": "Dr. Don Kistler",
+              "extent": "37 min",
+              "minutes": 37,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=426142345293"
+            },
+            {
+              "title": "Introduction to the Puritans",
+              "by": "Stuart Olyott",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=212081157420"
+            },
+            {
+              "title": "Introduction and Overview of the Puritans",
+              "by": "Dr. Matthew McMahon",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?sid=71106162113"
+            },
+            {
+              "title": "Puritanism (Part 30 of The Reformation)",
+              "by": "Dr. Carl Trueman",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "note Trueman's definition of Puritanism",
+              "url": "https://itunes.apple.com/us/itunes-u/the-reformation/id924126015?mt=10"
+            },
+            {
+              "title": "Introduction to English Puritan Theology Lectures 1-6",
+              "by": "Dr. J.I. Packer",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": "create a free iTunes account and download the free iTunes software to access lectures",
+              "url": "https://itunes.apple.com/us/course/introduction-to-english-puritan/id982367624"
+            },
+            {
+              "title": "Puritan Theology Lectures 1-8A",
+              "by": "Dr. Joel Beeke",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/watch?v=FBGZ7ZD9rqA&list=PLHKxt9HSA8B6SGgxqOQB4rC34ZBX2ijNW&index=1"
+            },
+            {
+              "title": "Lessons from the Puritans",
+              "by": "Iain Murray",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://luehrmann.files.wordpress.com/2008/12/lessons-from-the-puritans.mp3"
+            },
+            {
+              "title": "The Puritans: Can They Teach Us Anything Today?",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://feedingonchrist.com/files/2009/03/ferguson_puritan_reading_room.mp3"
+            },
+            {
+              "title": "What I have Learned from the Puritans",
+              "by": "Mark Dever",
+              "extent": "75 min",
+              "minutes": 75,
+              "pages": null,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "John Owen on God",
+              "by": "Dr. Carl Trueman",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "http://mp3.sa-media.com/filearea/1080522227/1080522227.mp3"
+            },
+            {
+              "title": "Communion with God - John Owen",
+              "by": "Dr. Robert Law",
+              "extent": "86 min",
+              "minutes": 86,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/communion-with-god-john-owen/"
+            },
+            {
+              "title": "John Owen's Doctrine of the Trinity and its Significance for Today",
+              "by": "Dr. Robert Letham",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/Various%20History/Westminster%20Con/2006/WC06A-John-Owens-Doctrine-of-the-Trinity-and-its-Significance-for-Today.mp3"
+            },
+            {
+              "title": "The Trinitarian Piety of John Owen",
+              "by": "Dr. Ryan McGraw",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=523151110298"
+            },
+            {
+              "title": "Owen's View of the Scriptures",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "1 h 12 min",
+              "minutes": 72,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sg-audiotreasures.org/sinclair/06sf_owen.mp3"
+            },
+            {
+              "title": "William Ames - Marrow of Theology",
+              "by": "Dr. Matthew McMahon",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=71206121944"
+            },
+            {
+              "title": "Providence: John Flavel",
+              "by": "Dr. John Murray",
+              "extent": "82 min",
+              "minutes": 82,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/providence-john-flavel/",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=3614012031865"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=3614012349860"
+                }
+              ]
+            },
+            {
+              "title": "The Mystery of Providence 1 and 2",
+              "by": "Dr. Andrew Davis",
+              "extent": "2 h 5 min",
+              "minutes": 125,
+              "pages": null,
+              "note": null,
+              "url": "http://ia802606.us.archive.org/1/items/divineconductorm00flavuoft/divineconductorm00flavuoft_bw.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and summarize:",
+          "items": [
+            {
+              "title": "The Character of an Old English Puritan",
+              "by": "John Geree",
+              "extent": "3 pp.",
+              "minutes": null,
+              "pages": 3,
+              "note": null,
+              "url": "http://www.reformedreader.org/character_of_an_old_english_puri.htm"
+            },
+            {
+              "title": "A Brief Vindication of the Trinity",
+              "by": "John Owen",
+              "extent": "62 pp.",
+              "minutes": null,
+              "pages": 62,
+              "note": null,
+              "url": "http://www.ccel.org/ccel/owen/trinity.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Existence and Attributes of God, Vol. 1",
+              "by": "Stephen Charnock",
+              "extent": "596 pp.",
+              "minutes": null,
+              "pages": 596,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Charnock,%20Stephen/The%20Complete%20Works%20of%20Stephen%20Charnock%20(vol.1).pdf"
+            },
+            {
+              "title": "Communion with God",
+              "by": "John Owen",
+              "extent": "250 pp.",
+              "minutes": null,
+              "pages": 250,
+              "note": null,
+              "url": "http://www.ntslibrary.com/PDF%20Books/John%20Owen%20Communion%20with%20Father%20Son%20&%20Holy%20Ghost.pdf"
+            },
+            {
+              "title": "Mystery of Providence",
+              "by": "Flavel",
+              "extent": "264 pp.",
+              "minutes": null,
+              "pages": 264,
+              "note": null
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "readings",
+          "instruction": "In the subjects covered (Natural Revelation, God, Trinity, Scripture, Decrees, Creation, Providence), read:",
+          "items": [
+            {
+              "title": "The Marrow of Sacred Divinity (The Marrow of Theology)",
+              "by": "William Ames",
+              "extent": "48 pp.",
+              "minutes": null,
+              "pages": 48,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Ames,%20William/Marrow.pdf"
+            },
+            {
+              "title": "A Body of Divinity",
+              "by": "James Ussher",
+              "extent": "149 pp.",
+              "minutes": null,
+              "pages": 149,
+              "note": null,
+              "url": "http://books.google.com/books?id=pegxEPsLodUC&printsec=titlepage&source=gbs_summary_r"
+            },
+            {
+              "title": "A Body of Divinity (Vols. 1 & 2 of Works)",
+              "by": "Thomas Boston",
+              "extent": "210 pp.",
+              "minutes": null,
+              "pages": 210,
+              "note": null,
+              "url": "https://archive.org/details/compleatbodyofdi00will"
+            },
+            {
+              "title": "A Body of Practical Divinity (Vols. 1 & 2)",
+              "by": "Thomas Watson",
+              "extent": "147 pp.",
+              "minutes": null,
+              "pages": 147,
+              "note": null
+            },
+            {
+              "title": "A Body of Divinity",
+              "by": "Samuel Willard",
+              "extent": "155 pp.",
+              "minutes": null,
+              "pages": 155,
+              "note": null,
+              "url": "http://books.google.com/books?id=pegxEPsLodUC&printsec=titlepage&source=gbs_summary_r",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Boston,%20Thomas/The%20Whole%20Works%20of%20Thomas%20Boston%20(vol.1).pdf"
+                }
+              ]
+            }
+          ],
+          "total": "TOTAL LECTURES: 30 hours; TOTAL READING: 1884 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper comparing and contrasting the views of Ames, Ussher, Boston, Watson, and Willard in the subjects covered in this course.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PRT802",
+      "title": "Puritan Theology II",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Introduction to English Puritan Theology Lectures 8-11",
+              "by": "Dr. J.I. Packer",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/introduction-to-english-puritan/id982367624"
+            },
+            {
+              "title": "The English Puritans Lectures 5-10",
+              "by": "Dr. J.I. Packer",
+              "extent": "4.5 h",
+              "minutes": 270,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/bm/itunes-u/the-english-puritans/id378878741?mt=10"
+            },
+            {
+              "title": "Puritan Theology Lectures 8B-18A",
+              "by": "Dr. Joel Beeke",
+              "extent": "13 h",
+              "minutes": 780,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/watch?v=FBGZ7ZD9rqA&list=PLHKxt9HSA8B6SGgxqOQB4rC34ZBX2ijNW&index=1"
+            },
+            {
+              "title": "The Puritan Doctrine of the Atonement",
+              "by": "Gary Williams",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Stephen Charnock and the Knowledge of God in Christ",
+              "by": "Jeremy Walker",
+              "extent": "63 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "John Owen on Christ",
+              "by": "Dr. Carl Trueman",
+              "extent": "61 min",
+              "minutes": 61,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "John Owen's Death of Death",
+              "by": "Robert Oliver",
+              "extent": "48 min",
+              "minutes": 48,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "John Owen Death of Death",
+              "by": "Matthew McMahon",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Thomas Boston and the Fourfold State",
+              "by": "William VanDoodewaard",
+              "extent": "59 min",
+              "minutes": 59,
+              "pages": null,
+              "note": null
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Human Nature in its Fourfold State",
+              "by": "Thomas Boston",
+              "extent": "463 pp.",
+              "minutes": null,
+              "pages": 463,
+              "note": null
+            },
+            {
+              "title": "The Death of Death in the Death of Christ",
+              "by": "John Owen",
+              "extent": "330 pp.",
+              "minutes": null,
+              "pages": 330,
+              "note": null
+            },
+            {
+              "title": "The Doctrine of Repentance",
+              "by": "Watson",
+              "extent": "122 pp.",
+              "minutes": null,
+              "pages": 122,
+              "note": null
+            },
+            {
+              "title": "Gospel Mystery of Sanctification",
+              "by": "Walter Marshall",
+              "extent": "110 pp.",
+              "minutes": null,
+              "pages": 110,
+              "note": null
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "readings",
+          "instruction": "In the subjects covered (Sin, Salvation, Ordo Salutis, Regeneration, Effectual Calling, Repentance, Faith, Justification, Adoption, Sanctification, Ten Commandments, Lord's Prayer), read:",
+          "items": [
+            {
+              "title": "Marrow of Sacred Divinity",
+              "by": "William Ames",
+              "extent": "229 pp.",
+              "minutes": null,
+              "pages": 229,
+              "note": null
+            },
+            {
+              "title": "A Body of Divinity",
+              "by": "James Ussher",
+              "extent": "324 pp.",
+              "minutes": null,
+              "pages": 324,
+              "note": null,
+              "url": "https://archive.org/details/compleatbodyofdi00will"
+            },
+            {
+              "title": "A Body of Divinity (Vols. 1 and 2 of Works of Thomas Boston)",
+              "by": "Boston",
+              "extent": "592 pp.",
+              "minutes": null,
+              "pages": 592,
+              "note": null,
+              "url": "https://archive.org/details/compleatbodyofdi00will"
+            },
+            {
+              "title": "A Body of Practical Divinity (Vols. 1 & 2)",
+              "by": "Thomas Watson",
+              "extent": "786 pp.",
+              "minutes": null,
+              "pages": 786,
+              "note": null
+            },
+            {
+              "title": "A Body of Divinity",
+              "by": "Samuel Willard",
+              "extent": "723 pp.",
+              "minutes": null,
+              "pages": 723,
+              "note": null,
+              "url": "http://books.google.com/books?id=pegxEPsLodUC&printsec=titlepage&source=gbs_summary_r",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Boston,%20Thomas/The%20Whole%20Works%20of%20Thomas%20Boston%20(vol.1).pdf"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Boston,%20Thomas/The%20Whole%20Works%20of%20Thomas%20Boston%20(vol.2).pdf"
+                },
+                {
+                  "label": "Vol. 1",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Watson,%20Thomas/A%20Body%20of%20Practical%20Divinity.pdf"
+                },
+                {
+                  "label": "Vol. 2)",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Watson,%20Thomas/A%20Body%20of%20Practical%20Divinity%20(Vol.2).pdf"
+                }
+              ]
+            }
+          ],
+          "total": "TOTAL LECTURES: 26.5 hours; TOTAL READING: 3673"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper comparing and contrasting the views of Ames, Ussher, Boston, Watson, and Willard in the subjects covered in this course.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PRT803",
+      "title": "Puritan Theology III",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Puritan Theology Lectures 18B-22",
+              "by": "Dr. Joel Beeke",
+              "extent": "6 h",
+              "minutes": 360,
+              "pages": null,
+              "note": null,
+              "url": "https://www.youtube.com/playlist?list=PLHKxt9HSA8B6SGgxqOQB4rC34ZBX2ijNW"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Four Last Things",
+              "by": "Robert Bolton",
+              "extent": "536 pp.",
+              "minutes": null,
+              "pages": 536,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Bolton,%20Robert/The%20Four%20Last%20Things.pdf"
+            },
+            {
+              "title": "Doctrine of the Two Sacraments",
+              "by": "Ezekiel Hopkins",
+              "extent": "125 pp.",
+              "minutes": null,
+              "pages": 125,
+              "note": null,
+              "url": "http://books.google.com/books/pdf/The_doctrine_of_the_two_sacraments__The_.pdf?id=yLEHAAAAQAAJ&output=pdf&sig=LJWnZTID0oMIhKr-KupLTxC2czI"
+            },
+            {
+              "title": "Divine Right of Church Government",
+              "by": "Samuel Rutherford",
+              "extent": "799 pp.",
+              "minutes": null,
+              "pages": 799,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Rutherford,%20Samuel/The%20Divine%20Right%20of%20Church%20Government.pdf"
+            },
+            {
+              "title": "Biblical Elders and Deacons",
+              "by": "Nehemiah Coxe",
+              "extent": "26 pp.",
+              "minutes": null,
+              "pages": 26,
+              "note": null,
+              "url": "http://www.chapellibrary.org/files/2914/3766/4611/bead.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "readings",
+          "instruction": "In the subjects covered (Glorification, Heaven, Hell, Return of Christ, Judgment, Ecclesiology, Sacraments), read:",
+          "items": [
+            {
+              "title": "Marrow of Sacred Divinity",
+              "by": "Ames",
+              "extent": "60 pp.",
+              "minutes": null,
+              "pages": 60,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Ames,%20William/Marrow.pdf"
+            },
+            {
+              "title": "A Body of Divinity",
+              "by": "Ussher",
+              "extent": "74 pp.",
+              "minutes": null,
+              "pages": 74,
+              "note": null
+            },
+            {
+              "title": "A Body of Divinity (Vols. 1 and 2 of Works of Thomas Boston)",
+              "by": "Boston",
+              "extent": "84 pp.",
+              "minutes": null,
+              "pages": 84,
+              "note": null
+            },
+            {
+              "title": "A Body of Practical Divinity (Vols. 1 & 2)",
+              "by": "Watson",
+              "extent": "62 pp.",
+              "minutes": null,
+              "pages": 62,
+              "note": null
+            },
+            {
+              "title": "A Body of Divinity",
+              "by": "Willard",
+              "extent": "66 pp.",
+              "minutes": null,
+              "pages": 66,
+              "note": null
+            }
+          ],
+          "total": "TOTAL LECTURES: 6 hours; TOTAL PAGES: 1832"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper comparing and contrasting the views of Ames, Ussher, Boston, Watson, and Willard in the subjects covered in this course.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PRT804",
+      "title": "Puritan Theology IV",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Background of Puritan Federal Theology",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "1 h 13 min",
+              "minutes": 73,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sg-audiotreasures.org/sinclair/03sf_owen.mp3"
+            },
+            {
+              "title": "Owen's Covenant Theology",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sg-audiotreasures.org/sinclair/04sf_owen.mp3"
+            },
+            {
+              "title": "John Owen on the Decalogue",
+              "by": "Dr. Carl Trueman",
+              "extent": "46 min",
+              "minutes": 46,
+              "pages": null,
+              "note": null,
+              "url": "http://espace.wheaton.edu/cace/audio/08THEOTrueman.mp3"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Treatise of the Covenant of Redemption Between God and Christ, as the Foundation of the Covenant Grace",
+              "by": "Patrick Gillespie",
+              "extent": "496 pp.",
+              "minutes": null,
+              "pages": 496,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Gillespie,%20Patrick/The%20Ark%20of%20the%20Covenant%20Opened.pdf"
+            },
+            {
+              "title": "A Treatise of the Covenant of Grace",
+              "by": "John Ball",
+              "extent": "350 pp.",
+              "minutes": null,
+              "pages": 350,
+              "note": null,
+              "url": "http://books.google.com/books?id=Fvk2AAAAMAAJ&printsec=frontcover#PPP7,M2"
+            },
+            {
+              "title": "Doctrine of the Two Covenants",
+              "by": "Ezekiel Hopkins",
+              "extent": "520 pp.",
+              "minutes": null,
+              "pages": 520,
+              "note": null,
+              "url": "http://ia341037.us.archive.org/1/items/doctrineoftwocov00hopkuoft/doctrineoftwocov00hopkuoft.pdf"
+            },
+            {
+              "title": "The Covenant of Life Opened",
+              "by": "Samuel Rutherford",
+              "extent": "390 pp.",
+              "minutes": null,
+              "pages": 390,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Rutherford,%20Samuel/The%20Covenant%20of%20Life%20Opened.pdf"
+            }
+          ],
+          "total": "TOTAL LECTURES: 3 hours; TOTAL PAGES: 1756"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the key Puritan concepts pertaining to their view of Covenant Theology.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PM801",
+      "title": "Puritan Ministry",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Introduction to English Puritan Theology Lectures 7 and 12",
+              "by": "Dr. J.I. Packer",
+              "extent": "106 min",
+              "minutes": 106,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "The English Puritans Lectures 11-16",
+              "by": "Dr. J.I. Packer",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Puritan Theology Lectures 23-26",
+              "by": "Dr. Joel Beeke",
+              "extent": "4.5 h",
+              "minutes": 270,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "The Puritans’ View of the Pulpit",
+              "by": "Dr. Bruce Bickel",
+              "extent": "68 min",
+              "minutes": 68,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformationpittsburgh.org/lectures/BruceBickel%20Puritan%20Preaching.mp3"
+            },
+            {
+              "title": "Puritan Preaching 1 and 2",
+              "by": "Dr. Joel Beeke",
+              "extent": "1 h 21 min",
+              "minutes": 81,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11709220120",
+              "urls": [
+                {
+                  "label": "Vol. 2",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=117092216305"
+                }
+              ]
+            },
+            {
+              "title": "The Puritans and their Evangelistic Methods",
+              "by": "Dr. Joel Beeke",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://churchandfamilylife.com/resources/7263"
+            },
+            {
+              "title": "The Puritans on Prayer",
+              "by": "Dr. Don Kistler",
+              "extent": "46 min",
+              "minutes": 46,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=426142355558"
+            },
+            {
+              "title": "The Puritans on the Family",
+              "by": "Dr. Don Kistler",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=426142348415"
+            },
+            {
+              "title": "The Puritans and the Family",
+              "by": "Dr. Joel Beeke",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=54101711250"
+            },
+            {
+              "title": "The Reformed Pastor",
+              "by": "Dr. Matthew McMahon",
+              "extent": "64 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=7120614113"
+            },
+            {
+              "title": "Gospel Worship",
+              "by": "Dr. Matthew McMahon",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=71206124659"
+            },
+            {
+              "title": "Puritans and Pastoral Ministry",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "40 min",
+              "minutes": 40,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/insfck-copyright.mp3"
+            },
+            {
+              "title": "Puritan Sermons and Spiritual Formation",
+              "by": "Dr. Derek Thomas",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "https://www.wordmp3.com/details.aspx?id=15434"
+            },
+            {
+              "title": "John Owen's Pastoral Theology 1-8",
+              "by": "Dr. Derek Thomas",
+              "extent": "11 h",
+              "minutes": 660,
+              "pages": null,
+              "note": null,
+              "url": "http://tonyreinke.com/2007/06/29/john-owen-derek-thomas/"
+            },
+            {
+              "title": "Owen's View of the Christian Life",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "1 h 17 min",
+              "minutes": 77,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sg-audiotreasures.org/sinclair/05sf_owen.mp3"
+            },
+            {
+              "title": "Puritans and the Christian Sabbath",
+              "by": "Dr. Joseph Pipa",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=5410173529"
+            }
+          ],
+          "total": "33 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Reformed Pastor",
+              "by": "Richard Baxter",
+              "extent": "378 pp.",
+              "minutes": null,
+              "pages": 378,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/The%20Reformed%20Pastor%20(4th%20ed.).pdf"
+            },
+            {
+              "title": "The Art of Prophesying",
+              "by": "William Perkins",
+              "extent": "61 pp.",
+              "minutes": null,
+              "pages": 61,
+              "note": null,
+              "url": "https://www.monergism.com/thethreshold/sdg/perkins/Perkins%20-%20The%20Art%20of%20Prophesyin%20-%20William%20Perkins.pdf"
+            },
+            {
+              "title": "Gospel Worship",
+              "by": "Jeremiah Burroughs",
+              "extent": "248 pp.",
+              "minutes": null,
+              "pages": 248,
+              "note": null,
+              "url": "http://www.wtsbooks.com/common/pdf_links/9781601783301.pdf",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.1).pdf"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.2).pdf"
+                },
+                {
+                  "label": "Vol. 3,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.3).pdf"
+                },
+                {
+                  "label": "Vol. 4,",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.4).pdf"
+                },
+                {
+                  "label": "Vol. 5",
+                  "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Baxter,%20Richard/Body%20of%20Divinity%20(vol.5).pdf"
+                }
+              ]
+            },
+            {
+              "title": "A Body of Practical Divinity Vols. 1, 2, 3, 4, 5 (A Christian Directory)",
+              "by": "Richard Baxter",
+              "extent": "2978 pp.",
+              "minutes": null,
+              "pages": 2978,
+              "note": null
+            }
+          ],
+          "total": "3665 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper delineating the key Puritan concepts pertaining to their view of Pastoral Ministry.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PR801",
+      "title": "Puritan Classics",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Why Read the Puritans Today?",
+              "by": "Don Kistler",
+              "extent": "37 min",
+              "minutes": 37,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=42614234754"
+            },
+            {
+              "title": "John Bunyan and the Pilgrim's Progress",
+              "by": "Jeremy Walker",
+              "extent": "47 min",
+              "minutes": 47,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1215082950"
+            },
+            {
+              "title": "Pilgrim's Progress Part 1 Lectures 1-15",
+              "by": "Dr. Derek Thomas",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=fpccolumbia&keyword=Pilgrim%27s+Progress&keyworddesc=Pilgrim%27s+Progress"
+            },
+            {
+              "title": "Pilgrim's Progress Part 2 Lectures 1-9",
+              "by": "Dr. Derek Thomas",
+              "extent": "6 h 21 min",
+              "minutes": 381,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=fpccolumbia&keyword=Pilgrim%27s+Progress+2&keyworddesc=Pilgrim%27s+Progress+2"
+            },
+            {
+              "title": "Pilgrim's Progress 1-3",
+              "by": "Dr. Derek Thomas",
+              "extent": "2 h 31 min",
+              "minutes": 151,
+              "pages": null,
+              "note": null,
+              "url": "http://www.reformationpittsburgh.org/Lectures.htm"
+            },
+            {
+              "title": "On the Mortification of Sin in Believers 1 and 2",
+              "by": "Dr. Andrew Davis",
+              "extent": "2 h 7 min",
+              "minutes": 127,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=fbcdurham&keyword=Puritan+Classics&keyworddesc=Puritan+Classics"
+            },
+            {
+              "title": "English Puritan Theology: John Owen on the Christian Life",
+              "by": "Dr. J.I. Packer",
+              "extent": "59 min",
+              "minutes": 59,
+              "pages": null,
+              "note": "unit not printed in guide; read as minutes",
+              "url": "http://media2.wts.edu/media/audio/jp208-copyright.mp3"
+            },
+            {
+              "title": "Rare Jewel of Christian Contentment Parts 1 and 2",
+              "by": "Dr. Andrew Davis",
+              "extent": "2 h 2 min",
+              "minutes": 122,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=fbcdurham&keyword=Puritan+Classics&keyworddesc=Puritan+Classics"
+            },
+            {
+              "title": "Heaven on Earth Parts 1 and 2",
+              "by": "Dr. Andrew Davis",
+              "extent": "2 h 9 min",
+              "minutes": 129,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=fbcdurham&keyword=Puritan+Classics&keyworddesc=Puritan+Classics"
+            },
+            {
+              "title": "A Description of Christ: Richard Sibbes",
+              "by": "Ron Frost",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "https://www.buzzsprout.com/33348/216369-a-description-of-christ-delighted-by-god-2011.mp3?client_source=small_player&download=true"
+            },
+            {
+              "title": "Comfort and Assurance: Richard Sibbes",
+              "by": "Mark Dever",
+              "extent": "1 h 22 min",
+              "minutes": 82,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/aut_lecture1_1993.mp3"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide book summaries:",
+          "items": [
+            {
+              "title": "Pilgrim's Progress (Parts 1 and 2)",
+              "by": "John Bunyan",
+              "extent": "174 pp.",
+              "minutes": null,
+              "pages": 174,
+              "note": null,
+              "url": "http://whitehorsemedia.com/docs/THE_PILGRIMS_PROGRESS.pdf"
+            },
+            {
+              "title": "The Christian's Great Interest",
+              "by": "Guthrie",
+              "extent": "147 pp.",
+              "minutes": null,
+              "pages": 147,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Guthrie,%20William/The%20Christian's%20Great%20Interest.pdf"
+            },
+            {
+              "title": "A Description of Christ",
+              "by": "Richard Sibbes",
+              "extent": "20 pp.",
+              "minutes": null,
+              "pages": 20,
+              "note": null,
+              "url": "http://www.tnars.net/course-materials.html"
+            },
+            {
+              "title": "The Bruised Reed",
+              "by": "Richard Sibbes",
+              "extent": "207 pp.",
+              "minutes": null,
+              "pages": 207,
+              "note": null,
+              "url": "https://archive.org/details/bruisedreedands00sibbgoog"
+            },
+            {
+              "title": "On Keeping the Heart",
+              "by": "John Flavel",
+              "extent": "120 pp.",
+              "minutes": null,
+              "pages": 120,
+              "note": null,
+              "url": "http://www.archive.org/download/treatiseonkeepin1840flav/treatiseonkeepin1840flav_bw.pdf"
+            },
+            {
+              "title": "Precious Remedies Against Satan's Devices",
+              "by": "Thomas Brooks",
+              "extent": "278 pp.",
+              "minutes": null,
+              "pages": 278,
+              "note": null,
+              "url": "https://books.google.com/books?id=2pYVAAAAYAAJ&printsec=frontcover&dq=precious+remedies+against&hl=en&sa=X&ved=0CCcQ6AEwAGoVChMInJCq6MKdxwIVyns-Ch00vADF#v=onepage&q=precious%20remedies%20against&f=false"
+            },
+            {
+              "title": "Heaven on Earth",
+              "by": "Thomas Brooks",
+              "extent": "320 pp.",
+              "minutes": null,
+              "pages": 320,
+              "note": null,
+              "url": "http://www.gracegems.org/Brooks/heaven_on_earth.htm"
+            },
+            {
+              "title": "The Rare Jewel of Christian Contentment",
+              "by": "Jeremiah Burroughs",
+              "extent": "201 pp.",
+              "minutes": null,
+              "pages": 201,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Burroughs,%20Jeremiah/The%20Rare%20Jewel%20of%20Christian%20Contentment.pdf"
+            },
+            {
+              "title": "The Crook in the Lot",
+              "by": "Boston",
+              "extent": "252 pp.",
+              "minutes": null,
+              "pages": 252,
+              "note": null,
+              "url": "https://books.google.com/books?id=lrs-AAAAYAAJ&printsec=frontcover&dq=the+crook+in+the+lot&hl=en&sa=X&ved=0CCcQ6AEwAGoVChMIv5HaisOdxwIVw1Y-Ch1qfwQl#v=onepage&q=the%20crook%20in%20the%20lot&f=false"
+            },
+            {
+              "title": "Indwelling Sin",
+              "by": "John Owen",
+              "extent": "276 pp.",
+              "minutes": null,
+              "pages": 276,
+              "note": null,
+              "url": "https://archive.org/details/naturepowerdecei00owenuoft/page/n5/mode/2up"
+            },
+            {
+              "title": "Temptation and the Mortification of Sin",
+              "by": "John Owen",
+              "extent": "306 pp.",
+              "minutes": null,
+              "pages": 306,
+              "note": null,
+              "url": "https://archive.org/details/ontemptationmort00owenuoft/page/n7/mode/2up"
+            },
+            {
+              "title": "The Return of Prayers",
+              "by": "Thomas Goodwin",
+              "extent": "160 pp.",
+              "minutes": null,
+              "pages": 160,
+              "note": null,
+              "url": "https://archive.org/details/returnofprayer00good"
+            }
+          ],
+          "total": "TOTAL LECTURES: 28.5 hours; TOTAL PAGES: 2461"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper reflecting the key truths which the Puritans stressed in their ministry to the saints.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PR802",
+      "title": "Puritan Readings",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "John Owen on the Holy Spirit",
+              "by": "Carl Trueman",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=109051664"
+            },
+            {
+              "title": "John Owen on the Spirit",
+              "by": "Ryan McGraw",
+              "extent": "63 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1111111424200"
+            },
+            {
+              "title": "John Owen on the Holy Spirit 1-2",
+              "by": "Ryan McGraw",
+              "extent": "1 h 49 min",
+              "minutes": 109,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=grace5550&keyword=John+Owen+on+the+Holy+Spirit&keyworddesc=John+Owen+on+the+Holy+Spirit"
+            },
+            {
+              "title": "John Owen on the Holy Spirit 1-2",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "2 h 29 min",
+              "minutes": 149,
+              "pages": null,
+              "note": "printed with the marginal text \"sg aud\"",
+              "url": "http://www.sg-audiotreasures.org/sf_index.htm"
+            },
+            {
+              "title": "Introducing John Owen 1-3",
+              "by": "Mike Reeves",
+              "extent": "2 h 16 min",
+              "minutes": 136,
+              "pages": null,
+              "note": null,
+              "url": "http://www.theologynetwork.org/historical-theology/getting-stuck-in/introducing----john-owen.htm"
+            },
+            {
+              "title": "The Christian and Spiritual Warfare: Gurnall",
+              "by": "Maurice Roberts",
+              "extent": "1 h 24 min",
+              "minutes": 84,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/aut_lecture3_1993.mp3"
+            },
+            {
+              "title": "Heaven Taken By Storm: Watson",
+              "by": "Dr. Matthew McMahon",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=71306124145"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide book summaries:",
+          "items": [
+            {
+              "title": "Pneumatologia (A Discourse Concerning the Holy Spirit)",
+              "by": "John Owen",
+              "extent": "817 pp.",
+              "minutes": null,
+              "pages": 817,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Owen,%20John/Pneumatologia.pdf"
+            },
+            {
+              "title": "The Christian in Complete Armor",
+              "by": "William Gurnall",
+              "extent": "848 pp.",
+              "minutes": null,
+              "pages": 848,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Gurnall,%20William/The%20Christian%20in%20Complete%20Armour.pdf"
+            },
+            {
+              "title": "Marrow of Modern Divinity",
+              "by": "Edward Fisher",
+              "extent": "388 pp.",
+              "minutes": null,
+              "pages": 388,
+              "note": null,
+              "url": "https://archive.org/details/marrowofmoderndi00fish"
+            },
+            {
+              "title": "The Almost Christian Discovered",
+              "by": "Matthew Meade",
+              "extent": "252 pp.",
+              "minutes": null,
+              "pages": 252,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Mead,%20Matthew/The%20Almost%20Christian%20Discovered.pdf"
+            },
+            {
+              "title": "The Religious Tradesman",
+              "by": "Richard Steele",
+              "extent": "335 pp.",
+              "minutes": null,
+              "pages": 335,
+              "note": null,
+              "url": "http://books.google.com/books?id=J5sCAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+            },
+            {
+              "title": "Heaven Taken by Storm (The Christian Soldier)",
+              "by": "Thomas Watson",
+              "extent": "225 pp.",
+              "minutes": null,
+              "pages": 225,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Watson,%20Thomas/The%20Christian%20Soldier.pdf"
+            },
+            {
+              "title": "A Treatise on Divine Meditation (Solitude Improved)",
+              "by": "Nathaniel Ranew",
+              "extent": "246 pp.",
+              "minutes": null,
+              "pages": 246,
+              "note": null,
+              "url": "https://archive.org/details/solitudeimprove00ranegoog"
+            },
+            {
+              "title": "The True Bounds of Christian Freedom",
+              "by": "Samuel Bolton",
+              "extent": "460 pp.",
+              "minutes": null,
+              "pages": 460,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Bolton,%20Samuel/The%20True%20Bounds%20of%20Christian%20Freedom.pdf"
+            }
+          ],
+          "total": "TOTAL LECTURES: 10.5 hours; TOTAL PAGES: 3571"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a topic of interest presented in the readings above.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PH801",
+      "title": "Puritan History",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The English Puritans (Lectures 1-5)",
+              "by": "Dr J.I. Packer",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/the-english-puritans/id378878741?mt=10"
+            },
+            {
+              "title": "The Puritans",
+              "by": "Peter Lewis",
+              "extent": "1 h 20 min",
+              "minutes": 80,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1982%20The%20Puritans%20-%20Peter%20Lewis.mp3"
+            },
+            {
+              "title": "The Puritans",
+              "by": "Dr. David Calhoun",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/wp-content/uploads/sites/5/2014/11/Course-ReformationandModernChurchHistory-DrDavidCalhoun-Lecture15-ThePuritans.mp3"
+            },
+            {
+              "title": "The English Puritans",
+              "by": "Bill Potter",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=63151834359"
+            },
+            {
+              "title": "Puritanism",
+              "by": "Dr. Carl Trueman",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/ch311-13-30-copyright.mp3"
+            },
+            {
+              "title": "Puritanism in England and New England",
+              "by": "Dr. John Gerstner",
+              "extent": "28 min",
+              "minutes": 28,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/handout-church-history/puritanism-in-england-and-new-england/"
+            },
+            {
+              "title": "History and Theology of the Puritans (Lectures 1-21)",
+              "by": "Dr. Douglas Kelly",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-theology-puritans/id580271046"
+            },
+            {
+              "title": "The Context of English Puritanism",
+              "by": "Don Fortson",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "Puritan Worship and the Political Situation",
+              "by": "Don Fortson",
+              "extent": "38 min",
+              "minutes": 38,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "The Reformation and the Puritans",
+              "by": "Bill Potter",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=319131034352"
+            },
+            {
+              "title": "Archbishop Cranmer",
+              "by": "Peter Adam",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://resources.thegospelcoalition.org/library/archbishop-cranmer"
+            },
+            {
+              "title": "Thomas Cranmer",
+              "by": "Gordon Murray",
+              "extent": "1 h 14 min",
+              "minutes": 74,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/aut_lecture04_2008.mp3"
+            },
+            {
+              "title": "Thomas Cranmer and the Anglican Enigma",
+              "by": "Gordon Murray",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/Various%20History/Westminster%20Con/2006/WC06B-Thomas-Cranmer-and-the-Anglican-Enigma.mp3"
+            },
+            {
+              "title": "Field and Hooker",
+              "by": "David Holloway",
+              "extent": "1 h 25 min",
+              "minutes": 85,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/field-and-hooker/"
+            },
+            {
+              "title": "John Knox and the Scottish Puritans",
+              "by": "Bill Potter",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=319131037337"
+            },
+            {
+              "title": "The Covenanters: No King but Jesus",
+              "by": "Bill Potter",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=513131552396"
+            },
+            {
+              "title": "Oliver Cromwell and His Russet-Coated Heroes",
+              "by": "Bill Potter",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=319131036386"
+            },
+            {
+              "title": "Oliver Cromwell",
+              "by": "Clive Goulden",
+              "extent": "1 h 23 min",
+              "minutes": 83,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1993%20Oliver%20Cromwell%20-%20Clive%20Goulden.mp3"
+            },
+            {
+              "title": "Oliver Cromwell",
+              "by": "Peter Jeffrey",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1977%20Oliver%20Cromwell%20-%20Peter%20Jeffery.mp3"
+            },
+            {
+              "title": "Oliver Cromwell",
+              "by": "Phil Arthur",
+              "extent": "1 h 45 min",
+              "minutes": 105,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/wp-content/downloads/aut_lecture01_2008.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://media1.wts.edu/media/audio/wb320-copyright.mp3"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://media1.wts.edu/media/audio/wb321-copyright.mp3"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "http://media1.wts.edu/media/audio/wb322-copyright.mp3"
+                }
+              ]
+            },
+            {
+              "title": "The Westminster Assembly 1, 2, and 3",
+              "by": "Dr. William Barker",
+              "extent": "1 h 36 min",
+              "minutes": 96,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "The Westminster Assembly",
+              "by": "Don Fortson",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "https://www.covenantseminary.edu/resources/resource/courses/reformation-modern-church-history/"
+            },
+            {
+              "title": "The Westminster Assembly",
+              "by": "Dr. David Calhoun",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?sid=83004123250"
+            },
+            {
+              "title": "The Westminster Assembly",
+              "by": "Dr. Curt Daniel",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "English Baptist Separatists",
+              "by": "Don Fortson",
+              "extent": "1 h 5 min",
+              "minutes": 65,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "The Puritan Revival in England in the 17th Century",
+              "by": "Dr. Douglas Kelly",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1120465323"
+            },
+            {
+              "title": "Marrow Controversy 1-3",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "3 h 30 min",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&SourceID=gpts&keyworddesc=The+Marrow+Controversy&keyword=The+Marrow+Controversy"
+            },
+            {
+              "title": "Assurance Controversy in New England in 1636",
+              "by": "Ian Murray",
+              "extent": "55 min",
+              "minutes": 55,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonindex.net/modules/mydownloads/visit.php?lid=3579"
+            },
+            {
+              "title": "Thomas Hooker and the Doctrine of Conversion",
+              "by": "Ian Murray",
+              "extent": "63 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12202115116"
+            },
+            {
+              "title": "The Great Ejection of 1662",
+              "by": "Gary Brady",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "http://www.bulkingtoncongregational.org/sermons/12_010203/BCC%20MON%202012-02-13%20GARY%20BRADY%20THE%20GREAT%20EJECTION%20OF%201662.mp3"
+            },
+            {
+              "title": "The Great Ejection of 1662 1-3",
+              "by": "Dr. Nick Needham",
+              "extent": "1 h 45 min",
+              "minutes": 105,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=crichbaptist&keyword=Church+History+%26+Biography&keyworddesc=Church+History+%26+Biography"
+            },
+            {
+              "title": "Axminster after 1662",
+              "by": "Stephen Rees",
+              "extent": "1 h 13 min",
+              "minutes": 73,
+              "pages": null,
+              "note": null,
+              "url": "http://www.bulkingtoncongregational.org/sermons/12_010203/BCC%20MON%202012-03-26%20STEPHEN%20REES%20AXMINSTER%20AFTER%201662.mp3"
+            },
+            {
+              "title": "The Puritan Woman",
+              "by": "John Marshall",
+              "extent": "1 h 17 min",
+              "minutes": 77,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1997%20The%20Puritan%20Woman%20-%20John%20Marshall.mp3"
+            },
+            {
+              "title": "The Pilgrim Fathers",
+              "by": "Douglas Jones",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1986%20The%20Pilgrim%20Fathers%20-%20Douglas%20Jones.mp3"
+            },
+            {
+              "title": "Puritan Spirituality in Context",
+              "by": "Dr. Carl Trueman",
+              "extent": "41 min",
+              "minutes": 41,
+              "pages": null,
+              "note": null,
+              "url": "http://mp3.sa-media.com/media/650619641/650619641.mp3"
+            },
+            {
+              "title": "James I and his Bible",
+              "by": "Dr. Carl Trueman",
+              "extent": "36 min",
+              "minutes": 36,
+              "pages": null,
+              "note": null,
+              "url": "http://media2.wts.edu/media/audio/trueman10-18-11-copyright.mp3"
+            },
+            {
+              "title": "John Owen and the Practice of Theology",
+              "by": "Dr. Carl Trueman",
+              "extent": "49 min",
+              "minutes": 49,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1080502650"
+            },
+            {
+              "title": "Puritan Reading Room",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "53 min",
+              "minutes": 53,
+              "pages": null,
+              "note": null,
+              "url": "http://feedingonchrist.com/wp-content/uploads/2009/03/ferguson_puritan_reading_room.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "http://media1.wts.edu/media/audio/wb322-copyright.mp3"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "http://media1.wts.edu/media/audio/wb323-copyright.mp3"
+                },
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://books.google.com/books/pdf/The_History_of_the_Puritans__Or__Protest.pdf?id=6CA3AAAAMAAJ&output=pdf&sig=cjULxTnIBEFJiP2swy5nTaUycBM"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://books.google.com/books/pdf/The_History_of_the_Puritans__Or_Protesta.pdf?id=H20QAAAAIAAJ&output=pdf&sig=jkaSn9CklKlIdwyMIUpzABNgMzQ"
+                },
+                {
+                  "label": "Vol. 3,",
+                  "url": "http://books.google.com/books/pdf/The_History_of_the_Puritans__Or_Protesta.pdf?id=nWoQAAAAIAAJ&output=pdf&sig=5JDeNx15XXceAG9qYXcPyfKOOCw"
+                }
+              ]
+            },
+            {
+              "title": "American Puritans 1 and 2",
+              "by": "Dr. William Barker",
+              "extent": "107 min",
+              "minutes": 107,
+              "pages": null,
+              "note": null
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "History of the Puritans, Vols. 1, 2, 3, 4, 5",
+              "by": "Daniel Neal",
+              "extent": "2595 pp.",
+              "minutes": null,
+              "pages": 2595,
+              "note": null
+            }
+          ],
+          "total": "TOTAL LECTURES: 58.5 hours; TOTAL PAGES: 2595"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Create a Puritan Era timeline featuring a minimum of 50 key dates.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on an historical theme/event covered in the lectures or readings above.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PH802",
+      "title": "Puritan Biographies",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Lives of the Puritans, Vols. 1, 2, 3",
+              "by": "Benjamin Brook",
+              "extent": "1597 pp.",
+              "minutes": null,
+              "pages": 1597,
+              "note": null
+            },
+            {
+              "title": "John Owen Re-Presbyterianized",
+              "by": "Dr. Francis Nigel Lee",
+              "extent": "36 pp.",
+              "minutes": null,
+              "pages": 36,
+              "note": null,
+              "url": "file:///C:/Documents%20and%20Settings/DSM/Desktop/TNARS/DD%20Curriculum/Puritan%20Biographies/112508135004.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Samuel Rutherford",
+              "by": "Phil Arthur",
+              "extent": "59 min",
+              "minutes": 59,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2003%20Samuel%20Rutherford%20-%20Phil%20Arthur.mp3"
+            },
+            {
+              "title": "Samuel Rutherford",
+              "by": "Robert McCollum",
+              "extent": "1 h 10 min",
+              "minutes": 70,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/samuel-rutherford/"
+            },
+            {
+              "title": "John Flavel",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "60 min",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/pcf036-copyright.mp3"
+            },
+            {
+              "title": "Richard Sibbes",
+              "by": "Chris Richards",
+              "extent": "46 min",
+              "minutes": 46,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2003%20Richard%20Sibbes%20-%20Chris%20Richards.mp3"
+            },
+            {
+              "title": "The Reformation: Later Reformation I (Lecture 32)",
+              "by": "Dr. Carl Trueman",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/itunes-u/the-reformation/id924126015?mt=10"
+            },
+            {
+              "title": "Richard Baxter",
+              "by": "Ian Murray",
+              "extent": "1 h 19 min",
+              "minutes": 79,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2003%20Richard%20Baxter%20-%20Iain%20Murray.mp3"
+            },
+            {
+              "title": "Richard Baxter and John Owen",
+              "by": "Don Fortson",
+              "extent": "36 min",
+              "minutes": 36,
+              "pages": null,
+              "note": null,
+              "url": "https://itunes.apple.com/us/course/history-christianity-ii-dr./id516276353"
+            },
+            {
+              "title": "Life of John Owen 1 and 2",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "1 h 42 min",
+              "minutes": 102,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sg-audiotreasures.org/sf_index.htm"
+            },
+            {
+              "title": "John Owen",
+              "by": "Robert Oliver",
+              "extent": "59 min",
+              "minutes": 59,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/2003%20John%20Owen%20-%20Robert%20Oliver.mp3",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=528074531"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=64073519"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=6180752342"
+                }
+              ]
+            },
+            {
+              "title": "Life and Character of John Owen 1, 2, and 3",
+              "by": "Jeremy Walker",
+              "extent": "2 h 28 min",
+              "minutes": 148,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "John Owen: The Man and His Time",
+              "by": "Dr. Carl Trueman",
+              "extent": "41 min",
+              "minutes": 41,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=westminsterrpc&keyword=John+Owen&keyworddesc=John+Owen"
+            },
+            {
+              "title": "John Bunyan",
+              "by": "Andrew Davies",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1988%20John%20Bunyan%20-%20Andrew%20Davies.mp3"
+            },
+            {
+              "title": "John Bunyan",
+              "by": "Dr. Matthew McMahon",
+              "extent": "42 min",
+              "minutes": 42,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=71406123641"
+            },
+            {
+              "title": "John Bunyan",
+              "by": "Geoff Thomas",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=2120813302"
+            },
+            {
+              "title": "Philip Doddridge",
+              "by": "Alan Clifford",
+              "extent": "1 h 26 min",
+              "minutes": 86,
+              "pages": null,
+              "note": null,
+              "url": "http://www.churchaudio.org.uk/roche/REFC%20History/1976%20Philip%20Doddridge%20-%20Alan%20Clifford.mp3"
+            },
+            {
+              "title": "Thomas Boston: Preacher of Christ",
+              "by": "William VanDoodewaard",
+              "extent": "63 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=916121433199"
+            },
+            {
+              "title": "William Perkins",
+              "by": "Dr. Joseph Pipa",
+              "extent": "66 min",
+              "minutes": 66,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=5410172200"
+            },
+            {
+              "title": "William Perkins",
+              "by": "Dr. Matthew McMahon",
+              "extent": "52 min",
+              "minutes": 52,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=7120611505"
+            },
+            {
+              "title": "Thomas Goodwin",
+              "by": "Dr. Matthew McMahon",
+              "extent": "48 min",
+              "minutes": 48,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=71206132549"
+            },
+            {
+              "title": "Thomas Manton",
+              "by": "Dr. Matthew McMahon",
+              "extent": "31 min",
+              "minutes": 31,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=7130613220"
+            }
+          ],
+          "total": "TOTAL LECTURES: 21 hours; TOTAL PAGES: 1633"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper serving as a brief biography of one of the Puritans treated in the above lectures or readings.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PH803",
+      "title": "The Puritans and the Westminster Standards",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": null,
+          "type": "readings",
+          "instruction": "Read:",
+          "items": [
+            {
+              "title": "The Westminster Confession of Faith",
+              "by": null,
+              "extent": "30 pp.",
+              "minutes": null,
+              "pages": 30,
+              "note": null,
+              "url": "http://www.pcaac.org/wp-content/uploads/2012/11/WCFScriptureProofs.pdf"
+            },
+            {
+              "title": "Larger Catechism",
+              "by": null,
+              "extent": "31 pp.",
+              "minutes": null,
+              "pages": 31,
+              "note": null,
+              "url": "http://opc.org/lc.html"
+            },
+            {
+              "title": "Shorter Catechism",
+              "by": null,
+              "extent": "11 pp.",
+              "minutes": null,
+              "pages": 11,
+              "note": null,
+              "url": "http://opc.org/sc.html"
+            },
+            {
+              "title": "Directory for Public Worship",
+              "by": null,
+              "extent": "29 pp.",
+              "minutes": null,
+              "pages": 29,
+              "note": null,
+              "url": "http://www.reformed.org/documents/wcf_standards/index.html"
+            },
+            {
+              "title": "Directory for Family Worship",
+              "by": null,
+              "extent": "4 pp.",
+              "minutes": null,
+              "pages": 4,
+              "note": null,
+              "url": "http://www.reformed.org/documents/wcf_standards/index.html"
+            },
+            {
+              "title": "American Revision of the Standards",
+              "by": "Lee Irons",
+              "extent": "15 pp.",
+              "minutes": null,
+              "pages": 15,
+              "note": null,
+              "url": "http://www.upper-register.com/papers/1788_revision.pdf"
+            },
+            {
+              "title": "The Influence of James Ussher on Church History and the Westminster Confession of Faith",
+              "by": "Francis Nigel Lee",
+              "extent": "5 pp.",
+              "minutes": null,
+              "pages": 5,
+              "note": null,
+              "url": "http://www.dr-fnlee.org/the-influence-of-puritan-archbishop-rev-dr-james-ussher-on-church-history-and-the-westminster-confession-of-faith/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and taken notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Westminster Assembly",
+              "by": "Dr. C. Gregg Singer",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=12160371617"
+            },
+            {
+              "title": "The Westminster Assembly",
+              "by": "Dr. John R. Dewitt",
+              "extent": "54 min",
+              "minutes": 54,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=219048498"
+            },
+            {
+              "title": "The Westminster Assembly",
+              "by": "Dr. Alan Cairns",
+              "extent": "62 min",
+              "minutes": 62,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=5488"
+            },
+            {
+              "title": "Westminster Standards: Historical Context",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "64 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/sf201_copyright.mp3"
+            },
+            {
+              "title": "Westminster Standards: Summary of Constitution",
+              "by": "Dr. Sinclair Ferguson",
+              "extent": "64 min",
+              "minutes": 64,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/sf202_copyright.mp3"
+            },
+            {
+              "title": "A Day at the Assembly",
+              "by": "Chad Van Dixhoorn",
+              "extent": "58 min",
+              "minutes": 58,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/wa046-copyright.mp3"
+            },
+            {
+              "title": "The Westminster Assembly and Scripture",
+              "by": "Dr. Chad Van Dixhoorn",
+              "extent": "60 min",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=720111132335",
+              "urls": [
+                {
+                  "label": "Vol. 1,",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1030101046320"
+                },
+                {
+                  "label": "Vol. 2,",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=103010128590"
+                },
+                {
+                  "label": "Vol. 3",
+                  "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=1030101436353"
+                }
+              ]
+            },
+            {
+              "title": "Westminster Assembly and the Second Reformation 1, 2, 3",
+              "by": "Chad Van Dixhoorn",
+              "extent": "2 h 50 min",
+              "minutes": 170,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Men of the Westminster Assembly 1-4,6,7",
+              "by": "Ian Goligher",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?speakerWithinSource=&subsetCat=&subsetItem=&mediatype=&includekeywords=&exactverse=&keyword=Rev._Ian_Goligher&keyworddesc=Rev.+Ian+Goligher&currsection=sermonsspeaker&AudioOnly=false&SpeakerOnly=true&keywordwithin=asse"
+            },
+            {
+              "title": "Puritan Preaching and the Westminster Confession",
+              "by": "Bill Potter",
+              "extent": "45 min",
+              "minutes": 45,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=319131035475"
+            },
+            {
+              "title": "Directory for Public Worship: Background",
+              "by": "Rowland Ward",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/wa042-copyright.mp3"
+            },
+            {
+              "title": "Directory for Public Worship: Elements and Practice",
+              "by": "Rowland Ward",
+              "extent": "56 min",
+              "minutes": 56,
+              "pages": null,
+              "note": null,
+              "url": "http://media1.wts.edu/media/audio/wa048-copyright.mp3"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Westminster Assembly and Its Work",
+              "by": "Benjamin Warfield",
+              "extent": "76 pp.",
+              "minutes": null,
+              "pages": 76,
+              "note": null,
+              "url": "https://archive.org/details/westmi00warf"
+            },
+            {
+              "title": "A History of the Westminster Assembly of Divines",
+              "by": "Archibald Alexander",
+              "extent": "430 pp.",
+              "minutes": null,
+              "pages": 430,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1Rg8W-Tl592pUmlC4BJGQjDapm-Ah1gpE/view?usp=sharing"
+            },
+            {
+              "title": "History of the Westminster Assembly of Divines",
+              "by": "Hetherington",
+              "extent": "290 pp.",
+              "minutes": null,
+              "pages": 290,
+              "note": null,
+              "url": "https://archive.org/details/historyofthewest00hethuoft"
+            },
+            {
+              "title": "Minutes of the Sessions of the Westminster Assembly",
+              "by": "Alexander Mitchell",
+              "extent": "646 pp.",
+              "minutes": null,
+              "pages": 646,
+              "note": null,
+              "url": "https://archive.org/details/minutesofsession00west"
+            },
+            {
+              "title": "The Westminster Assembly: Its History and Standards",
+              "by": "Alexander Mitchell",
+              "extent": "546 pp.",
+              "minutes": null,
+              "pages": 546,
+              "note": null,
+              "url": "https://archive.org/details/westminsterassem1884mitc"
+            }
+          ],
+          "total": "TOTAL LECTURES: 15.5 hours; TOTAL PAGES: 1988"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 40 page paper on a topic of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PS890",
+      "title": "Doctoral Dissertation",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "Dissertation topics must first be approved by the seminary administration. The dissertation topic must be directly related to Puritan studies. Students must use the Request for Approval of Dissertation Topic Form when submitting their topic for approval. The completed form should be emailed to info@logcollege.net. Students should not begin dissertation work until the seminary administration has first approved the topic.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "assignment",
+          "instruction": "FORMATTING: Current Turabian",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 1,
+          "type": "assignment",
+          "instruction": "Your dissertation should be no less than 150 pages, 1 inch margins (1.5 inch left margin), twelve-point type, Times New Roman font, double spaced.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "assignment",
+          "instruction": "Your dissertation should be free of grammatical and syntax errors and should represent the caliber of work you have completed during your Doctoral Program.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Your dissertation should be consecutively numbered, with a table of contents and appendices if necessary. Your dissertation should be divided into relevant chapters with sub-section headings within each chapter. You will need to also include a list of tables, figures and illustrations that are included.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Your dissertation must include a submission page and full bibliography.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Your dissertation must be submitted to LCS administration by your mentor (after grading) for final review and approval before you will be considered for graduation.",
+          "items": [],
+          "total": null
+        }
+      ]
+    }
+  ]
+}

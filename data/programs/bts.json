@@ -1,0 +1,1677 @@
+{
+  "slug": "bts",
+  "name": "Bachelor of Theological Studies",
+  "credit_hours": 60,
+  "admission": "Associate degree or equivalent",
+  "requirements": [
+    "Complete the Comprehensive Final Exam",
+    "All written course assignments should follow current MLA formatting.",
+    "All numbered assignments (lecture outlines/notes, summaries, chapter summaries, papers, etc.) must be submitted to your mentor for grading.",
+    "Please report any broken links to info@logcollege.net",
+    "Complete the Comprehensive Final Exam. Contact the seminary to arrange a time for your exam."
+  ],
+  "course_list": [
+    {
+      "code": "TH301",
+      "title": "Christian Doctrine I",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH302",
+      "title": "Christian Doctrine II",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH303",
+      "title": "Covenant Theology",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH304",
+      "title": "Introduction to Reformed Theology",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH410",
+      "title": "History and Theology of Calvinism",
+      "credits": 6,
+      "group": null
+    },
+    {
+      "code": "AP401",
+      "title": "Introduction to Apologetics",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "WV401",
+      "title": "Worldview Studies",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PH401",
+      "title": "History of Philosophy and Christian Thought",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "PT301",
+      "title": "Evangelism",
+      "credits": 2,
+      "group": null
+    },
+    {
+      "code": "BS302",
+      "title": "Principles of Biblical Interpretation",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS303",
+      "title": "Old Testament Survey",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS304",
+      "title": "New Testament Survey",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "CH301",
+      "title": "Survey of Church History",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "CH302",
+      "title": "Reformation Church History",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "TH415",
+      "title": "Christian Ethics",
+      "credits": 4,
+      "group": null
+    },
+    {
+      "code": "PT401",
+      "title": "Principles of Christian Leadership",
+      "credits": 2,
+      "group": null
+    },
+    {
+      "code": "PT402",
+      "title": "Principles of Christian Ministry",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS410",
+      "title": "Basics of Biblical Greek",
+      "credits": 3,
+      "group": null
+    },
+    {
+      "code": "BS411",
+      "title": "Basics of Biblical Hebrew",
+      "credits": 3,
+      "group": null
+    }
+  ],
+  "courses": [
+    {
+      "code": "TH301",
+      "title": "Christian Doctrine I",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Handout Theology 1-18",
+              "by": "Dr. John Gerstner",
+              "extent": "8.5 h",
+              "minutes": 510,
+              "pages": null,
+              "note": null,
+              "url": "https://www.ligonier.org/learn/series/handout-theology"
+            },
+            {
+              "title": "Theology Proper 1-22",
+              "by": "Dr. Joel Beeke",
+              "extent": "30 h",
+              "minutes": 1800,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=prts&keyword=Theology+Proper&keyworddesc=Theology+Proper"
+            }
+          ],
+          "total": "38.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Outlines of Theology Ch. 1-17",
+              "by": "A.A. Hodge",
+              "extent": "314 pp.",
+              "minutes": null,
+              "pages": 314,
+              "note": null,
+              "url": "https://archive.org/details/outlinesoftheolo1878hodg"
+            },
+            {
+              "title": "A System of Theology Ch. 1-13",
+              "by": "John McDowell",
+              "extent": "144 pp.",
+              "minutes": null,
+              "pages": 144,
+              "note": null,
+              "url": "https://archive.org/details/bibleclassmanual01mcdo"
+            }
+          ],
+          "total": "458 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a topic of interest covered in the course material above.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH302",
+      "title": "Christian Doctrine II",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Handout Theology 19-100",
+              "by": "Dr. John Gerstner",
+              "extent": "37 h",
+              "minutes": 2220,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/foundations-overview-systematic-theology-60-part-mp3-series"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Outlines of Theology Ch. 18-43",
+              "by": "A.A. Hodge",
+              "extent": "335 pp.",
+              "minutes": null,
+              "pages": 335,
+              "note": null,
+              "url": "https://archive.org/details/outlinesoftheolo1878hodg"
+            },
+            {
+              "title": "A System of Theology Ch. 14-43",
+              "by": "John McDowell",
+              "extent": "207 pp.",
+              "minutes": null,
+              "pages": 207,
+              "note": null,
+              "url": "https://archive.org/details/bibleclassmanual01mcdo"
+            }
+          ],
+          "total": "542 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a topic of interest covered in the course material above.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH303",
+      "title": "Covenant Theology",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Overview of Covenant Theology 1-3",
+              "by": "Dr. Matthew McMahon",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=swrb&keyword=Covenant+Theology+Overview&keyworddesc=Covenant+Theology+Overview"
+            },
+            {
+              "title": "Covenant Theology 1-8",
+              "by": "Dr. Richard Phillips",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/open?id=1IKDZjy74ZVnV95Oi3KIpqYOzBJi4Mv9c"
+            },
+            {
+              "title": "Covenant Theology 1-31",
+              "by": "Dr. Richard Gaffin",
+              "extent": "22 h",
+              "minutes": 1320,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1vLUsi_S9wHFwV7Qy629lpRwMPXMjgKw9/view?usp=sharing"
+            },
+            {
+              "title": "Covenant Theology 1-4",
+              "by": "Dr. O. Palmer Robertson",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=Covenant+Theology&keyworddesc=Covenant+Theology"
+            },
+            {
+              "title": "On the Covenants 1-6",
+              "by": "Dr. O. Palmer Robertson",
+              "extent": "3.5 h",
+              "minutes": 210,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/covenant-theology-mp3-series"
+            },
+            {
+              "title": "The Dispensational vs. the Covenantal Approach",
+              "by": "Dr. O. Palmer Robertson",
+              "extent": "42 min",
+              "minutes": 42,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/sermoninfo.asp?SID=2190485913"
+            },
+            {
+              "title": "Christ in the Old Testament",
+              "by": "Mostyn Roberts",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/christ-in-the-old-testament/"
+            }
+          ],
+          "total": "40.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Discourses of Redemption",
+              "by": "Stuart Robinson",
+              "extent": "449 pp.",
+              "minutes": null,
+              "pages": 449,
+              "note": null,
+              "url": "https://archive.org/download/discoursesofrede01robi/discoursesofrede01robi.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper outlining the key elements of covenant theology",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH304",
+      "title": "Introduction to Reformed Theology",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "What is Reformed Theology? 1-12",
+              "by": "Dr. R.C. Sproul",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/what_is_reformed_theology/"
+            },
+            {
+              "title": "Introduction to Reformed Theology (Intro to Pastoral and Theological Studies) 1-24",
+              "by": "Dr. Derek Thomas",
+              "extent": "16 h",
+              "minutes": 960,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1Rb5rs8xdJSWucit2nHRrhvg5nk6HesZZ?usp=sharing"
+            }
+          ],
+          "total": "20 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Reformed Doctrine of Predestination",
+              "by": "Lorraine Boettner",
+              "extent": "319 pp.",
+              "minutes": null,
+              "pages": 319,
+              "note": null,
+              "url": "http://www.ccel.org/ccel/boettner/predest.pdf"
+            },
+            {
+              "title": "The Plan of Salvation",
+              "by": "B.B. Warfield",
+              "extent": "154 pp.",
+              "minutes": null,
+              "pages": 154,
+              "note": null,
+              "url": "https://archive.org/details/planofsalvation00warf"
+            }
+          ],
+          "total": "473 pages"
+        },
+        {
+          "n": null,
+          "type": "readings",
+          "instruction": "Read:",
+          "items": [
+            {
+              "title": "A Brief and Untechnical Statement of the Reformed Faith",
+              "by": "B.B. Warfield",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1fNRCUuy48YGAcu_g-2JEA5UFCxFB6gMI/view?usp=sharing"
+            },
+            {
+              "title": "The Westminster Standards",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "http://www.pcaac.org/resources/wcf/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper explaining the core tenants of Reformed Theology",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH410",
+      "title": "History and Theology of Calvinism",
+      "credits": 6,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "History and Theology of Calvinism 1-75",
+              "by": "Dr. Curt Daniel",
+              "extent": "68 h",
+              "minutes": 4080,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=gpts&keyword=History+and+Theology+of+Calvin&keyworddesc=History+and+Theology+of+Calvin"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Calvinism and Evangelical Arminianism",
+              "by": "John L. Girardeau",
+              "extent": "590 pp.",
+              "minutes": null,
+              "pages": 590,
+              "note": null,
+              "url": "https://archive.org/details/calvinismevangel00gira"
+            },
+            {
+              "title": "The True Scripture Doctrine Concerning Some Important Points of Christian Faith",
+              "by": "Jonathan Dickinson",
+              "extent": "268 pp.",
+              "minutes": null,
+              "pages": 268,
+              "note": null,
+              "url": "https://archive.org/details/truescripturedoc00dickuoft"
+            }
+          ],
+          "total": "858 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest presented in the course materials.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "AP401",
+      "title": "Introduction to Apologetics",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "No Apology for Apologetics",
+              "by": "John Blanchard",
+              "extent": "51 min",
+              "minutes": 51,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/sermoninfo.asp?sermonID=92509234392"
+            },
+            {
+              "title": "Christian Apologetics",
+              "by": "Colin Hart",
+              "extent": "1.5 h",
+              "minutes": 90,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/resource/christian-apologetics/"
+            },
+            {
+              "title": "Defending Your Faith 1-32",
+              "by": "Dr. R.C. Sproul",
+              "extent": "14 h",
+              "minutes": 840,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/15uN1c4nCKnBuhKtxlwrYdxP4i1vab_uc/view?usp=sharing"
+            },
+            {
+              "title": "Apologetics 1-14",
+              "by": "Dr. John Gerstner",
+              "extent": "6.5 h",
+              "minutes": 390,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/handout_apologetics/"
+            },
+            {
+              "title": "Objections Answered 1-8",
+              "by": "Dr. R.C. Sproul",
+              "extent": "3 h",
+              "minutes": 180,
+              "pages": null,
+              "note": null,
+              "url": "http://www.ligonier.org/learn/series/objections-answered/"
+            },
+            {
+              "title": "A Loving God? Understanding Death and Suffering",
+              "by": "Ken Ham",
+              "extent": "50 min",
+              "minutes": 50,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11509926487"
+            }
+          ],
+          "total": "26 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "A Brief Outline of the Evidence of the Christian Religion",
+              "by": "Archibald Alexander",
+              "extent": "256 pp.",
+              "minutes": null,
+              "pages": 256,
+              "note": null,
+              "url": "https://archive.org/details/briefoutlineofev00alex"
+            },
+            {
+              "title": "The New Answers Book 2",
+              "by": "Answers in Genesis",
+              "extent": "384 pp.",
+              "minutes": null,
+              "pages": 384,
+              "note": null,
+              "url": "https://answersingenesis.org/answers/books/new-answers-book-2/"
+            }
+          ],
+          "total": "640"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper outlining basic steps in a defense of the Christian Faith.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "WV401",
+      "title": "Worldview Studies",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Worldview Series 1-7",
+              "by": "Stephen Gambill",
+              "extent": "6.5 h",
+              "minutes": 390,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=rbcnashville&keyword=Worldview+Series&keyworddesc=Worldview+Series"
+            },
+            {
+              "title": "Worldview Apologetics 1-10",
+              "by": "Dr. James Anderson",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": "There is no Lecture 5",
+              "url": "https://drive.google.com/drive/folders/1GCPzi_HXRHuHxj5m4wN1hJvgzzhqUdAE?usp=sharing"
+            },
+            {
+              "title": "New Age Movement",
+              "by": "David Silversides",
+              "extent": "44 min",
+              "minutes": 44,
+              "pages": null,
+              "note": "earphones recommended",
+              "url": "https://www.sermonaudio.com/sermoninfo.asp?SID=8405173429"
+            },
+            {
+              "title": "Modern-isms (3 lectures)",
+              "by": "The Christian Institute",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "https://www.christian.org.uk/resources/series/modern-isms/"
+            },
+            {
+              "title": "Pluralism",
+              "by": "The Christian Institute",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "http://www.christian.org.uk/pluralism/"
+            },
+            {
+              "title": "Christian Worldview 1-24",
+              "by": "Dr. James Grier",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1e8uJl1kepuYfUPKPqZeHAlYdw5zEdaVt?usp=sharing"
+            }
+          ],
+          "total": "39 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Introduction to Worldviews",
+              "by": "Probe Ministries",
+              "extent": "305 pp.",
+              "minutes": null,
+              "pages": 305,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1TgxwD80oD6NUJvd8PoxerFhVEr6bdwNB/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper outlining the Christian World and Life View.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PH401",
+      "title": "History of Philosophy and Christian Thought",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "The Consequences of Ideas 1-35",
+              "by": "Dr. R.C. Sproul",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://www.monergism.com/consequences-ideas-mp3-series"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Problems of Philosophy",
+              "by": "John Hibben",
+              "extent": "226 pp.",
+              "minutes": null,
+              "pages": 226,
+              "note": null,
+              "url": "https://archive.org/details/problemsofphilos624hibb"
+            },
+            {
+              "title": "Redeeming Philosophy",
+              "by": "Dr. Vern Poythress",
+              "extent": "306 pp.",
+              "minutes": null,
+              "pages": 306,
+              "note": null,
+              "url": "http://www.frame-poythress.org/wp-content/uploads/2014/11/BPhilFinal2014.pdf"
+            }
+          ],
+          "total": "532 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper discussing a topic of interest covered in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT301",
+      "title": "Evangelism",
+      "credits": 2,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Personal Evangelism 1-5",
+              "by": "Dr. John Blanchard",
+              "extent": "4 h",
+              "minutes": 240,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=blanchard&keyword=Personal+Evangelism&keyworddesc=Personal+Evangelism"
+            },
+            {
+              "title": "Motives for Mission",
+              "by": "Dr. John Blanchard",
+              "extent": "38 min",
+              "minutes": 38,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=122082158149"
+            },
+            {
+              "title": "Eager to Preach",
+              "by": "John Blanchard",
+              "extent": "25 min",
+              "minutes": 25,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=120081738314"
+            },
+            {
+              "title": "Why Won't They Listen?",
+              "by": "Ken Ham",
+              "extent": "63 min",
+              "minutes": 63,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/sermoninfo.asp?SID=11606143116"
+            },
+            {
+              "title": "Personal Evangelism in Biblical Perspective (iShare) 1-8",
+              "by": "Dr. Harry Reeder",
+              "extent": "6 h",
+              "minutes": 360,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/open?id=1oJavXl-6Eq9kXTKI07Q-_5c7ZgfqZ3P-",
+              "urls": [
+                {
+                  "label": "Vol. 1",
+                  "url": "https://drive.google.com/file/d/1BTMW5uqt1sXgnu6SaWa9bastm_HlWB3J/view?usp=sharing"
+                },
+                {
+                  "label": "Vol. 2",
+                  "url": "https://drive.google.com/file/d/1ftp9P3PB6HCmv44culshq1Gf033015a_/view?usp=sharing"
+                }
+              ]
+            },
+            {
+              "title": "The Christ-Centered Disciple and Intentional Evangelism 1 & 2",
+              "by": "Harry Reeder",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null
+            },
+            {
+              "title": "Harvest Imperatives 1, 2",
+              "by": "Randy Pope",
+              "extent": "2 h",
+              "minutes": 120,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1r9M_PVSjO-HCPzxpk_m3VqwNKwsNb5Fa/view?usp=sharing",
+              "urls": [
+                {
+                  "label": "Vol. 2",
+                  "url": "https://drive.google.com/file/d/1g6OiBPc6-fg4iJ_EXZw7IBCbZ6YQENGN/view?usp=sharing"
+                }
+              ]
+            }
+          ],
+          "total": "15 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Every-Member Evangelism",
+              "by": "J.E. Conant",
+              "extent": "232 pp.",
+              "minutes": null,
+              "pages": 232,
+              "note": null,
+              "url": "https://archive.org/details/everymemberevang00cona"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and outline:",
+          "items": [
+            {
+              "title": "Ultimate Questions",
+              "by": "John Blanchard",
+              "extent": "36 pp.",
+              "minutes": null,
+              "pages": 36,
+              "note": null,
+              "url": "http://s3.amazonaws.com/storage.nm-storage.com/wordtoall/downloads/Utimate_Questions_English_NIV_version.pdf"
+            }
+          ],
+          "total": "268 pages"
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 5 page paper defining the essential elements of the gospel message.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 5,
+          "type": "assignment",
+          "instruction": "Write a 15 page paper outlining a method for personal evangelism.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS302",
+      "title": "Principles of Biblical Interpretation",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "He Gave Us Scripture 1-22",
+              "by": "IIIM",
+              "extent": "20 h",
+              "minutes": 1200,
+              "pages": null,
+              "note": null,
+              "url": "http://reformedseminary.org/course.asp/vs/hgb"
+            },
+            {
+              "title": "Hermeneutics 1-25",
+              "by": "Dr. Henry Krabbendam",
+              "extent": "27 h",
+              "minutes": 1620,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1uF2z9PeCbggYMT2WmcQHx4DPgSDp7T_i?usp=sharing"
+            }
+          ],
+          "total": "47 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Principles of Biblical Interpretation",
+              "by": "Louis Berkhof",
+              "extent": "166 pp.",
+              "minutes": null,
+              "pages": 166,
+              "note": null,
+              "url": "http://media.sabda.org/alkitab-2/PDF%20Books/00050%20Berkhof%20Principles%20of%20Biblical%20Interpretation..pdf"
+            },
+            {
+              "title": "The Bible Handbook Part I, Ch. 8-9",
+              "by": "Joseph Angus",
+              "extent": "181 pp.",
+              "minutes": null,
+              "pages": 181,
+              "note": null,
+              "url": "https://archive.org/details/thebiblehandbook00anguuoft"
+            }
+          ],
+          "total": "347 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper outlining the steps involved in a proper approach to biblical interpretation.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page exegetical paper on a chosen passage/verse.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS303",
+      "title": "Old Testament Survey",
+      "credits": 3,
+      "scripture_reading": "Genesis - Malachi (reading should parallel course lectures)",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Old Testament Overview 1-13",
+              "by": "Dr. Greg Perry",
+              "extent": "11 h",
+              "minutes": 660,
+              "pages": null,
+              "note": "create free account to access lectures",
+              "url": "https://drive.google.com/drive/folders/1Z20Q9HvJ_8OC34LFvroieouZjNQKolb2?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Old Testament Introduction: General and Special",
+              "by": "John Raven",
+              "extent": "377 pp.",
+              "minutes": null,
+              "pages": 377,
+              "note": null,
+              "url": "https://archive.org/details/oldtestamentint00ravegoog"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write an introduction for each Old Testament book.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS304",
+      "title": "New Testament Survey",
+      "credits": 3,
+      "scripture_reading": "Matthew - Revelation (reading should parallel course lectures)",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "New Testament Overview 1-20",
+              "by": "Dr. Greg Perry",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/drive/folders/1jHjMh8IMXnFBmiMv4ppymDWTqna3Lze3?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "An Introduction to the Study of the Books of the New Testament",
+              "by": "John Kerr",
+              "extent": "372 pp.",
+              "minutes": null,
+              "pages": 372,
+              "note": null,
+              "url": "https://archive.org/details/introductionto00kerr"
+            },
+            {
+              "title": "Introduction to the New Testament",
+              "by": "Louis Berkhof",
+              "extent": "201 pp.",
+              "minutes": null,
+              "pages": 201,
+              "note": null,
+              "url": "http://www.ntslibrary.com/PDF%20Books/Introduction%20to%20the%20New%20Testament.pdf"
+            }
+          ],
+          "total": "573 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write an introduction for each New Testament book.",
+          "items": [],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Write a 10 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH301",
+      "title": "Survey of Church History",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Survey of Church History 1-24",
+              "by": "Garth Rosell",
+              "extent": "18 h",
+              "minutes": 1080,
+              "pages": null,
+              "note": null,
+              "url": "http://christianuniversity.org/courses/survey-of-church-history/"
+            },
+            {
+              "title": "Essentials of Church History 1-10",
+              "by": "Dr. Gordon Isaac",
+              "extent": "9 h",
+              "minutes": 540,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/library/essentials-of-church-history/gordon-isaac"
+            },
+            {
+              "title": "Church History 1-3",
+              "by": "Dr. Nick Needham",
+              "extent": "2.5 h",
+              "minutes": 150,
+              "pages": null,
+              "note": null,
+              "url": "https://www.christian.org.uk/resources/series/church-history/"
+            },
+            {
+              "title": "Church History 1-5",
+              "by": "Dr. Curt Daniel",
+              "extent": "5 h",
+              "minutes": 300,
+              "pages": null,
+              "note": null,
+              "url": "https://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=faithbible&keyword=Church+history&keyworddesc=Church+history"
+            },
+            {
+              "title": "Learning from Church History",
+              "by": "Dr. Nick Needham",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1h4AwEoV4u1gDPxPtb70gKV5-AhzokljU/view?usp=sharing"
+            }
+          ],
+          "total": "35.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Compendium of Church History",
+              "by": "Andrew Zenos",
+              "extent": "362 pp.",
+              "minutes": null,
+              "pages": 362,
+              "note": null,
+              "url": "https://archive.org/details/compendiumofch00zeno"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest covered in the course materials.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "CH302",
+      "title": "Reformation Church History",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Reformation Church History 1-24",
+              "by": "Robert Godfrey",
+              "extent": "17 h",
+              "minutes": 1020,
+              "pages": null,
+              "note": null,
+              "url": "http://christianuniversity.org/courses/reformation-church-history-courses/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Beacon Lights of the Reformation",
+              "by": "W.H. Withrow",
+              "extent": "316 pp.",
+              "minutes": null,
+              "pages": 316,
+              "note": null,
+              "url": "https://archive.org/details/beaconlightsofre00withuoft"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "TH415",
+      "title": "Christian Ethics",
+      "credits": 4,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lecture:",
+          "items": [
+            {
+              "title": "Christian Ethics: A Biblical Theology of Morality",
+              "by": "Dr. James Grier",
+              "extent": "16 h",
+              "minutes": 960,
+              "pages": null,
+              "note": null,
+              "url": "http://christianuniversity.org/courses/christian-ethics-a-biblical-theology-of-morality/"
+            },
+            {
+              "title": "Making Biblical Decisions 1-10",
+              "by": "Dr. John Frame",
+              "extent": "13 h",
+              "minutes": 780,
+              "pages": null,
+              "note": null,
+              "url": "http://christianuniversity.org/courses/making-biblical-decisions/"
+            },
+            {
+              "title": "The Beatitudes 1-12",
+              "by": "Dr. John Blanchard",
+              "extent": "8 h",
+              "minutes": 480,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=blanchard&keyword=The+Beatitudes&keyworddesc=The+Beatitudes"
+            }
+          ],
+          "total": "37 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "The Godly Man's Picture",
+              "by": "Thomas Watson",
+              "extent": "238 pp.",
+              "minutes": null,
+              "pages": 238,
+              "note": null,
+              "url": "http://www.digitalpuritan.net/Digital%20Puritan%20Resources/Watson,%20Thomas/Discourses%20on%20Important%20and%20Interesting%20Subjects%20(vol.1)%20Ind%20Works/The%20Godly%20Man's%20Picture.pdf"
+            },
+            {
+              "title": "The Ten Commandments",
+              "by": "Thomas Watson",
+              "extent": "260 pp.",
+              "minutes": null,
+              "pages": 260,
+              "note": null,
+              "url": "https://www.ccel.org/ccel/watson/commandments.pdf"
+            },
+            {
+              "title": "The Beatitudes",
+              "by": "Thomas Watson",
+              "extent": "217 pp.",
+              "minutes": null,
+              "pages": 217,
+              "note": null,
+              "url": "http://grace-ebooks.com/library/Thomas%20Watson/TW_The%20Beatitudes.pdf"
+            }
+          ],
+          "total": "715 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper discussing a moral issue from a Biblical perspective.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT401",
+      "title": "Principles of Christian Leadership",
+      "credits": 2,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Principles of Effective Leadership 1-21",
+              "by": "Dr. John Johnson",
+              "extent": "15 h",
+              "minutes": 900,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/principles-effective-leadership/john-johnson"
+            },
+            {
+              "title": "Servant Leadership",
+              "by": "Robert Sloan",
+              "extent": "43 min",
+              "minutes": 43,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1m3xqSn1sYHhpbPbc29Dkeqcbt9Iao1aQ/view?usp=sharing"
+            },
+            {
+              "title": "Leadership that Makes a Difference",
+              "by": "Harry Reeder",
+              "extent": "1 h",
+              "minutes": 60,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1P69uoPGKTrcusGC9mLdKSAxEtRvm-wAs/view?usp=sharing"
+            }
+          ],
+          "total": "16.5 hours"
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "Christian Leadership: Principles and Practicalities",
+              "by": "Roger Smalling",
+              "extent": "154 pp.",
+              "minutes": null,
+              "pages": 154,
+              "note": null,
+              "url": "http://www.smallings.com/english/books/CHRISTIANLEADERSHIP.pdf"
+            },
+            {
+              "title": "The Marks of a Spiritual Leader",
+              "by": "John Piper",
+              "extent": "47 pp.",
+              "minutes": null,
+              "pages": 47,
+              "note": null,
+              "url": "http://document.desiringgod.org/the-marks-of-a-spiritual-leader-en.pdf?1446648296"
+            }
+          ],
+          "total": "201 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper outlining the major principles pertaining to Christian leadership.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "PT402",
+      "title": "Principles of Christian Ministry",
+      "credits": 3,
+      "scripture_reading": null,
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Serving the Lord 1-17",
+              "by": "Stephen Hamilton",
+              "extent": "11.5 h",
+              "minutes": 690,
+              "pages": null,
+              "note": null,
+              "url": "http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=lvfpc&keyword=Serving+The+Lord&keyworddesc=Serving+The+Lord"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "readings",
+          "instruction": "Read and provide chapter summaries:",
+          "items": [
+            {
+              "title": "How to Obtain Fullness of Power in Christian Life and Service",
+              "by": "R.A. Torrey",
+              "extent": "76 pp.",
+              "minutes": null,
+              "pages": 76,
+              "note": null,
+              "url": "https://archive.org/details/howtoobtainfulln00torr"
+            },
+            {
+              "title": "Working for God",
+              "by": "Andrew Murray",
+              "extent": "172 pp.",
+              "minutes": null,
+              "pages": 172,
+              "note": null,
+              "url": "https://archive.org/details/workingforgod00murr"
+            }
+          ],
+          "total": "248 pages"
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Write a 20 page paper on a subject of interest presented in the course material.",
+          "items": [],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS410",
+      "title": "Basics of Biblical Greek",
+      "credits": 3,
+      "scripture_reading": "Tips for Better Note-Taking for Greek and Hebrew Courses",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Learning to Use the Greek New Testament (35 videos)",
+              "by": "John Moore",
+              "extent": "24.5 h",
+              "minutes": 1470,
+              "pages": null,
+              "note": null,
+              "url": "http://www.thebible.net/video/greek/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "View and take notes:",
+          "items": [
+            {
+              "title": "Greek Tools for Bible Study 1-14 (video)",
+              "by": "Dr. William Mounce",
+              "extent": "10 h",
+              "minutes": 600,
+              "pages": null,
+              "note": null,
+              "url": "https://www.biblicaltraining.org/greek-tools-bible-study/william-mounce"
+            },
+            {
+              "title": "Learn Biblical Greek 1-26 (video)",
+              "by": "Dr. Robert Plummer",
+              "extent": "8 h",
+              "minutes": 480,
+              "pages": null,
+              "note": "Recommended to accompany lectures but not required: Learn to Read New Testament Greek, 3rd ed. - D.A. Black; Greek for the Rest of Us - Bill Mounce",
+              "url": "http://dailydoseofgreek.com/learn-biblical-greek/"
+            }
+          ],
+          "total": "42.5 hours"
+        },
+        {
+          "n": 3,
+          "type": "readings",
+          "instruction": "Read and take notes on each chapter:",
+          "items": [
+            {
+              "title": "Mastering New Testament Greek",
+              "by": "Ted Hildebrandt",
+              "extent": "521 pp.",
+              "minutes": null,
+              "pages": 521,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1EnjYFVedw8j0Hq-odqOHNYNwUQaslxxD/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 4,
+          "type": "assignment",
+          "instruction": "Complete:",
+          "items": [
+            {
+              "title": "Mastering New Testament Greek Workbook",
+              "by": "Ted Hildebrandt",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "Mentors: Please contact the seminary to access Workbook Answer Key.",
+              "url": "https://drive.google.com/file/d/11NulUniMXb0MShPmumMGdDq-IRm5thhT/view?usp=sharing"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful Resources:",
+          "items": [
+            {
+              "title": "Greek Quick Reference and Memorization Charts",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://drive.google.com/file/d/1t-VAvSkxleD8gXWLCHdKuKNZsNhAhgtU/view?usp=sharing"
+            },
+            {
+              "title": "Greek Tutor",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://biblicalelearning.org/introductory-languages/hebrew-tutor/"
+            }
+          ],
+          "total": null
+        }
+      ]
+    },
+    {
+      "code": "BS411",
+      "title": "Basics of Biblical Hebrew",
+      "credits": 3,
+      "scripture_reading": "Tips for Better Note-Taking for Greek and Hebrew Courses",
+      "sections": [
+        {
+          "n": 1,
+          "type": "lectures",
+          "instruction": "Listen, outline, and take notes on the following lectures:",
+          "items": [
+            {
+              "title": "Hebrew Grammar I 1-24 (video)",
+              "by": "Dr. William Barrick",
+              "extent": "24 h",
+              "minutes": 1440,
+              "pages": null,
+              "note": null,
+              "url": "https://biblicalelearning.org/hebrewindex-html/"
+            },
+            {
+              "title": "Hebrew Grammar II 1-26 (video)",
+              "by": "Dr. William Barrick",
+              "extent": "26 h",
+              "minutes": 1560,
+              "pages": null,
+              "note": null,
+              "url": "https://biblicalelearning.org/hebrewindex-html/"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 2,
+          "type": "lectures",
+          "instruction": "View and take notes:",
+          "items": [
+            {
+              "title": "Learn Biblical Hebrew 1-40 (video)",
+              "by": null,
+              "extent": "8 h",
+              "minutes": 480,
+              "pages": null,
+              "note": null,
+              "url": "http://dailydoseofhebrew.com/learn/"
+            }
+          ],
+          "total": "58 hours"
+        },
+        {
+          "n": null,
+          "type": "readings",
+          "instruction": "Read in conjunction with Barrick lectures:",
+          "items": [
+            {
+              "title": "A Grammar for Biblical Hebrew",
+              "by": "Dr. William Barrick and Irvin Busenitz",
+              "extent": "213 pp.",
+              "minutes": null,
+              "pages": 213,
+              "note": null,
+              "url": "http://drbarrick.org/files/studynotes/Other/B_B_Hebrew_Grammar_2005.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": 3,
+          "type": "assignment",
+          "instruction": "Complete in conjunction with Barrick lectures:",
+          "items": [
+            {
+              "title": "Workbook for A Grammar for Biblical Hebrew",
+              "by": "Barrick and Busenitz",
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": "Mentors: Please contact the seminary to access Workbook Answer Key.",
+              "url": "https://drbarrick.org/files/studynotes/Other/B_B_Hebrew_Grammar_Wkbk_Full.pdf"
+            }
+          ],
+          "total": null
+        },
+        {
+          "n": null,
+          "type": "review",
+          "instruction": "Helpful Resources:",
+          "items": [
+            {
+              "title": "Hebrew Tutor",
+              "by": null,
+              "extent": null,
+              "minutes": null,
+              "pages": null,
+              "note": null,
+              "url": "https://biblicalelearning.org/introductory-languages/hebrew-tutor/"
+            },
+            {
+              "title": "A Hebrew Grammar for Beginners",
+              "by": "Robert Dick Wilson",
+              "extent": "270 pp.",
+              "minutes": null,
+              "pages": 270,
+              "note": null,
+              "url": "https://archive.org/details/hebrewgrammarfor00wils"
+            }
+          ],
+          "total": null
+        }
+      ]
+    }
+  ]
+}
