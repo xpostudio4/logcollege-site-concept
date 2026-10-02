@@ -160,12 +160,43 @@ for code, occ in COURSE_OCC.items():
     UNIQUE_MIN += course_stats(occ[0][1])["minutes"]
 
 # ---------------------------------------------------------------- layout
-NAV = [("Programs", "/programs/"), ("Course Catalog", "/courses/"), ("Resource Library", "/library/"),
-       ("About", "/about/")]
+PAGES_DIR = ROOT / "src" / "pages"
+CONTENT = []
+for f in sorted(PAGES_DIR.glob("*.html")):
+    raw = f.read_text()
+    m = re.match(r"<!--\s*(\{.*?\})\s*-->\s*", raw, re.S)
+    meta = json.loads(m.group(1)); meta["body"] = raw[m.end():]
+    CONTENT.append(meta)
+CBY = {c["slug"]: c for c in CONTENT}
+
+def cl(slug):
+    return (CBY[slug]["nav"], f"/{slug}/")
+
+NAV = [
+    ("Programs", [("Degree Programs", "/programs/"), ("Course Catalog", "/courses/")]),
+    ("Resources", [("Course Resources", "/resources/"), cl("library"), cl("assignment-examples"), cl("bible-reading-plans"),
+                   cl("directory-for-worship"), cl("sons-of-issachar-lectures"), cl("theolog")]),
+    ("Students", [cl("policies"), cl("mentor-information"), cl("transcript-request"), cl("student-fellowship"), cl("ministry-opportunities")]),
+    ("About", [("About LCS", "/about/"), cl("administration"), cl("support-lcs")]),
+]
+
+def group_of(href):
+    for g, links in NAV:
+        if any(h == href for _, h in links):
+            return g
+    return None
 
 def page(title, body, active=None, desc=None):
-    nav = "".join(
-        f'<a href="{href}"{" aria-current=\"page\"" if active == href else ""}>{e(label)}</a>' for label, href in NAV)
+    cur_group = group_of(active) if active else None
+    if active and active.startswith("/programs/") or (active or "").startswith("/courses/"):
+        cur_group = "Programs"
+    parts = []
+    for i, (g, links) in enumerate(NAV):
+        items = "".join(f'<a href="{h}"{" aria-current=\"page\"" if active == h else ""}>{e(l)}</a>' for l, h in links)
+        parts.append(f'<div class="nav-group{" is-current" if g == cur_group else ""}">'
+                     f'<button class="nav-top" type="button" aria-expanded="false" aria-controls="dd-{i}">{e(g)}<svg class="dd-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button>'
+                     f'<div class="dropdown" id="dd-{i}">{items}</div></div>')
+    nav = "".join(parts)
     full_title = f"{title} | {SITE['name']}" if title != SITE["name"] else title
     return f"""<!doctype html>
 <html lang="en">
@@ -185,7 +216,7 @@ def page(title, body, active=None, desc=None):
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-{f'<div class="concept">Unofficial redesign concept. Not affiliated with or endorsed by The Log College &amp; Seminary. <a href="{e(SITE["official_url"])}" rel="noopener">Visit the official site</a></div>' if SITE.get("concept") else ""}
+{f'<div class="concept"><span class="c-long">Unofficial redesign concept. Not affiliated with or endorsed by The Log College &amp; Seminary.</span><span class="c-short">Unofficial redesign concept.</span> <a href="{e(SITE["official_url"])}" rel="noopener">Visit the official site</a></div>' if SITE.get("concept") else ""}
 <div class="utility"><div class="wrap">
   <div class="pills"><span>Completely Reformed</span><span>Completely online</span><span>Completely free</span></div>
   <div class="contact"><a href="mailto:{e(SITE['email'])}">{e(SITE['email'])}</a></div>
@@ -210,13 +241,7 @@ def page(title, body, active=None, desc=None):
       <p>{e(SITE['address'])}<br><a href="mailto:{e(SITE['email'])}">{e(SITE['email'])}</a></p>
       <p>Affiliate member of the <a href="{e(SITE['arts_url'])}" rel="noopener">Association of Reformed Theological Seminaries</a>.</p>
     </div>
-    <div><h4>Programs</h4><ul>{"".join(f'<li><a href="/programs/{p["slug"]}/">{e(p["name"])}</a></li>' for p in PROGRAMS if p["level"] != "doctoral")}</ul></div>
-    <div><h4>Doctoral</h4><ul>{"".join(f'<li><a href="/programs/{p["slug"]}/">{e(p["name"])}</a></li>' for p in PROGRAMS if p["level"] == "doctoral")}</ul></div>
-    <div><h4>Explore</h4><ul>
-      <li><a href="/courses/">Course Catalog</a></li><li><a href="/library/">Resource Library</a></li>
-      <li><a href="/about/">About LCS</a></li><li><a href="/admissions/">Admissions</a></li>
-      <li><a href="/about/#standards">Statement of Faith</a></li>
-      <li><a href="{e(SITE['facebook'])}" rel="noopener">Facebook</a></li></ul></div>
+    {"".join(f'<div><h4>{e(g)}</h4><ul>' + "".join(f'<li><a href="{h}">{e(l)}</a></li>' for l, h in links) + ('<li><a href="/merchandise/">Merchandise</a></li>' if g == "About" else "") + '</ul></div>' for g, links in NAV)}
   </div>
   <div class="foot-base">
     <span>&copy; The Log College &amp; Seminary. All rights reserved.</span>
@@ -468,7 +493,7 @@ def build_home():
 <section class="section"><div class="wrap">
   <div class="section-head"><div><p class="eyebrow">The whole curriculum, in the open</p><h2>Browse what you will study</h2></div></div>
   {stats}
-  <div class="btn-row" style="margin-top:24px"><a class="btn btn-secondary" href="/courses/">Open the course catalog</a><a class="btn btn-secondary" href="/library/">Search the resource library</a></div>
+  <div class="btn-row" style="margin-top:24px"><a class="btn btn-secondary" href="/courses/">Open the course catalog</a><a class="btn btn-secondary" href="/resources/">Search the course resources</a></div>
 </div></section>
 
 <section class="section alt"><div class="wrap cols-2">
@@ -682,8 +707,8 @@ def build_library():
     n_lec = sum(1 for r in LIB.values() if r["kind"] == "Lecture")
     n_read = len(LIB) - n_lec
     body = f"""<section class="page-head"><div class="wrap">
-  {crumbs(("Resource Library", None))}
-  <p class="eyebrow">Resources</p><h1>Resource library</h1>
+  {crumbs(("Resources", None), ("Course Resources", None))}
+  <p class="eyebrow">Resources</p><h1>Course resources</h1>
   <p class="lede">Every lecture series, book, and article assigned across the curriculum, in one searchable list. Search by title, speaker, author, or course code.</p>
 </div></section>
 <section class="section" style="padding-top:36px"><div class="wrap" data-filter-root data-item=".lib-row" data-page="60">
@@ -701,7 +726,7 @@ def build_library():
   <div class="empty" data-empty hidden><p><strong>Nothing matches that search.</strong></p><p>Check the spelling, or search a speaker's last name only.</p><button class="btn btn-secondary" type="button" data-clear>Clear search</button></div>
   <p class="muted" style="margin-top:20px;font-size:.9rem">Titles link to the lecture or text named in the official program guides. Links point to third-party sites; report a broken one to <a href="mailto:info@logcollege.net">info@logcollege.net</a>.</p>
 </div></section>"""
-    write("library/index.html", page("Resource Library", body, active="/library/"))
+    write("resources/index.html", page("Course Resources", body, active="/resources/"))
 
 def build_about():
     pdfs = "".join(f'<li><a href="{e(u)}" rel="noopener" target="_blank">{e(t)}</a></li>' for t, u in SITE["standards_pdfs"])
@@ -782,6 +807,36 @@ def build_404():
 <div class="btn-row" style="margin-top:20px"><a class="btn btn-primary" href="/programs/">Degree programs</a><a class="btn btn-secondary" href="/courses/">Course catalog</a></div></div></section>"""
     write("404.html", page("Page not found", body))
 
+def build_content_pages():
+    for c in CONTENT:
+        href = f"/{c['slug']}/"
+        g = c["group"]
+        links = dict(NAV).get(g, [])
+        body_html = c["body"].replace("{{download}}", ICON["download"]).replace("{{external}}", ICON["external"])
+        # external links open in a new tab
+        body_html = re.sub(r'<a (?![^>]*target=)([^>]*href="https?://)', r'<a target="_blank" rel="noopener" \1', body_html)
+        side = ""
+        if links:
+            items = "".join(f'<li><a href="{h}"{" aria-current=\"page\" class=\"active\"" if h == href else ""}>{e(l)}</a></li>' for l, h in links)
+            side = f'<aside><nav class="panel toc" aria-label="In this section"><h3>{e(g)}</h3><ol>{items}</ol></nav></aside>'
+        crumb = ((g, None), (c["title"], None)) if g != "Footer" else ((c["title"], None),)
+        lede = f'<p class="lede">{e(c["lede"])}</p>' if c.get("lede") else ""
+        eyebrow = f'<p class="eyebrow">{e(g)}</p>' if g != "Footer" else ""
+        body = f"""<section class="page-head"><div class="wrap">
+  {crumbs(*crumb)}
+  {eyebrow}<h1>{e(c['title'])}</h1>{lede}
+</div></section>
+<div class="wrap layout"><div class="prose content">{body_html}</div>{side or '<aside></aside>'}</div>"""
+        write(f"{c['slug']}/index.html", page(c["title"], body, active=href, desc=c.get("lede")))
+
+def write_redirects():
+    rules = [
+        ("/degree-programs", "/programs/"), ("/distinctives", "/about/"), ("/statement-of-faith", "/about/#standards"),
+        ("/accreditation", "/about/#accreditation"), ("/home", "/"), ("/tnars-programs", "/programs/"),
+        ("/library/*", "/library/"),
+    ]
+    (OUT / "_redirects").write_text("".join(f"{a} {b} 301\n" for a, b in rules[:-1]))
+
 def main():
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -791,6 +846,7 @@ def main():
         build_program(p)
     codes = build_catalog(); build_course_pages(codes)
     build_library(); build_about(); build_admissions(); build_404()
+    build_content_pages(); write_redirects()
     (OUT / "robots.txt").write_text("User-agent: *\nDisallow: /\n" if SITE.get("concept") else "User-agent: *\nAllow: /\n")
     n = sum(1 for _ in OUT.rglob("*.html"))
     print(f"Built {n} pages for {len(PROGRAMS)} programs, {len(codes)} courses, {len(LIB)} library resources -> {OUT}")

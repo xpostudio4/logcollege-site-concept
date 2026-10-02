@@ -22,6 +22,26 @@
     });
   }
 
+  // Desktop dropdowns
+  var groups = document.querySelectorAll('.nav-group');
+  function closeAll(except) {
+    groups.forEach(function (g) { if (g !== except) { g.classList.remove('open'); g.querySelector('.nav-top').setAttribute('aria-expanded', 'false'); } });
+  }
+  groups.forEach(function (g) {
+    var b = g.querySelector('.nav-top');
+    b.addEventListener('click', function () {
+      if (window.innerWidth <= 980) return;
+      var open = !g.classList.contains('open');
+      closeAll(g);
+      g.classList.toggle('open', open);
+      b.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+    g.addEventListener('mouseenter', function () { if (window.innerWidth > 980 && window.matchMedia('(hover: hover)').matches) { closeAll(g); g.classList.add('open'); b.setAttribute('aria-expanded', 'true'); } });
+    g.addEventListener('mouseleave', function () { if (window.innerWidth > 980 && window.matchMedia('(hover: hover)').matches) { g.classList.remove('open'); b.setAttribute('aria-expanded', 'false'); } });
+  });
+  document.addEventListener('click', function (e) { if (!e.target.closest('.nav-group')) closeAll(null); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeAll(null); });
+
   // Expand / collapse all courses
   document.querySelectorAll('[data-toggle-all]').forEach(function (t) {
     t.addEventListener('click', function () {
