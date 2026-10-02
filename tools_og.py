@@ -78,7 +78,7 @@ def card(eyebrow, title, facts, name):
         d.text((x, y), ln, font=f, fill=WHITE); y += lh
     d.text((x, H - 86), facts, font=ImageFont.truetype(SANS, 23), fill=CREAM)
     d.rectangle([0, H - 8, W, H], fill=ACCENT)
-    im.convert("RGB").save(OUT / f"{name}.png", optimize=True)
+    im.convert("RGB").save(OUT / f"{name}.jpg", quality=86, optimize=True, progressive=True)
 
 card("A Reformed seminary", "Seminary education, freely given", "11 degree programs  ·  Online  ·  Mentored  ·  Tuition-free", "default")
 levels = {"undergraduate": "Undergraduate", "graduate": "Graduate", "doctoral": "Doctoral"}
@@ -86,4 +86,4 @@ for p in SITE["programs"]:
     d = json.loads((ROOT / "data" / "programs" / f"{p['slug']}.json").read_text())
     card(f"{p['abbr']}  ·  {levels[p['level']]} program", d["name"],
          f"{d['credit_hours']} credit hours  ·  Online  ·  Tuition-free", p["slug"])
-print("cards:", len(list(OUT.glob("*.png"))))
+print("cards:", len(list(OUT.glob("*.jpg"))))
