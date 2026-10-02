@@ -161,7 +161,7 @@ for code, occ in COURSE_OCC.items():
 
 # ---------------------------------------------------------------- layout
 NAV = [("Programs", "/programs/"), ("Course Catalog", "/courses/"), ("Resource Library", "/library/"),
-       ("About", "/about/"), ("Admissions", "/admissions/")]
+       ("About", "/about/")]
 
 def page(title, body, active=None, desc=None):
     nav = "".join(
@@ -195,7 +195,7 @@ def page(title, body, active=None, desc=None):
   <button class="menu-btn" type="button" aria-expanded="false" aria-controls="site-nav">{ICON['menu']}Menu</button>
   <nav class="nav" id="site-nav" aria-label="Main">
     <div class="nav-head"><img src="/assets/logo.png" alt="" width="1748" height="313"><button class="menu-close" type="button" aria-label="Close menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
-    {nav}<a class="btn btn-primary" href="/admissions/">Apply</a>
+    {nav}<a class="btn btn-primary" href="/admissions/"{" aria-current=\"page\"" if active == "/admissions/" else ""}>Apply</a>
     <p class="nav-foot"><a href="mailto:{e(SITE['email'])}">{e(SITE['email'])}</a><br>{e(SITE['address'])}</p>
   </nav>
 </div></header>
@@ -774,7 +774,7 @@ def build_admissions():
   <a class="btn btn-primary" href="{e(SITE['application_pdf'])}" rel="noopener" target="_blank">{ICON['download']}Application (PDF)</a>
   <small>Send transcripts and recommendation letters to {e(SITE['address'])}, or by email to <a href="mailto:{e(SITE['email'])}">{e(SITE['email'])}</a>.</small></div></aside>
 </div>"""
-    write("admissions/index.html", page("Admissions", body, active="/admissions/"))
+    write("admissions/index.html", page("How to Apply", body, active="/admissions/"))
 
 def build_404():
     body = f"""<section class="page-head"><div class="wrap"><p class="eyebrow">Page not found</p><h1>That page is not here</h1>
