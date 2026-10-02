@@ -213,8 +213,8 @@ def page(title, body, active=None, desc=None, og=None):
 <meta property="og:description" content="{e(desc or SITE['tagline'])}">
 <meta property="og:url" content="{e(SITE['base_url'])}__PATH__">
 <meta property="og:image" content="{e(SITE['base_url'])}/assets/og/{og or 'default'}.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:width" content="2400">
+<meta property="og:image:height" content="1260">
 <meta property="og:image:alt" content="{e(title)}: The Log College &amp; Seminary, with an engraving of the original Log College building">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{e(SITE['base_url'])}/assets/og/{og or 'default'}.jpg">
