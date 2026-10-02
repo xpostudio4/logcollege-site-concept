@@ -231,7 +231,7 @@ def page(title, body, active=None, desc=None):
 def cta():
     return f"""<section class="cta"><div class="wrap">
   <div><h2>Study with a mentor, in your own church.</h2><p>No tuition, no relocation, textbooks provided.</p></div>
-  <div class="btn-row"><a class="btn btn-light" href="/admissions/">How to apply {ICON['arrow']}</a><a class="btn btn-outline" href="{e(ask_link('Question about LCS programs'))}">Ask a question</a><a class="btn btn-outline" href="/admissions/#mentor-req">Mentor requirements</a></div>
+  <div class="btn-row"><a class="btn btn-light" href="/admissions/">How to apply {ICON['arrow']}</a><a class="btn btn-outline" href="{e(ask_link('Question about LCS programs'))}">Ask a question</a></div>
 </div></section>"""
 
 def crumbs(*parts):
@@ -273,24 +273,78 @@ def pathways_block():
         cards.append(f'<div class="path"><h3>{e(title)}</h3><p>{e(sub)}</p><ul>{links}</ul></div>')
     return f'<div class="paths">{"".join(cards)}</div>'
 
-def credit_areas(p):
+def is_conc(li):
+    return (li.get("group") or "").startswith("Concentration")
+
+SUBJECT_ORDER = ["Preparatory Studies", "Biblical Studies", "Theology", "Historical Theology", "Church History",
+                 "Practical Theology", "Nouthetic Counseling", "Apologetics", "Philosophy & Worldview",
+                 "Puritan Theology", "Puritan History", "Puritan Ministry", "Puritan Classics & Readings",
+                 "Latin", "Thesis or dissertation"]
+
+def subject_of(li):
+    """Subject area by what the course is, not only by its code prefix."""
+    code, title = li["code"], (li.get("title") or "")
+    if re.search(r"thesis|dissertation", title, re.I):
+        return "Thesis or dissertation"
+    d = dept_of(code)
+    if d in ("PH", "WV"):
+        return "Puritan History" if re.search(r"puritan", title, re.I) else "Philosophy & Worldview"
+    return dept_name(d)
+
+def area_credits(p):
+    """Credit hours per subject area, counting fixed requirements only (concentrations are listed apart)."""
     areas = OrderedDict()
     for li in p["course_list"]:
-        cr = li.get("credits") or 0
-        if not cr:
+        if is_conc(li) or not li.get("credits"):
             continue
-        d = dept_name(dept_of(li["code"]))
-        areas[d] = areas.get(d, 0) + cr
-    rows = sorted(areas.items(), key=lambda kv: -kv[1])
-    total = sum(areas.values()) or 1
-    top = rows[0][1] if rows else 1
-    lis = "".join(
-        f'<li><span class="a-name">{e(name)}</span><span class="a-bar"><span style="width:{cr / top * 100:.1f}%"></span></span><span class="a-cr">{cr} <small>({cr / total * 100:.0f}%)</small></span></li>'
-        for name, cr in rows)
+        d = subject_of(li)
+        areas[d] = areas.get(d, 0) + li["credits"]
+    return areas
+
+def credit_areas(p):
+    areas = sorted(area_credits(p).items(), key=lambda kv: -kv[1])
+    concs = OrderedDict()
+    for li in p["course_list"]:
+        if is_conc(li):
+            name = li["group"].split(":", 1)[1].strip()
+            concs[name] = concs.get(name, 0) + (li.get("credits") or 0)
+    scale = max([cr for _, cr in areas] + list(concs.values()) + [1])
+    def row(name, cr, cls=""):
+        return (f'<tr{cls}><th scope="row">{e(name)}</th>'
+                f'<td class="spark"><span style="width:{cr / scale * 100:.1f}%"></span></td>'
+                f'<td class="num">{cr}</td></tr>')
+    body = "".join(row(n, cr) for n, cr in areas)
+    if concs:
+        body += f'<tr class="sub"><th scope="rowgroup" colspan="3">Plus one concentration</th></tr>'
+        body += "".join(row(n, cr, ' class="opt"') for n, cr in concs.items())
+    total = sum(cr for _, cr in areas) + (max(concs.values()) if concs else 0)
+    shown = p["credit_hours"]
     note = ""
-    if any(li.get("group") for li in p["course_list"]):
-        note = '<p class="muted" style="font-size:.86rem;margin-top:8px">Includes every concentration listed in the guide; a student completes one.</p>'
-    return f'<ul class="areas" aria-label="Credit hours by subject area">{lis}</ul>{note}'
+    if isinstance(shown, str):
+        note = f'<p class="muted fine">The guide lists {e(shown)} credit hours depending on prior study; the table counts every course.</p>'
+    return (f'<table class="areas"><caption class="sr-only">Credit hours by subject area</caption>'
+            f'<tbody>{body}</tbody><tfoot><tr><th scope="row">Total</th><td></td><td class="num">{total}</td></tr></tfoot></table>{note}')
+
+def subjects_grid():
+    """Small multiples as a table: subject areas down, programs across, one shared scale."""
+    progs = PROGRAMS
+    data = {p["slug"]: area_credits(p) for p in progs}
+    subjects = [n for n in SUBJECT_ORDER if any(n in d for d in data.values())]
+    subjects += [n for d in data.values() for n in d if n not in subjects]
+    short = {"thd-nc": "Th.D. NC", "thd-puritan": "Th.D. Puritan", "thd-church-history": "Th.D. History", "thm-nc": "Th.M. NC"}
+    head = "".join(f'<th scope="col"><a href="/programs/{p["slug"]}/">{e(short.get(p["slug"], p["abbr"]))}</a></th>' for p in progs)
+    rows = []
+    for subj in subjects:
+        cells = "".join(f'<td class="num">{data[p["slug"]].get(subj, "")}</td>' for p in progs)
+        rows.append(f'<tr><th scope="row">{e(subj)}</th>{cells}</tr>')
+    conc = "".join(f'<td class="num">{"15*" if p["slug"] == "dmin" else ""}</td>' for p in progs)
+    rows.append(f'<tr><th scope="row">Concentration</th>{conc}</tr>')
+    tot = "".join(f'<td class="num">{sum(data[p["slug"]].values()) + (15 if p["slug"] == "dmin" else 0)}</td>' for p in progs)
+    return (f'<div class="grid-wrap"><table class="subjects"><caption class="sr-only">Credit hours by subject in each program</caption>'
+            f'<thead><tr><th scope="col">Subject</th>{head}</tr></thead><tbody>{"".join(rows)}</tbody>'
+            f'<tfoot><tr><th scope="row">Total</th>{tot}</tr></tfoot></table></div>'
+            '<p class="muted fine">* The D.Min. student completes one 15-credit concentration: Reformed Theological Thought, Nouthetic Counseling, or Apologetics. '
+            'The Th.M. total varies from 18 to 30 with prior study.</p>')
 
 def ask_link(subject):
     from urllib.parse import quote
@@ -446,7 +500,11 @@ def build_programs_index():
   {pathways_block()}
 </div></section>
 <section class="section" style="padding-top:24px"><div class="wrap">{programs_by_level()}</div></section>
-<section class="section alt" id="standards"><div class="wrap">
+<section class="section alt" id="subjects"><div class="wrap">
+  <div class="section-head"><div><p class="eyebrow">Side by side</p><h2>Credit hours by subject</h2></div><p>How each degree divides its credits. Read across a row to compare programs, down a column to see one program's balance.</p></div>
+  {subjects_grid()}
+</div></section>
+<section class="section" id="standards"><div class="wrap">
   <div class="section-head"><div><p class="eyebrow">Academic standards</p><h2>What each credit hour requires</h2></div><p>The programs are free, but they require dedication and hard work. Standards are high, not for the sake of achievement but for the sake of worship.</p></div>
   <div class="cards">{standards}</div>
 </div></section>
@@ -523,7 +581,6 @@ def build_program(p):
     <div class="panel"><h3>Ready to begin?</h3>
       <a class="btn btn-primary" href="/admissions/">How to apply</a>
       <a class="btn btn-secondary" href="{e(p['pdf'])}" rel="noopener" target="_blank">{ICON['download']}Program guide (PDF)</a>
-      <a class="btn btn-secondary" href="/programs/{p['slug']}/checklist/">Printable checklist</a>
       <small><a href="{e(ask_link('Question about the ' + p['name']))}">Ask a question about this program</a></small>
     </div>
     <nav class="panel toc" aria-label="On this page"><h3>On this page</h3><ol>
@@ -532,50 +589,7 @@ def build_program(p):
   </aside>
 </div>"""
     write(f"programs/{p['slug']}/index.html", page(p["name"], body, active="/programs/", desc=p["summary"]))
-    build_checklist(p)
 
-def task_line(s):
-    items = s.get("items", [])
-    if s["type"] == "lectures":
-        m = sum(i.get("minutes") or 0 for i in items)
-        extra = s.get("total") or (f"{hours(m)} hours" if m else "")
-        return f"Lectures: {plural(len(items), 'series', 'series')}" + (f" ({extra})" if extra else "")
-    if s["type"] == "readings":
-        pg = sum(i.get("pages") or 0 for i in items)
-        extra = s.get("total") or (f"{pg:,} pages" if pg else "")
-        return f"Reading: {plural(len(items), 'title')}" + (f" ({extra})" if extra else "")
-    return s.get("instruction") or ""
-
-def build_checklist(p):
-    detail = {c["code"]: c for c in p["courses"]}
-    rows = []
-    group = None
-    for li in p["course_list"]:
-        if li.get("group") and li.get("group") != group:
-            group = li["group"]
-            rows.append(f'<tr class="grp"><td colspan="4">{e(group)}</td></tr>')
-        c = detail.get(li["code"])
-        tasks = ""
-        if c:
-            ts = [s for s in c.get("sections", []) if s["type"] != "review"]
-            tasks = "".join(f'<li><span class="box" aria-hidden="true"></span>{e((str(s["n"]) + ". ") if s.get("n") is not None else "")}{e(task_line(s))}</li>' for s in ts)
-            tasks = f'<ul class="tasks">{tasks}</ul>'
-        rows.append(f'<tr><td><strong>{e(li["code"])}</strong> {e(li.get("title"))}{tasks}</td><td class="c">{e(li.get("credits") or "")}</td><td class="blank"></td><td class="blank"></td></tr>')
-    reqs = "".join(f'<li><span class="box" aria-hidden="true"></span>{e(r)}</li>' for r in p.get("requirements", []) if "broken link" not in r.lower())
-    body = f"""<section class="page-head no-print"><div class="wrap">
-  {crumbs(("Programs", "/programs/"), (p["name"], f"/programs/{p['slug']}/"), ("Checklist", None))}
-  <h1>{e(p['name'])} checklist</h1>
-  <p class="lede">Every course and numbered assignment on one sheet, for you and your mentor. Print it, or save it as a PDF from the print dialog.</p>
-  <div class="btn-row" style="margin-top:20px"><button class="btn btn-primary" type="button" onclick="window.print()">Print checklist</button><a class="btn btn-secondary" href="/programs/{p['slug']}/">Back to the program</a></div>
-</div></section>
-<div class="wrap checklist">
-  <div class="print-head"><img src="/assets/logo.png" alt="" width="1748" height="313"><div><strong>{e(p['name'])}</strong> &middot; {p['credit_hours']} credit hours</div></div>
-  <div class="fields"><span>Student</span><span>Mentor</span><span>Start date</span></div>
-  <table><thead><tr><th>Course and assignments</th><th class="c">Credits</th><th>Completed</th><th>Grade</th></tr></thead><tbody>{''.join(rows)}</tbody></table>
-  <h2>Program requirements</h2><ul class="tasks reqs">{reqs}</ul>
-  <p class="muted src">Transcribed from the official program guide. The guide is authoritative.</p>
-</div>"""
-    write(f"programs/{p['slug']}/checklist/index.html", page(f"{p['name']} checklist", body, active="/programs/"))
 
 def build_catalog():
     codes = list(OrderedDict.fromkeys(list(COURSE_OCC) + list(LIST_ONLY)))
@@ -744,7 +758,7 @@ def build_admissions():
     <li><h3>Program qualifications</h3><p>Each program has its own prerequisite degree (see the table below). Th.D. applicants need a master's degree of at least 60 credit hours with 12 hours of biblical languages; if languages were not included, BS500/BS501 are completed within the doctoral program. The B.Div., M.Div., and all doctoral programs are restricted to male applicants.</p></li>
     <li><h3>Transcripts</h3><p>ATS and B.Div. applicants submit a copy of their high school diploma or GED. All other programs require official undergraduate and graduate transcripts sent directly to LCS by mail or eSCRIP-SAFE, in English. Non-English transcripts need a course-by-course credit evaluation (LCS recommends Validential).</p></li>
     <li><h3>Church membership</h3><p>Every student must be a communing member in good standing of a local church (or a member of presbytery without censure). There are no exceptions. Your pastor or a church officer sends a letter of recommendation directly to the seminary.</p></li>
-    <li id="mentor-req"><h3>Mentor candidate</h3><p>You propose a mentor for approval. Mentors fully subscribe to the Westminster Confession of Faith (1788 American Revision); subscribers to the Savoy Declaration or the 1689 London Baptist Confession may also be considered. They hold a theological master's degree for ATS students, an M.Div. or higher for BTS, B.Div., MBS, MTS, and M.Div. students, and a doctorate for Th.M. and doctoral students.</p></li>
+    <li><h3>Mentor candidate</h3><p>You propose a mentor for approval. Mentors fully subscribe to the Westminster Confession of Faith (1788 American Revision); subscribers to the Savoy Declaration or the 1689 London Baptist Confession may also be considered. They hold a theological master's degree for ATS students, an M.Div. or higher for BTS, B.Div., MBS, MTS, and M.Div. students, and a doctorate for Th.M. and doctoral students.</p></li>
     <li><h3>English proficiency</h3><p>Applicants whose native language is not English submit one of: EFSET 50 (minimum 70, free online), TOEFL iBT (minimum 95, school code B330), or IELTS (minimum 7.0), taken within two years.</p></li>
   </ol></section>
   <section id="by-program"><h2>Requirements by program</h2>
