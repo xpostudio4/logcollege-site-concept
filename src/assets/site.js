@@ -36,8 +36,16 @@
       g.classList.toggle('open', open);
       b.setAttribute('aria-expanded', open ? 'true' : 'false');
     });
-    g.addEventListener('mouseenter', function () { if (window.innerWidth > 980 && window.matchMedia('(hover: hover)').matches) { closeAll(g); g.classList.add('open'); b.setAttribute('aria-expanded', 'true'); } });
-    g.addEventListener('mouseleave', function () { if (window.innerWidth > 980 && window.matchMedia('(hover: hover)').matches) { g.classList.remove('open'); b.setAttribute('aria-expanded', 'false'); } });
+    var timer;
+    function hoverable() { return window.innerWidth > 980 && window.matchMedia('(hover: hover)').matches; }
+    g.addEventListener('mouseenter', function () {
+      if (!hoverable()) return;
+      clearTimeout(timer); closeAll(g); g.classList.add('open'); b.setAttribute('aria-expanded', 'true');
+    });
+    g.addEventListener('mouseleave', function () {
+      if (!hoverable()) return;
+      timer = setTimeout(function () { g.classList.remove('open'); b.setAttribute('aria-expanded', 'false'); }, 250);
+    });
   });
   document.addEventListener('click', function (e) { if (!e.target.closest('.nav-group')) closeAll(null); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeAll(null); });
